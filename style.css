@@ -1,0 +1,566 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Arial', sans-serif;
+}
+
+html, body, ul {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style: none;
+}
+
+/* Header and Background Image Styles */
+header {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url('home/nycBG.jpg') no-repeat top center / cover;
+}
+
+
+#logo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 80px; /* Adjust to match the desired size of your logo */
+    z-index: 1001;
+}
+
+nav {
+    background: transparent; /* No background for the nav element */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    padding: 10px 20px; /* Add some padding */
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* This will push the nav to the right */
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0; /* Resets default margin */
+    padding: 0; /* Resets default padding */
+}
+
+nav li {
+    margin-left: 20px; /* Space between menu items */
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px; /* Space around the links */
+    line-height: 80px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ccc; /* Lighter shade for hover effect */
+}
+
+
+
+#hero {
+    background: url('your-image-path.jpg') no-repeat center center / cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    height: 100vh;  
+    transition: opacity 0.5s ease-in-out;  
+}
+
+
+#hero h1 {
+    color: white; /* Text color */
+    font-size: 4rem; /* Adjust size as needed */
+    font-weight: bold; /* Bold text */
+    text-align: center;
+    text-shadow: 
+        1px 1px 0 #000,   /* Layered shadows for 3D effect */
+        2px 2px 0 #000,
+        3px 3px 0 #000,
+        4px 4px 0 #000,
+        5px 5px 0 #000,
+        6px 6px 0 #000;
+  transform: perspective(500px) rotateX(0deg) rotateY(0deg); /* Start straight */
+  transition: transform 0.5s ease; /* Smooth transition for hover */
+}
+
+#hero h1:hover {
+    transform: perspective(500px) rotateX(10deg) rotateY(20deg); /* Lean on hover */
+}
+
+
+#hero p {
+    color: white; /* Text color */
+    font-size: 1.5rem; /* Smaller size than the h1 */
+    font-weight: normal; /* Normal weight for the paragraph */
+    text-align: center;
+    text-shadow:
+        1px 1px 0 #000,   /* Simpler shadow for depth */
+        2px 2px 0 #000;
+    transform: perspective(500px) rotateX(0deg) rotateY(0deg); /* Start straight */
+    transition: transform 0.5s ease; /* Smooth transition for hover */
+}
+
+#hero p:hover {
+    transform: perspective(500px) rotateX(10deg) rotateY(20deg); /* Lean on hover */
+}
+
+
+/* Section heading styles */
+h2 {
+    font-size: 1.5rem;
+    color: #000;
+    margin: 2rem 0;
+}
+
+/* Footer styles */
+footer {
+    padding: 2rem;
+    background: #f4f4f4;
+    text-align: center;
+}
+
+footer p {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    color: #575757;
+}
+
+/* Navigation bar styles */
+nav {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+#nav-menu {
+    list-style: none;
+}
+
+#nav-menu > li {
+    display: inline-block;
+    position: relative;
+    padding: 10px 15px;
+}
+
+#nav-menu a {
+    text-decoration: none;
+    color: white;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    top: 100%; /* Dropdown appears directly below the nav item */
+    background-color: rgb(166, 160, 160, 0.5); /* Ensure dropdown is transparent */
+    min-width: 160px;
+    box-shadow: none; /* Remove any box shadow if not needed */
+    z-index: 1;
+}
+
+.dropdown-content a {
+  color: white; /* Text color */
+  padding: 22px 26px; /* Reduced padding */
+  text-decoration: none;
+  display: block;
+  font-size: 16px; /* Slightly smaller font size */
+  transition: background-color 0.3s ease; 
+  font-weight: 36px;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+/* Style adjustments for the dropdown trigger */
+.dropbtn {
+    padding: 8px 12px; /* Match padding to dropdown items */
+    font-size: 1em; /* Adjust as needed */
+}
+
+
+
+#services {
+    display: flex;
+    flex-direction: column; /* Stack the title and content vertically */
+    align-items: center; /* Align items to the start of the container */
+    padding: 20px 0; /* Add padding at the top and bottom */
+}
+
+#services p{
+  align-items: flex-start;
+  text-align: left;
+  padding-right: 800px;
+  
+}
+
+#services h2 {
+    text-align: center; /* Centers the title */
+    font-size: 2.5em; /* Adjust the size as needed */
+    color: #333; /* Base text color */
+    text-shadow: 
+        0 1px 0 #fafafa,
+        0 2px 0 #e3e3e3,
+        0 3px 0 #d1d1d1,
+        0 4px 0 #d6d6d6,
+        0 5px 0 #c2c2c2,
+        0 6px 1px rgba(0,0,0,.1),
+        0 0 5px rgba(0,0,0,.1),
+        0 1px 3px rgba(0,0,0,.3),
+        0 3px 5px rgba(0,0,0,.2),
+        0 5px 10px rgba(0,0,0,.25),
+        0 10px 10px rgba(0,0,0,.2),
+        0 20px 20px rgba(0,0,0,.15); /* Creates the 3D effect */
+    margin-bottom: 50px; /* Adds space below the title */
+}
+
+.services-content {
+    display: flex;
+    width: 100%; /* Full width to accommodate list and image */
+}
+
+#services ul {
+    list-style: none;
+    counter-reset: service-counter;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column; /* Stack list items vertically */
+    width: 60%;
+    padding-left: 50px; /* Removes padding from the left */
+    padding-right: 20px; /* Adds some padding to the right */
+}
+
+#services li {
+    counter-increment: service-counter; /* Increase counter number */
+    background: #f0f0f0; /* Default background, to be overridden */
+    margin-bottom: 10px; /* Space between list items */
+    width: auto; /* Adjust width as needed */
+    box-sizing: border-box; /* Include padding in the width */
+    position: relative; /* For positioning the number */
+    padding: 10px 20px; /* Increase left and right padding */
+    white-space: nowrap; /* Ensures text stays on one line */
+    overflow: hidden; /* Hide overflow */
+    text-overflow: ellipsis; /* Add ellipsis if text is too long */
+    max-width: max-content;
+    padding-left: 50px; /* Adds padding on the left */
+    padding-right: 50px; /* Adds padding on the right, creating space after the text */
+    margin-right: auto; /* Keeps the li items aligned to the left */
+}
+
+#services li::before {
+    content: counter(service-counter); /* Display the number */
+    position: absolute;
+    left: -30px; /* Position outside the list item */
+    top: 50%;
+    transform: translateY(-50%); /* Center vertically */
+    min-width: 25px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #333;
+    color: white;
+    margin-left: 20px; /* Spacing from the content */
+    left: -40px; /* Adjust as necessary to prevent clipping */
+    width: 30px; /* Ensures a circle */
+}
+
+/* Colorful backgrounds for list items */
+#services li:nth-child(1) { background-color: #add8e6; }
+#services li:nth-child(2) { background-color: #ffcccb; }
+#services li:nth-child(3) { background-color: #90ee90; }
+#services li:nth-child(4) { background-color: #fdfd96; }
+
+.service-image {
+  width: 400px; /* This is a percentage of the .services-content container */
+  height: auto;
+  flex-shrink: 0;
+}
+
+ .services-image-container {
+   margin-top: 0; /* Set to 0 or adjust as needed to move the image up */
+ }
+
+.service-image img, .services-image-container {
+
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); 
+}
+
+
+.services-section {
+  display: flex;
+  align-items: start; /* This aligns the children (list and image) at the top */
+}
+
+.services-description {
+    font-size: 20px; /* Adjust the size as needed */
+    font-weight: bold;
+    color: #000000; /* Your desired text color */
+    text-shadow: 1px 1px 0px #ffffff, 
+                 2px 2px 0px #dedede, 
+                 3px 3px 0px #c7c7c7; /* This creates a simple 3D effect */
+    text-align: left;
+    margin-bottom: 1em; /* Space below the sentence */
+
+}
+
+.service-list{
+  padding: 0;
+  margin: 0;
+}
+
+/* Assuming the container holding both the list and the image is a flex container */
+.services-container {
+  display: flex;
+  flex-direction: row; /* Line items horizontally */
+  align-items: start; /* Align items to the start of the cross axis */
+  /* add other styles as needed */
+}
+
+/* Target the image directly if it's not in a container */
+.services-image {
+  align-self: flex-start; /* Align this item at the start of the cross axis */
+  /* Adjust margin if needed */
+  margin-top: -20px; /* Example value, adjust as needed */
+}
+
+.service-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+#top-destinations {
+    text-align: center;
+    padding: 4rem 0;
+}
+
+.boroughs-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px; /* space between boxes */
+}
+
+.borough {
+    flex: 0 1 18%; /* Adjust the flex-basis to control the width of the boxes */
+    border: 1px solid #ddd; /* For visual separation */
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    position: relative;
+    overflow: hidden; /* Keep everything within the bounds of the box */
+    cursor: pointer; /* Indicates the entire box is clickable */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Zoom effect on hover for the whole box */
+.borough:hover {
+  transform: scale(1.05); /* Slightly increase the size of the box */
+  box-shadow: 0px 10px 20px rgba(0,0,0,0.2); /* Add shadow to lift the box up visually */
+  z-index: 10; /* Ensure it's above the other elements */
+}
+
+/* Ensuring the text is also affected by the hover */
+.borough:hover h3,
+.borough:hover .image-placeholder {
+  transform: scale(1.05); /* Apply the same scale to maintain consistent zoom effect */
+}
+
+/* Adjust image placeholder styles */
+.image-placeholder {
+  transition: transform 0.3s ease; /* Smooth transition for the image placeholder */
+}
+
+/* If using <a> tags as the container, remove the underline */
+.borough a {
+  text-decoration: none; /* Removes underline from links */
+  color: inherit; /* The color will be the same as the parent element */
+}
+
+.borough h3 {
+    margin-bottom: 1rem;
+}
+
+.image-placeholder {
+    width: 100%; /* Adjust as necessary */
+    height: 150px; /* Adjust as necessary */
+    background-color: #f3f3f3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    color: #666;
+    font-style: italic;
+}
+
+.borough img {
+    width: 100%; /* Adjust as necessary */
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+
+
+#testimonials {
+    padding: 4rem 0;
+    background: #f9f9f9;
+}
+
+#testimonials h2 {
+    font-size: 2.5rem; /* Adjust to your preference */
+    color: black; /* Text color */
+    text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.6); /* Black shadow for 3D effect */
+    text-align: center; /* Center the text */
+    margin: 20px 0; /* Add some top and bottom margin */
+}
+
+#testimonials h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.testimonials-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.testimonials-column {
+    width: 48%; /* Adjust based on your layout */
+}
+
+.testimonial {
+    border-radius: 10px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Align items vertically */
+    align-items: center; /* Center items horizontally */
+    text-align: center; /* Center text */
+    padding: 20px;
+    background: linear-gradient(to top right, #d1e7dd, #ffffff); /* Light green to white */
+}
+
+/* Left Column Testimonials */
+.left-column .testimonial:nth-child(1) {
+    background: linear-gradient(to top right, #228B22, #ffffff); /* Green to white */
+}
+
+.left-column .testimonial:nth-child(2) {
+    background: linear-gradient(to top right, #B22222, #ffffff); /* Red to white */
+}
+
+.left-column .testimonial:nth-child(3) {
+    background: linear-gradient(to top right, #FFD700, #ffffff); /* Yellow to white */
+}
+
+/* Right Column Testimonials */
+.right-column .testimonial:nth-child(1) {
+    background: linear-gradient(to top right, #6a0dad, #ffffff); /* Purple to white */
+}
+
+.right-column .testimonial:nth-child(2) {
+    background: linear-gradient(to top right, #0000ff, #ffffff); /* Blue to white */
+}
+
+.right-column .testimonial:nth-child(3) {
+    background: linear-gradient(to top right, #ffc0cb, #ffffff); /* Pink to white */
+}
+
+
+  .testimonial-image-box {
+      width: 120px; /* Size of the image container */
+      height: 120px; /* Size of the image container */
+      margin: 20px auto; /* Centers the image box */
+      border-radius: 50%; /* Makes the box circular */
+      background: white; /* White border background */
+      padding: 5px; /* Creates a space for the white border */
+      box-sizing: border-box; /* Includes padding in the width and height */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      overflow: hidden;
+  }
+
+  .testimonial-image {
+      width: 110px; /* The actual image size, smaller than the container */
+      height: 110px; /* The actual image size, smaller than the container */
+      border-radius: 50%; /* Makes the image circular */
+      object-fit: cover; /* Ensures the image covers the area */
+      display: block;
+  }
+
+
+
+.testimonial-name {
+    font-size: 1.2em;
+    font-family: 'Helvetica', sans-serif; /* Replace with your preferred font */
+    color: #333;
+    padding: 5px 0;
+}
+
+.testimonial-text-box {
+    width: 100%; /* Make text box take full width */
+}
+
+.testimonial-text {
+    font-family: 'Helvetica', sans-serif; /* Replace with your preferred font */
+    font-size: 1em;
+    line-height: 1.5;
+    color: #333;
+}
+
+#aboutUS, #destinations, #home{
+  font-size: 32;
+}
+
+#top-destinations h2 {
+    color: black; /* Text color */
+    font-size: 3rem; /* Size of the text */
+    font-weight: bold; /* Weight of the font */
+    text-align: center; /* Center the text */
+    text-shadow: 
+        1px 1px 0px #777, /* Gray shadow for depth */
+        2px 2px 0px #777,
+        3px 3px 0px #777,
+        4px 4px 0px #777,
+        5px 5px 0px #777;
+    transform: translateZ(20px); /* Gives a sense of lifting off the page */
+}
+
+/* Optional: hover effect to reset transform for interactivity */
+#top-destinations h2:hover {
+    transform: translateZ(0px);
+}

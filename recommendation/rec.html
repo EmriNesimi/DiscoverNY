@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DiscoverNY - Recommendations</title>
+  <link rel="stylesheet" href="rec.css">
+</head>
+
+<body>
+  <div class="hero-section">
+    <header>
+      <div class="container">
+        <div class="hero-overlay"></div>
+        <nav class="navbar">
+          <img src="../home/Logo.png" alt="DiscoverNY Logo" class="logo">
+          <div class="menu">
+            <a href="../index.html">Home</a>
+            <div class="dropdown">
+              <a href="#destinations" class="dropbtn">Destinations</a>
+              <div class="dropdown-content">
+                <a href="../manhattan/manhattan.html">Manhattan</a>
+                <a href="../brooklyn/brooklyn.html">Brooklyn</a>
+                <a href="../queens/queens.html">Queens</a>
+                <a href="../bronx/bronx.html">The Bronx</a>
+                <a href="../statenisland/si.html">Staten Island</a>
+              </div>
+            </div>
+          </div>
+        </nav>
+        <div class="hero-content">
+          <h1>Welcome to NY</h1>
+          <p>The Big Apple</p>
+        </div>
+      </div>
+  </div>
+  </header>
+
+
+  <!-- Recommendation Section -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <h3 class="animate-charcter"> Get Personalized Recommendations </h3>
+      </div>
+    </div>
+    <form id="recommendation-form">
+      <!-- Interest Selection -->
+      <div class="form-group">
+        <label for="interest">What are you interested in?</label>
+        <select id="interest" name="interest">
+          <option value="" disabled selected>-</option>
+          <option value="PlacesToStay">Places to Stay</option>
+          <option value="restaurants">Food & Drinks</option>
+          <option value="ThingsToDo">Things to Do</option>
+          <option value="Events">Events</option>
+        </select>
+      </div>
+
+      <!-- Arrival Date Input -->
+      <div class="form-group">
+        <label for="arrival-date">When do you arrive in NY?</label>
+        <input type="date" id="arrival-date" name="arrival-date">
+      </div>
+
+      <!-- Departure Date Input -->
+      <div class="form-group">
+        <label for="departure-date">When do you leave NY?</label>
+        <input type="date" id="departure-date" name="departure-date">
+      </div>
+
+      <div class="form-group">
+        <label for="borough">Which borough are you at?</label>
+        <select id="borough" name="borough">
+          <option value="" disabled selected>-</option>
+          <option value="manhattan">Manhattan</option>
+          <option value="brooklyn">Brooklyn</option>
+          <option value="queens">Queens</option>
+          <option value="bronx">The Bronx</option>
+          <option value="statenisland">Staten Island</option>
+        </select>
+      </div>
+
+      <div class="form-group" id="region-group" style="display: none;">
+        <label for="region">Which region are you at?</label>
+        <select id="region" name="region"></select>
+      </div>
+
+
+
+      <button id="get-recommendations-btn" type="button" class="btn">Get Recommendations</button>
+
+    </form>
+  </div>
+
+
+  <!-- Overlay and Popup Container (hidden by default) -->
+  <div id="recommendations-overlay" class="overlay" style="display: none;">
+    <div id="recommendations-popup" class="popup">
+      <h2>Recommendations for You</h2>
+      <div id="recommendations-content">
+        <!-- Recommendations will be inserted here -->
+      </div>
+      <button onclick="closePopup()">Close</button>
+    </div>
+  </div>
+
+  <script src="rec.js"></script>
+</body>
+
+</html>

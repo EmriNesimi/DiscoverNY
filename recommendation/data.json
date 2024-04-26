@@ -1,0 +1,5738 @@
+{
+  "Restaurants": [
+    {
+      "RestaurantID": 1,
+      "Name": "Inwood Bar & Grill",
+      "Address": "4892 Broadway",
+      "CuisineType": "Hip American sports pub and beer garden",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "Rating": 4.9,
+      "Link": "https://inwoodbarandgrill.com/"
+    },
+    {
+      "RestaurantID": 2,
+      "Name": "The Uptown Garrison",
+      "Address": "821 W 181st St",
+      "CuisineType": "Cozy bar for cocktails, pizza & burgers",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "Rating": 4.5,
+      "Link": "https://www.theuptowngarrison.com/"
+    },
+    {
+      "RestaurantID": 3,
+      "Name": "Inwood Farm",
+      "Address": "600 W 218th St",
+      "CuisineType": "Casual American eatery & coffee bar",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "Rating": 4.4,
+      "Link": "https://www.yelp.com/biz/inwood-farm-new-york"
+    },
+    {
+      "RestaurantID": 4,
+      "Name": "Napa in the Heights Seafood & Wine Bar",
+      "Address": "4927 Broadway",
+      "CuisineType": "Seafood",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "Rating": 4.8,
+      "Link": "https://www.napaintheheights.com/"
+    },
+    {
+      "RestaurantID": 5,
+      "Name": "Malecon",
+      "Address": "4141 Broadway",
+      "CuisineType": "Dominican",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "Rating": 4.4,
+      "Link": "https://maleconnyc.com/"
+    },
+    {
+      "RestaurantID": 6,
+      "Name": "Le Chéile",
+      "Address": "839 W 181st St",
+      "CuisineType": "Quaint, Irish pub & restaurant",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "Rating": 4.4,
+      "Link": "https://www.yelp.com/biz/le-ch%C3%A9ile-new-york-2"
+    },
+    {
+      "RestaurantID": 7,
+      "Name": "Saggio",
+      "Address": "827 W 181st St",
+      "CuisineType": "Southern Italian",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "Rating": 4.4,
+      "Link": "https://www.saggionyc.com/"
+    },
+    {
+      "RestaurantID": 8,
+      "Name": "Patacon Pisao Truck",
+      "Address": "431 W 202nd St",
+      "CuisineType": "Food truck Venezuelan sandwiches",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "Rating": 4.7,
+      "Link": "https://www.pataconpisaonyc.com/"
+    },
+    {
+      "RestaurantID": 9,
+      "Name": "Tampopo Ramen",
+      "Address": "1 Bennett Ave",
+      "CuisineType": "Tokyo-style noodles",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "Rating": 4.5,
+      "Link": "https://www.tampoporamennyc.com/"
+    },
+    {
+      "RestaurantID": 10,
+      "Name": "Bocaditos Bistro",
+      "Address": "4863 Broadway",
+      "CuisineType": "Bistro",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "Rating": 4.2,
+      "Link": "https://www.yelp.com/biz/bocaditos-bistro-new-york"
+    },
+    {
+      "RestaurantID": 11,
+      "Name": "Tampopo Kitchen",
+      "Address": "805 W 187th St",
+      "CuisineType": "Japanese",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "Rating": 4.4,
+      "Link": "https://www.tampopokitchen.com/"
+    },
+    {
+      "RestaurantID": 12,
+      "Name": "El Tanque Trattoria Bar",
+      "Address": "101 Sherman Ave",
+      "CuisineType": "Pizza",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "Rating": 4.9,
+      "Link": "https://eltanquetrattoria.com/"
+    },
+    {
+          "RestaurantID": 13,
+          "Name": "Enoteca Harlem",
+          "Address": "2220 Frederick Douglass Blvd",
+          "CuisineType": "Spanish",
+          "Borough": "Manhattan",
+          "Region": "Central Harlem",
+          "Rating": 4.8,
+          "Link": "https://www.enotecaharlem.com/"
+        },
+        {
+          "RestaurantID": 14,
+          "Name": "The Edge Harlem",
+          "Address": "101 Edgecombe Ave",
+          "CuisineType": "Caribbean",
+          "Borough": "Manhattan",
+          "Region": "Central Harlem",
+          "Rating": 4.5,
+          "Link": "https://www.theedgeharlem.com/"
+        },
+        {
+          "RestaurantID": 15,
+          "Name": "Corner Social",
+          "Address": "321 Malcolm X Blvd",
+          "CuisineType": "American",
+          "Borough": "Manhattan",
+          "Region": "Central Harlem",
+          "Rating": 4.2,
+          "Link": "https://cornersocialnyc.com/"
+        },
+        {
+          "RestaurantID": 16,
+          "Name": "Archer & Goat",
+          "Address": "187 Malcolm X Blvd",
+          "CuisineType": "American",
+          "Borough": "Manhattan",
+          "Region": "Central Harlem",
+          "Rating": 4.5,
+          "Link": "https://www.archerandgoat.com/"
+        },
+        {
+          "RestaurantID": 17,
+          "Name": "Jacob Soul Food Restaurant",
+          "Address": "373 Malcolm X Blvd",
+          "CuisineType": "Soul",
+          "Borough": "Manhattan",
+          "Region": "Central Harlem",
+          "Rating": 4.4,
+          "Link": "https://www.jacobsoulfoodrestaurant.com/"
+        },
+        {
+          "RestaurantID": 18,
+          "Name": "Ponty Bistro",
+          "Address": "2375 Adam Clayton Powell Jr Blvd",
+          "CuisineType": "West African",
+          "Borough": "Manhattan",
+          "Region": "Central Harlem",
+          "Rating": 4.4,
+          "Link": "https://www.pontybistro.com/"
+        },
+        {
+          "RestaurantID": 19,
+          "Name": "Vinatería",
+          "Address": "2211 Frederick Douglass Blvd",
+          "CuisineType": "Restaurant",
+          "Borough": "Manhattan",
+          "Region": "Central Harlem",
+          "Rating": 4.5,
+          "Link": "https://www.vinateria.com/"
+        },
+        {
+          "RestaurantID": 20,
+          "Name": "Red Rooster Harlem",
+          "Address": "310 Lenox Ave",
+          "CuisineType": "Restaurant",
+          "Borough": "Manhattan",
+          "Region": "Central Harlem",
+          "Rating": 4.4,
+          "Link": "https://www.redroosterharlem.com/"
+        },
+        {
+          "RestaurantID": 21,
+          "Name": "Amy Ruths",
+          "Address": "113 W 116th St",
+          "CuisineType": "Soul",
+          "Borough": "Manhattan",
+          "Region": "Central Harlem",
+          "Rating": 4.3,
+          "Link": "https://www.amyruths.com/"
+        },
+        {
+          "RestaurantID": 22,
+          "Name": "Renaissance Harlem",
+          "Address": "2245 Adam Clayton Powell Jr Blvd",
+          "CuisineType": "New American",
+          "Borough": "Manhattan",
+          "Region": "Central Harlem",
+          "Rating": 4.3,
+          "Link": "https://www.renaissanceharlem.com/"
+        },
+            {
+              "RestaurantID": 25,
+              "Name": "Amor Cubano",
+              "Address": "2018 3rd Ave",
+              "CuisineType": "Cuban food",
+              "Borough": "Manhattan",
+              "Region": "East Harlem",
+              "Rating": 4.4,
+              "Link": "https://www.amorcubanonyc.com/"
+            },
+            {
+              "RestaurantID": 26,
+              "Name": "Amuse Bouche Bistro",
+              "Address": "1590 Park Ave",
+              "CuisineType": "Bistro",
+              "Borough": "Manhattan",
+              "Region": "East Harlem",
+              "Rating": 4.9,
+              "Link": "https://www.amusebouchebistro.com/"
+            },
+            {
+              "RestaurantID": 27,
+              "Name": "Ricardo Steakhouse",
+              "Address": "2145 2nd Ave",
+              "CuisineType": "Lively surf and turf place with DJs",
+              "Borough": "Manhattan",
+              "Region": "East Harlem",
+              "Rating": 4.5,
+              "Link": "https://www.ricardosteakhouse.com/"
+            },
+            {
+              "RestaurantID": 28,
+              "Name": "El Kallejon",
+              "Address": "209 E 117th St",
+              "CuisineType": "Snug haunt for Mexican tapas & cocktails",
+              "Borough": "Manhattan",
+              "Region": "East Harlem",
+              "Rating": 4.6,
+              "Link": "https://www.elkallejon.com/"
+            },
+            {
+              "RestaurantID": 29,
+              "Name": "La Chula",
+              "Address": "137 E 116th St",
+              "CuisineType": "Street-style Mexican tacos & ceviche",
+              "Borough": "Manhattan",
+              "Region": "East Harlem",
+              "Rating": 4.4,
+              "Link": "https://www.lachulanyc.com/"
+            },
+            {
+              "RestaurantID": 30,
+              "Name": "Jacobs Pickles",
+              "Address": "509 Amsterdam Ave",
+              "CuisineType": "Southern dishes, house pickles, and beer",
+              "Borough": "Manhattan",
+              "Region": "Upper West Side",
+              "Rating": 4.6,
+              "Link": "https://www.jacobspickles.com/"
+            },
+            {
+              "RestaurantID": 31,
+              "Name": "Osteria Cotta",
+              "Address": "513 Columbus Ave",
+              "CuisineType": "Italian spot for small plates & pizza",
+              "Borough": "Manhattan",
+              "Region": "Upper West Side",
+              "Rating": 4.4,
+              "Link": "https://www.osteriacotta.com/"
+            },
+            {
+              "RestaurantID": 32,
+              "Name": "The Milling Room",
+              "Address": "446 Columbus Ave",
+              "CuisineType": "Modern American fare in a big space",
+              "Borough": "Manhattan",
+              "Region": "Upper West Side",
+              "Rating": 4.5,
+              "Link": "https://www.themillingroom.com/"
+            },
+            {
+              "RestaurantID": 33,
+              "Name": "Miriam",
+              "Address": "300 Amsterdam Ave",
+              "CuisineType": "Roomy Mediterranean spot with a terrace",
+              "Borough": "Manhattan",
+              "Region": "Upper West Side",
+              "Rating": 4.4,
+              "Link": "https://www.miriamnyc.com/"
+            },
+            {
+              "RestaurantID": 34,
+              "Name": "Tasca NYC",
+              "Address": "505 Columbus Ave",
+              "CuisineType": "Posh tavern with a Latin-inspired menu",
+              "Borough": "Manhattan",
+              "Region": "Upper West Side",
+              "Rating": 4.6,
+              "Link": "https://www.tascanyc.com/"
+            },
+            {
+              "RestaurantID": 35,
+              "Name": "Chama Mama UWS",
+              "Address": "373 Amsterdam Ave",
+              "CuisineType": "Trendy Georgian eatery with organic wine",
+              "Borough": "Manhattan",
+              "Region": "Upper West Side",
+              "Rating": 4.6,
+              "Link": "https://www.chamamama.com/"
+            },
+            {
+              "RestaurantID": 36,
+              "Name": "Carmines Italian Restaurant - Upper West Side",
+              "Address": "2450 Broadway",
+              "CuisineType": "Family-friendly Italian option",
+              "Borough": "Manhattan",
+              "Region": "Upper West Side",
+              "Rating": 4.4,
+              "Link": "https://www.carminesnyc.com/"
+            },
+            {
+              "RestaurantID": 37,
+              "Name": "Maison Pickle",
+              "Address": "2315 Broadway",
+              "CuisineType": "Cafe for French dip sandwiches and steaks",
+              "Borough": "Manhattan",
+              "Region": "Upper West Side",
+              "Rating": 4.5,
+              "Link": "https://www.maisonpickle.com/"
+            },
+            {
+              "RestaurantID": 38,
+              "Name": "The Consulate UWS",
+              "Address": "519 Columbus Ave",
+              "CuisineType": "Global fare & cocktails in a warm venue",
+              "Borough": "Manhattan",
+              "Region": "Upper West Side",
+              "Rating": 4.5,
+              "Link": "https://www.theconsulate.nyc/"
+            },
+            {
+              "RestaurantID": 39,
+              "Name": "Boqueria UES",
+              "Address": "1460 2nd Ave",
+              "CuisineType": "Modern Barcelona-style tapas",
+              "Borough": "Manhattan",
+              "Region": "Upper East Side",
+              "Rating": 4.5,
+              "Link": "https://www.boquerianyc.com/"
+            },
+            {
+              "RestaurantID": 40,
+              "Name": "Uva",
+              "Address": "1486 2nd Ave",
+              "CuisineType": "Buzzy Italian wine bar with small plates",
+              "Borough": "Manhattan",
+              "Region": "Upper East Side",
+              "Rating": 4.4,
+              "Link": "https://www.uvanyc.com/"
+            },
+            {
+              "RestaurantID": 41,
+              "Name": "BLUE MEZZE BAR",
+              "Address": "1480 2nd Ave",
+              "CuisineType": "Mediterranean",
+              "Borough": "Manhattan",
+              "Region": "Upper East Side",
+              "Rating": 4.7,
+              "Link": "https://www.bluemezzebar.com/"
+            },
+            {
+              "RestaurantID": 42,
+              "Name": "Flex Mussels",
+              "Address": "1431 3rd Ave",
+              "CuisineType": "Bustling spot serving mussels & fries",
+              "Borough": "Manhattan",
+              "Region": "Upper East Side",
+              "Rating": 4.5,
+              "Link": "https://www.flexmussels.com/"
+            },
+            {
+              "RestaurantID": 43,
+              "Name": "L Osteria",
+              "Address": "1219 Lexington Ave",
+              "CuisineType": "Italian",
+              "Borough": "Manhattan",
+              "Region": "Upper East Side",
+              "Rating": 4.7,
+              "Link": "https://www.losterianyc.com/"
+            },
+            {
+              "RestaurantID": 44,
+              "Name": "Tonys Di Napoli",
+              "Address": "1081 3rd Ave",
+              "CuisineType": "Family-style red-sauce Italian fare",
+              "Borough": "Manhattan",
+              "Region": "Upper East Side",
+              "Rating": 4.5,
+              "Link": "https://www.tonysdinapoli.com/"
+            },
+            {
+              "RestaurantID": 45,
+              "Name": "Water & Wheat",
+              "Address": "1379 3rd Ave",
+              "CuisineType": "Italian",
+              "Borough": "Manhattan",
+              "Region": "Upper East Side",
+              "Rating": 4.8,
+              "Link": "https://www.waterandwheat.com/"
+            },
+            {
+              "RestaurantID": 46,
+              "Name": "Botte UES",
+              "Address": "1606 1st Ave",
+              "CuisineType": "Italian",
+              "Borough": "Manhattan",
+              "Region": "Upper East Side",
+              "Rating": 4.4,
+              "Link": "https://www.botteues.com/"
+            },
+            {
+              "RestaurantID": 47,
+              "Name": "Sixty Three Clinton",
+              "Address": "63 Clinton St",
+              "CuisineType": "New American",
+              "Borough": "Manhattan",
+              "Region": "Chelsea and Clinton",
+              "Rating": 4.8,
+              "Link": "https://www.sixtythreeclinton.com/"
+            },
+            {
+              "RestaurantID": 48,
+              "Name": "Jacks Wife Freda",
+              "Address": "116 8th Ave",
+              "CuisineType": "Relaxed spot for Mediterranean eats",
+              "Borough": "Manhattan",
+              "Region": "Chelsea and Clinton",
+              "Rating": 4.4,
+              "Link": "https://www.jackswifefreda.com/"
+            },
+            {
+              "RestaurantID": 49,
+              "Name": "Cull & Pistol",
+              "Address": "75 9th Ave",
+              "CuisineType": "Seafood option from lobster specialists",
+              "Borough": "Manhattan",
+              "Region": "Chelsea and Clinton",
+              "Rating": 4.6,
+              "Link": "https://www.cullandpistol.com/"
+            },
+            {
+              "RestaurantID": 50,
+              "Name": "Miznon",
+              "Address": "435 W 15th St",
+              "CuisineType": "Modern Mediterranean pita spot",
+              "Borough": "Manhattan",
+              "Region": "Chelsea and Clinton",
+              "Rating": 4.5,
+              "Link": "https://www.miznonnyc.com/"
+            },
+            {
+              "RestaurantID": 51,
+              "Name": "Pepe Giallo",
+              "Address": "195 10th Ave",
+              "CuisineType": "Budget-priced Italian fare",
+              "Borough": "Manhattan",
+              "Region": "Chelsea and Clinton",
+              "Rating": 4.5,
+              "Link": "https://www.pepegiallo.com/"
+            },
+            {
+              "RestaurantID": 52,
+              "Name": "Ci Siamo",
+              "Address": "440 W 33rd St Suite #100",
+              "CuisineType": "Upscale fare in a chic Italian eatery",
+              "Borough": "Manhattan",
+              "Region": "Chelsea and Clinton",
+              "Rating": 4.6,
+              "Link": "https://www.cisiamonyc.com/"
+            },
+            {
+              "RestaurantID": 53,
+              "Name": "Bocca di Bacco",
+              "Address": "169 9th Ave",
+              "CuisineType": "Upscale Italian fare in stylish digs",
+              "Borough": "Manhattan",
+              "Region": "Chelsea and Clinton",
+              "Rating": 4.2,
+              "Link": "https://www.boccadibacconyc.com/"
+            },
+            {
+              "RestaurantID": 54,
+              "Name": "Isabelles Osteria",
+              "Address": "245 Park Ave S",
+              "CuisineType": "Vibrant spot for Italian fare and drinks",
+              "Borough": "Manhattan",
+              "Region": "Gramercy Park and Murray Hill",
+              "Rating": 4.3,
+              "Link": "https://www.isabellesosteria.com/"
+            },
+            {
+              "RestaurantID": 55,
+              "Name": "Norma",
+              "Address": "438 3rd Ave",
+              "CuisineType": "Cozy place for pizza, pasta, and antipasti",
+              "Borough": "Manhattan",
+              "Region": "Gramercy Park and Murray Hill",
+              "Rating": 4.7,
+              "Link": "https://www.normanyc.com/"
+            },
+            {
+              "RestaurantID": 56,
+              "Name": "The Flatiron Room Murray Hill",
+              "Address": "9 E 37th St",
+              "CuisineType": "Hangout for American food, spirits, and jazz",
+              "Borough": "Manhattan",
+              "Region": "Gramercy Park and Murray Hill",
+              "Rating": 4.5,
+              "Link": "https://www.theflatironroom.com/"
+            },
+            {
+              "RestaurantID": 57,
+              "Name": "Malii Gramercy",
+              "Address": "391 2nd Ave",
+              "CuisineType": "Thai",
+              "Borough": "Manhattan",
+              "Region": "Gramercy Park and Murray Hill",
+              "Rating": 4.9,
+              "Link": null
+            },
+            {
+              "RestaurantID": 58,
+              "Name": "Gramercy Tavern",
+              "Address": "42 E 20th St",
+              "CuisineType": "My favorite restaurant in NYC. Consistently and for a very long time.",
+              "Borough": "Manhattan",
+              "Region": "Gramercy Park and Murray Hill",
+              "Rating": 4.6,
+              "Link": "https://www.gramercytavern.com/"
+            },
+            {
+              "RestaurantID": 59,
+              "Name": "Boucherie Union Square",
+              "Address": "225 Park Ave S",
+              "CuisineType": "Definitely on my list of favorite restaurants in NYC!",
+              "Borough": "Manhattan",
+              "Region": "Gramercy Park and Murray Hill",
+              "Rating": 4.6,
+              "Link": "https://www.boucherie.nyc/"
+            },
+            {
+              "RestaurantID": 60,
+              "Name": "Momosan Ramen & Sake",
+              "Address": "342 Lexington Ave",
+              "CuisineType": "Japanese noodles and plates by Morimoto",
+              "Borough": "Manhattan",
+              "Region": "Gramercy Park and Murray Hill",
+              "Rating": 4.5,
+              "Link": "https://www.momosanramen.com/"
+            },
+            {
+              "RestaurantID": 61,
+              "Name": "Osteria Carlina West Village",
+              "Address": "455 Hudson St",
+              "CuisineType": "Intimate eatery for Italian provisions",
+              "Borough": "Manhattan",
+              "Region": "Greenwich Village and Soho",
+              "Rating": 4.8,
+              "Link": "https://www.osteriacarlinawestvillage.com/"
+            },
+            {
+              "RestaurantID": 62,
+              "Name": "Shuka",
+              "Address": "38 MacDougal St",
+              "CuisineType": "Mediterranean food, wine, and cocktails",
+              "Borough": "Manhattan",
+              "Region": "Greenwich Village and Soho",
+              "Rating": 4.5,
+              "Link": "https://www.shukanewyork.com/"
+            },
+            {
+              "RestaurantID": 63,
+              "Name": "Montes Trattoria",
+              "Address": "97 MacDougal St",
+              "CuisineType": "Old-school Italian eatery",
+              "Borough": "Manhattan",
+              "Region": "Greenwich Village and Soho",
+              "Rating": 4.4,
+              "Link": "https://www.montestrattorianyc.com/"
+            },
+            {
+              "RestaurantID": 64,
+              "Name": "Tartine",
+              "Address": "253 W 11th St",
+              "CuisineType": "Pocket-size French bistro",
+              "Borough": "Manhattan",
+              "Region": "Greenwich Village and Soho",
+              "Rating": 4.4,
+              "Link": "https://www.tartine.nyc/"
+            },
+            {
+              "RestaurantID": 65,
+              "Name": "Little Owl",
+              "Address": "90 Bedford St",
+              "CuisineType": "Cozy corner spot with Mediterranean fare",
+              "Borough": "Manhattan",
+              "Region": "Greenwich Village and Soho",
+              "Rating": 4.5,
+              "Link": "https://www.thelittleowlnyc.com/"
+            },
+            {
+              "RestaurantID": 66,
+              "Name": "Minetta Tavern",
+              "Address": "113 MacDougal St",
+              "CuisineType": "Reinvented old-school tavern",
+              "Borough": "Manhattan",
+              "Region": "Greenwich Village and Soho",
+              "Rating": 4.5,
+              "Link": "https://www.minettatavernny.com/"
+            },
+            {
+              "RestaurantID": 67,
+              "Name": "Boucherie West Village",
+              "Address": "99 7th Ave S",
+              "CuisineType": "Bistro focused on steaks and cocktails",
+              "Borough": "Manhattan",
+              "Region": "Greenwich Village and Soho",
+              "Rating": 4.6,
+              "Link": "https://www.boucherie.nyc/west-village"
+            },
+            {
+              "RestaurantID": 68,
+              "Name": "OLIO E PIÙ",
+              "Address": "3 Greenwich Ave",
+              "CuisineType": "Neapolitan pizza & pasta",
+              "Borough": "Manhattan",
+              "Region": "Greenwich Village and Soho",
+              "Rating": 4.6,
+              "Link": "https://www.olioepiu.com/"
+            },
+            {
+              "RestaurantID": 69,
+              "Name": "Carbone New York",
+              "Address": "181 Thompson St",
+              "CuisineType": "Glam Italian eatery with retro feel",
+              "Borough": "Manhattan",
+              "Region": "Greenwich Village and Soho",
+              "Rating": 4.3,
+              "Link": "https://carbonenewyork.com/"
+            },
+            {
+              "RestaurantID": 70,
+              "Name": "Sixty Three Clinton",
+              "Address": "63 Clinton St",
+              "CuisineType": "Dine-in, no takeout, no delivery",
+              "Borough": "Manhattan",
+              "Region": "Union Square and Lower East Side",
+              "Rating": 4.8,
+              "Link": "https://www.sixtythreeclinton.com/"
+            },
+            {
+              "RestaurantID": 71,
+              "Name": "Essex",
+              "Address": "124 Rivington St",
+              "CuisineType": "New American brunch & happy hour spot",
+              "Borough": "Manhattan",
+              "Region": "Union Square and Lower East Side",
+              "Rating": 4.8,
+              "Link": "https://www.essexnyc.com/"
+            },
+            {
+              "RestaurantID": 72,
+              "Name": "Mictlan México",
+              "Address": "17 Orchard St",
+              "CuisineType": "Bright eatery serving Mexican fare",
+              "Borough": "Manhattan",
+              "Region": "Union Square and Lower East Side",
+              "Rating": 4.5,
+              "Link": "https://www.mictlanmexico.com/"
+            },
+            {
+              "RestaurantID": 73,
+              "Name": "Pig and Khao",
+              "Address": "68 Clinton St",
+              "CuisineType": "Trendy spot for Southeast Asian fare",
+              "Borough": "Manhattan",
+              "Region": "Union Square and Lower East Side",
+              "Rating": 4.3,
+              "Link": "https://www.pigandkhao.com/"
+            },
+            {
+              "RestaurantID": 74,
+              "Name": "Set L.E.S.",
+              "Address": "127 Ludlow St",
+              "CuisineType": "Gastropub",
+              "Borough": "Manhattan",
+              "Region": "Union Square and Lower East Side",
+              "Rating": 4.5,
+              "Link": null
+            },
+            {
+              "RestaurantID": 75,
+              "Name": "La Contenta",
+              "Address": "102 Norfolk St",
+              "CuisineType": "Chill place for Mexican food & mezcals",
+              "Borough": "Manhattan",
+              "Region": "Union Square and Lower East Side",
+              "Rating": 4.7,
+              "Link": "https://www.lacontentanyc.com/"
+            },
+            {
+              "RestaurantID": 76,
+              "Name": "1803 NYC",
+              "Address": "82 Reade St",
+              "CuisineType": "Elegant New Orleans-style eatery",
+              "Borough": "Manhattan",
+              "Region": "Lower Manhattan",
+              "Rating": 4.5,
+              "Link": "https://www.1803nyc.com/"
+            },
+            {
+              "RestaurantID": 77,
+              "Name": "Russ & Daughters Cafe",
+              "Address": "127 Orchard St",
+              "CuisineType": "Retro-style spot for Jewish comfort food",
+              "Borough": "Manhattan",
+              "Region": "Lower Manhattan",
+              "Rating": 4.6,
+              "Link": "https://www.russanddaughterscafe.com/"
+            },
+            {
+              "RestaurantID": 78,
+              "Name": "Manhatta",
+              "Address": "28 Liberty St 60th floor",
+              "CuisineType": "High-end New American meals on 60th floor",
+              "Borough": "Manhattan",
+              "Region": "Lower Manhattan",
+              "Rating": 4.7,
+              "Link": "https://www.manhattarestaurantnyc.com/"
+            },
+            {
+              "RestaurantID": 79,
+              "Name": "Mezze on the River",
+              "Address": "375 S End Ave",
+              "CuisineType": "Mediterranean eatery with river views",
+              "Borough": "Manhattan",
+              "Region": "Lower Manhattan",
+              "Rating": 4.3,
+              "Link": "https://www.mezzeontheriver.com/"
+            },
+            {
+              "RestaurantID": 80,
+              "Name": "Schilling Restaurant & Bar",
+              "Address": "109 Washington St",
+              "CuisineType": "Austrian fare with a Mediterranean touch",
+              "Borough": "Manhattan",
+              "Region": "Lower Manhattan",
+              "Rating": 4.4,
+              "Link": "https://www.schillingnyc.com/"
+            },
+            {
+              "RestaurantID": 81,
+              "Name": "Byrnes Tavern",
+              "Address": "3301 Richmond St",
+              "CuisineType": "Convivial bar with wings & seafood",
+              "Borough": "StatenIsland",
+              "Region": "Port Richmond",
+              "Rating": 4.6,
+              "Link": "https://www.byrnestavern.com/"
+            },
+            {
+              "RestaurantID": 82,
+              "Name": "La Roma",
+              "Address": "2620 E Allegheny Ave",
+              "CuisineType": "Grill",
+              "Borough": "StatenIsland",
+              "Region": "Port Richmond",
+              "Rating": 4.8,
+              "Link": "https://www.laroma.com/"
+            },
+            {
+              "RestaurantID": 83,
+              "Name": "Gaul & Co. Malt House Port Richmond",
+              "Address": "2619 E Indiana Ave",
+              "CuisineType": "Funky site for pub grub & craft beer",
+              "Borough": "StatenIsland",
+              "Region": "Port Richmond",
+              "Rating": 4.6,
+              "Link": "https://www.gaulcomalthouseportrichmond.com/"
+            },
+            {
+              "RestaurantID": 84,
+              "Name": "Nemi",
+              "Address": "2636 Ann St",
+              "CuisineType": "Classic bistro with modern Mexican fare",
+              "Borough": "StatenIsland",
+              "Region": "Port Richmond",
+              "Rating": 4.7,
+              "Link": "https://www.nemi.com/"
+            },
+            {
+              "RestaurantID": 85,
+              "Name": "The Dinner House",
+              "Address": "2706 E Allegheny Ave",
+              "CuisineType": "Polish",
+              "Borough": "StatenIsland",
+              "Region": "Port Richmond",
+              "Rating": 4.7,
+              "Link": "https://www.thedinnerhouse.com/"
+            },
+            {
+              "RestaurantID": 86,
+              "Name": "South Fin Grill",
+              "Address": "300 Father Capodanno Blvd",
+              "CuisineType": "Grill",
+              "Borough": "StatenIsland",
+              "Region": "South Beach and Tottenville",
+              "Rating": 3.8,
+              "Link": "https://www.southfingrill.com/"
+            },
+            {
+              "RestaurantID": 87,
+              "Name": "Chinar On The Island",
+              "Address": "283 Sand Ln",
+              "CuisineType": "Fancy Russian & Mediterranean restaurant",
+              "Borough": "StatenIsland",
+              "Region": "South Beach and Tottenville",
+              "Rating": 4.3,
+              "Link": "https://www.chinarontheisland.com/"
+            },
+            {
+              "RestaurantID": 88,
+              "Name": "Metropolis Steak & Seafood",
+              "Address": "100 Lincoln Ave",
+              "CuisineType": "Restaurant",
+              "Borough": "StatenIsland",
+              "Region": "South Beach and Tottenville",
+              "Rating": 4.7,
+              "Link": "https://www.metropolissteakandseafood.com/"
+            },
+            {
+              "RestaurantID": 89,
+              "Name": "Fava Restaurant",
+              "Address": "StatenIsland, NY",
+              "CuisineType": "Restaurant",
+              "Borough": "StatenIsland",
+              "Region": "South Beach and Tottenville",
+              "Rating": 4.8,
+              "Link": "https://www.favarestaurant.com/"
+            },
+            {
+              "RestaurantID": 90,
+              "Name": "Baci - StatenIsland",
+              "Address": "1657 Richmond Rd",
+              "CuisineType": "Italian",
+              "Borough": "StatenIsland",
+              "Region": "South Beach and Tottenville",
+              "Rating": 4.2,
+              "Link": "https://www.bacistatenisland.com/"
+            },
+            {
+              "RestaurantID": 91,
+              "Name": "Shaw-nae’s House",
+              "Address": "379 Van Duzer St",
+              "CuisineType": "Soul",
+              "Borough": "StatenIsland",
+              "Region": "Stapleton and St. George",
+              "Rating": 4.8,
+              "Link": "https://www.shawnaeshouse.com/"
+            },
+            {
+              "RestaurantID": 92,
+              "Name": "Seppe Pizza Bar",
+              "Address": "StatenIsland, NY",
+              "CuisineType": "Pizza",
+              "Borough": "StatenIsland",
+              "Region": "Stapleton and St. George",
+              "Rating": 4.5,
+              "Link": "https://www.seppepizzabar.com/"
+            },
+            {
+              "RestaurantID": 93,
+              "Name": "Lakruwana Restaurant",
+              "Address": "668 Bay St",
+              "CuisineType": "Sri Lankan",
+              "Borough": "StatenIsland",
+              "Region": "Stapleton and St. George",
+              "Rating": 4.6,
+              "Link": "https://www.lakruwanarestaurant.com/"
+            },
+            {
+              "RestaurantID": 94,
+              "Name": "Romeos Pizza",
+              "Address": "StatenIsland, NY",
+              "CuisineType": "Pizza",
+              "Borough": "StatenIsland",
+              "Region": "Stapleton and St. George",
+              "Rating": 4.3,
+              "Link": "https://www.romeospizza.com/"
+            },
+            {
+              "RestaurantID": 95,
+              "Name": "Osteria Santina",
+              "Address": "502 Jewett Ave",
+              "CuisineType": "Italian",
+              "Borough": "StatenIsland",
+              "Region": "Mid-Island",
+              "Rating": 4.6,
+              "Link": "https://www.osteriasantina.com/"
+            },
+            {
+              "RestaurantID": 96,
+              "Name": "The Manor",
+              "Address": "917 Manor Rd",
+              "CuisineType": "American & Italian grub in casual digs",
+              "Borough": "StatenIsland",
+              "Region": "Mid-Island",
+              "Rating": 4.5,
+              "Link": "https://www.themanorrestaurant.com/"
+            },
+            {
+              "RestaurantID": 97,
+              "Name": "Fava Restaurant",
+              "Address": "2009 Victory Blvd",
+              "CuisineType": "Restaurant",
+              "Borough": "StatenIsland",
+              "Region": "Mid-Island",
+              "Rating": 4.8,
+              "Link": "https://www.favarestaurant.com/"
+            },
+            {
+              "RestaurantID": 98,
+              "Name": "Angels Tavern",
+              "Address": "432 Manor Rd",
+              "CuisineType": "Restaurant",
+              "Borough": "StatenIsland",
+              "Region": "Mid-Island",
+              "Rating": 4.7,
+              "Link": "https://www.angelstavern.com/"
+            },
+            {
+              "RestaurantID": 99,
+              "Name": "Cypress Hall",
+              "Address": "1674 Richmond Rd",
+              "CuisineType": "Cocktails & American eats in funky digs",
+              "Borough": "StatenIsland",
+              "Region": "Mid-Island",
+              "Rating": 4.4,
+              "Link": "https://www.cypresshall.com/"
+            },
+            {
+              "RestaurantID": 100,
+              "Name": "La Bottiglia Italian Restaurant",
+              "Address": "293 Port Richmond Ave",
+              "CuisineType": "Italian",
+              "Borough": "StatenIsland",
+              "Region": "Mid-Island",
+              "Rating": 4.7,
+              "Link": "https://www.labottigliarestaurant.com/"
+            },
+            {
+              "RestaurantID": 101,
+              "Name": "Kingsbridge Social Club",
+              "Address": "3625 Kingsbridge Ave",
+              "CuisineType": "Pizza & cocktails in a graffitied space",
+              "Borough": "Bronx",
+              "Region": "Kingsbridge and Riverdale",
+              "Rating": 4.7,
+              "Link": "https://www.kingsbridgesocialclub.com/"
+            },
+            {
+              "RestaurantID": 102,
+              "Name": "Baby Crab",
+              "Address": "5740 Broadway Unit C",
+              "CuisineType": "Seafood",
+              "Borough": "Bronx",
+              "Region": "Kingsbridge and Riverdale",
+              "Rating": 4.9,
+              "Link": "https://www.babycrab.com/"
+            },
+            {
+              "RestaurantID": 103,
+              "Name": "El Tina Riverdale Restaurant",
+              "Address": "308 W 231st St",
+              "CuisineType": "Dominican",
+              "Borough": "Bronx",
+              "Region": "Kingsbridge and Riverdale",
+              "Rating": 4.7,
+              "Link": "https://www.eltinariverdalerestaurant.com/"
+            },
+            {
+              "RestaurantID": 104,
+              "Name": "Home BX Steakhouse",
+              "Address": "224 W 238th St",
+              "CuisineType": "American",
+              "Borough": "Bronx",
+              "Region": "Kingsbridge and Riverdale",
+              "Rating": 4.3,
+              "Link": "https://www.homebxsteakhouse.com/"
+            },
+            {
+              "RestaurantID": 105,
+              "Name": "Caridad Kingsbridge",
+              "Address": "135 W Kingsbridge Rd",
+              "CuisineType": "Down-home Latin fare in a simple space",
+              "Borough": "Bronx",
+              "Region": "Kingsbridge and Riverdale",
+              "Rating": 4.2,
+              "Link": "https://www.caridadkingsbridge.com/"
+            },
+            {
+              "RestaurantID": 106,
+              "Name": "Misto Restaurant and Bar",
+              "Address": "2314 Eastchester Rd",
+              "CuisineType": "Restaurant",
+              "Borough": "Bronx",
+              "Region": "Northeast Bronx",
+              "Rating": 4.7,
+              "Link": "https://www.mistorestaurantandbar.com/"
+            },
+            {
+              "RestaurantID": 107,
+              "Name": "Pine Restaurant",
+              "Address": "1913 Bronxdale Ave",
+              "CuisineType": "Italian",
+              "Borough": "Bronx",
+              "Region": "Northeast Bronx",
+              "Rating": 4.5,
+              "Link": "https://www.pinerestaurant.com/"
+            },
+            {
+              "RestaurantID": 108,
+              "Name": "Charlies Bar & Kitchen",
+              "Address": "112 Lincoln Ave",
+              "CuisineType": "New American",
+              "Borough": "Bronx",
+              "Region": "Northeast Bronx",
+              "Rating": 4.3,
+              "Link": "https://www.charliesbarandkitchen.com/"
+            },
+            {
+              "RestaurantID": 109,
+              "Name": "Antonios Trattoria",
+              "Address": "2370 Belmont Ave",
+              "CuisineType": "Italian",
+              "Borough": "Bronx",
+              "Region": "Northeast Bronx",
+              "Rating": 4.6,
+              "Link": "https://www.antoniostrattoria.com/"
+            },
+            {
+              "RestaurantID": 110,
+              "Name": "Maisonetta",
+              "Address": "141 Lincoln Ave",
+              "CuisineType": "Mexican",
+              "Borough": "Bronx",
+              "Region": "Northeast Bronx",
+              "Rating": 4.6,
+              "Link": "https://www.maisonetta.com/"
+            },
+            {
+              "RestaurantID": 111,
+              "Name": "Lena Trattoria",
+              "Address": "3470 E Tremont Ave",
+              "CuisineType": "Italian",
+              "Borough": "Bronx",
+              "Region": "Northeast Bronx",
+              "Rating": 4.7,
+              "Link": "https://www.lenatrattoria.com/"
+            },
+            {
+              "RestaurantID": 112,
+              "Name": "Lena Trattoria",
+              "Address": "3470 E Tremont Ave",
+              "CuisineType": "Italian",
+              "Borough": "Bronx",
+              "Region": "Crotona and Tremont",
+              "Rating": 4.7,
+              "Link": "https://www.lenatrattoria.com/"
+            },
+            {
+              "RestaurantID": 113,
+              "Name": "Fiorentina Steakhouse",
+              "Address": "3617 E Tremont Ave",
+              "CuisineType": "Steak",
+              "Borough": "Bronx",
+              "Region": "Crotona and Tremont",
+              "Rating": 4.9,
+              "Link": null
+            },
+            {
+              "RestaurantID": 114,
+              "Name": "Fogon Restaurant",
+              "Address": "Bronx, NY",
+              "CuisineType": "Restaurant",
+              "Borough": "Bronx",
+              "Region": "Crotona and Tremont",
+              "Rating": 4.5,
+              "Link": null
+            },
+            {
+              "RestaurantID": 115,
+              "Name": "Legendary Bar & Grill",
+              "Address": "3513 E Tremont Ave #1",
+              "CuisineType": "Grill",
+              "Borough": "Bronx",
+              "Region": "Crotona and Tremont",
+              "Rating": 4.6,
+              "Link": null
+            },
+            {
+              "RestaurantID": 116,
+              "Name": "BarrioBX",
+              "Address": "3764 E Tremont Ave",
+              "CuisineType": "Puerto Rican",
+              "Borough": "Bronx",
+              "Region": "Crotona and Tremont",
+              "Rating": 4.3,
+              "Link": "https://www.barriobx.com/"
+            },
+            {
+              "RestaurantID": 117,
+              "Name": "Bobos Crab Shack (Fordham)",
+              "Address": "2450 Grand Concourse",
+              "CuisineType": "Cajun",
+              "Borough": "Bronx",
+              "Region": "Bronx Park and Fordham",
+              "Rating": 4.4,
+              "Link": "https://www.boboscrabshack.com/"
+            },
+            {
+              "RestaurantID": 118,
+              "Name": "Dallas BBQ Fordham Road",
+              "Address": "281 W Fordham Rd",
+              "CuisineType": "Barbecue",
+              "Borough": "Bronx",
+              "Region": "Bronx Park and Fordham",
+              "Rating": 4.1,
+              "Link": "https://www.dallasbbq.com/location/fordham"
+            },
+            {
+              "RestaurantID": 119,
+              "Name": "Fordham Cachapas Deli",
+              "Address": "332 E Fordham Rd",
+              "CuisineType": "Deli",
+              "Borough": "Bronx",
+              "Region": "Bronx Park and Fordham",
+              "Rating": 4.5,
+              "Link": null
+            },
+            {
+              "RestaurantID": 120,
+              "Name": "Hook & Catch Cajun Seafood",
+              "Address": "12 W Fordham Rd",
+              "CuisineType": "Seafood",
+              "Borough": "Bronx",
+              "Region": "Bronx Park and Fordham",
+              "Rating": 4.0,
+              "Link": null
+            },
+            {
+              "RestaurantID": 121,
+              "Name": "Birria Landia",
+              "Address": "2501 Grand Concourse",
+              "CuisineType": "Mexican",
+              "Borough": "Bronx",
+              "Region": "Bronx Park and Fordham",
+              "Rating": 4.4,
+              "Link": "https://www.birrialandianyc.com/"
+            },
+            {
+              "RestaurantID": 122,
+              "Name": "Lena Trattoria",
+              "Address": "3470 E Tremont Ave",
+              "CuisineType": "Italian",
+              "Borough": "Bronx",
+              "Region": "Pelham and Throgs Neck",
+              "Rating": 4.7,
+              "Link": "https://www.lenatrattoria.com/"
+            },
+            {
+              "RestaurantID": 123,
+              "Name": "Fiorentina Steakhouse",
+              "Address": "3617 E Tremont Ave",
+              "CuisineType": "Steak",
+              "Borough": "Bronx",
+              "Region": "Pelham and Throgs Neck",
+              "Rating": 4.9,
+              "Link": null
+            },
+            {
+              "RestaurantID": 124,
+              "Name": "Wicked Wolf Bronx",
+              "Address": "4029 E Tremont Ave",
+              "CuisineType": "American",
+              "Borough": "Bronx",
+              "Region": "Pelham and Throgs Neck",
+              "Rating": 4.5,
+              "Link": "https://www.wickedwolfbronx.com/"
+            },
+            {
+              "RestaurantID": 125,
+              "Name": "Made in Puerto Rico Latin Cuisine Bronx NY",
+              "Address": "3363 E Tremont Ave",
+              "CuisineType": "Puerto Rican",
+              "Borough": "Bronx",
+              "Region": "Pelham and Throgs Neck",
+              "Rating": 4.3,
+              "Link": "https://www.madeinpuertoricony.com/"
+            },
+            {
+              "RestaurantID": 126,
+              "Name": "La Masa Restaurant",
+              "Address": "3399 E Tremont Ave",
+              "CuisineType": "Restaurant",
+              "Borough": "Bronx",
+              "Region": "Pelham and Throgs Neck",
+              "Rating": 4.5,
+              "Link": "https://www.lamasarestaurant.com/"
+            },
+            {
+              "RestaurantID": 127,
+              "Name": "Antonios Trattoria",
+              "Address": "2370 Belmont Ave",
+              "CuisineType": "Italian",
+              "Borough": "Bronx",
+              "Region": "HighBridge and Morrisania",
+              "Rating": 4.6,
+              "Link": "https://www.antoniostrattoria.com/"
+            },
+            {
+              "RestaurantID": 128,
+              "Name": "DMorena",
+              "Address": "899 E 169th St",
+              "CuisineType": "Latin American",
+              "Borough": "Bronx",
+              "Region": "HighBridge and Morrisania",
+              "Rating": 4.3,
+              "Link": "https://www.dmorena.com/"
+            },
+            {
+              "RestaurantID": 129,
+              "Name": "Maisonetta",
+              "Address": "141 Lincoln Ave",
+              "CuisineType": "Mexican",
+              "Borough": "Bronx",
+              "Region": "HighBridge and Morrisania",
+              "Rating": 4.6,
+              "Link": "https://www.maisonetta.com/"
+            },
+            {
+              "RestaurantID": 130,
+              "Name": "Hibachi Grill & Supreme Buffet",
+              "Address": "200 E 161 St",
+              "CuisineType": "American",
+              "Borough": "Bronx",
+              "Region": "HighBridge and Morrisania",
+              "Rating": 4.3,
+              "Link": "https://www.hibachigrillbuffet.com/"
+            },
+            {
+              "RestaurantID": 131,
+              "Name": "Antonios",
+              "Address": "211 E 167th St",
+              "CuisineType": "Diner",
+              "Borough": "Bronx",
+              "Region": "HighBridge and Morrisania",
+              "Rating": 4.3,
+              "Link": "https://www.antoniosdiner.com/"
+            },
+            {
+              "RestaurantID": 132,
+              "Name": "Randall Restaurant",
+              "Address": "1328 Randall Ave",
+              "CuisineType": "Restaurant",
+              "Borough": "Bronx",
+              "Region": "Hunts Point and Mott Haven",
+              "Rating": 4.3,
+              "Link": null
+            },
+            {
+              "RestaurantID": 133,
+              "Name": "Maisonetta",
+              "Address": "141 Lincoln Ave",
+              "CuisineType": "Mexican",
+              "Borough": "Bronx",
+              "Region": "Hunts Point and Mott Haven",
+              "Rating": 4.6,
+              "Link": "https://www.maisonetta.com/"
+            },
+            {
+              "RestaurantID": 134,
+              "Name": "La Morada",
+              "Address": "308 Willis Ave",
+              "CuisineType": "Oaxacan restaurant",
+              "Borough": "Bronx",
+              "Region": "Hunts Point and Mott Haven",
+              "Rating": 4.6,
+              "Link": "https://www.lamoradanyc.com/"
+            },
+            {
+              "RestaurantID": 135,
+              "Name": "Market Place Restaurant Cocktail",
+              "Address": "355 Food Center Dr",
+              "CuisineType": "American",
+              "Borough": "Bronx",
+              "Region": "Hunts Point and Mott Haven",
+              "Rating": 4.3,
+              "Link": null
+            },
+            {
+              "RestaurantID": 136,
+              "Name": "Casa Enrique",
+              "Address": "5-48 49th Ave",
+              "CuisineType": "Mexican",
+              "Borough": "Queens",
+              "Region": "Long Island City and Astoria",
+              "Rating": 4.8,
+              "Link": "https://www.casaenrique.com/"
+            },
+            {
+              "RestaurantID": 137,
+              "Name": "Mu Ramen",
+              "Address": "12-09 Jackson Ave",
+              "CuisineType": "Japanese",
+              "Borough": "Queens",
+              "Region": "Long Island City and Astoria",
+              "Rating": 4.5,
+              "Link": "https://www.muramennyc.com/"
+            },
+            {
+              "RestaurantID": 138,
+              "Name": "Takumen",
+              "Address": "5-50 50th Ave",
+              "CuisineType": "Japanese",
+              "Borough": "Queens",
+              "Region": "Long Island City and Astoria",
+              "Rating": 4.6,
+              "Link": "https://www.takumenlic.com/"
+            },
+            {
+              "RestaurantID": 139,
+              "Name": "Neirs Tavern",
+              "Address": "87-48 78th St",
+              "CuisineType": "American",
+              "Borough": "Queens",
+              "Region": "West Queens",
+              "Rating": 4.7,
+              "Link": "https://www.neirstavern.com/"
+            },
+            {
+              "RestaurantID": 140,
+              "Name": "Usha Foods",
+              "Address": "255-03 Hillside Avenue",
+              "CuisineType": "Indian",
+              "Borough": "Queens",
+              "Region": "West Queens",
+              "Rating": 4.5,
+              "Link": "https://www.ushafoods.com/"
+            },
+            {
+              "RestaurantID": 141,
+              "Name": "Comfortland",
+              "Address": "40-09 30th Ave",
+              "CuisineType": "American",
+              "Borough": "Queens",
+              "Region": "West Queens",
+              "Rating": 4.6,
+              "Link": "https://www.comfortlandny.com/"
+            },
+            {
+              "RestaurantID": 142,
+              "Name": "Kung Fu Xiao Long Bao",
+              "Address": "59-16 Main St",
+              "CuisineType": "Chinese",
+              "Borough": "Queens",
+              "Region": "North Queens",
+              "Rating": 4.5,
+              "Link": "https://www.kungfuxiaolongbao.com/"
+            },
+            {
+              "RestaurantID": 143,
+              "Name": "White Bear",
+              "Address": "135-02 Roosevelt Ave",
+              "CuisineType": "Chinese",
+              "Borough": "Queens",
+              "Region": "North Queens",
+              "Rating": 4.4,
+              "Link": "https://www.yelp.com/biz/white-bear-flushing"
+            },
+            {
+              "RestaurantID": 144,
+              "Name": "Hupo",
+              "Address": "10-07 50th Ave",
+              "CuisineType": "Chinese",
+              "Borough": "Queens",
+              "Region": "North Queens",
+              "Rating": 4.5,
+              "Link": "https://www.huponyc.com/"
+            },
+            {
+              "RestaurantID": 145,
+              "Name": "Lhasa Fast Food",
+              "Address": "37-50 74th St",
+              "CuisineType": "Tibetan",
+              "Borough": "Queens",
+              "Region": "Northeast Queens",
+              "Rating": 4.7,
+              "Link": "https://www.lhasafastfood.com/"
+            },
+            {
+              "RestaurantID": 146,
+              "Name": "Mars",
+              "Address": "34-21 34th Ave",
+              "CuisineType": "Mediterranean",
+              "Borough": "Queens",
+              "Region": "Northeast Queens",
+              "Rating": 4.6,
+              "Link": "https://www.lifeatmars.com/"
+            },
+            {
+              "RestaurantID": 147,
+              "Name": "Vite Vinosteria",
+              "Address": "31-05 34th St",
+              "CuisineType": "Italian",
+              "Borough": "Queens",
+              "Region": "Northeast Queens",
+              "Rating": 4.7,
+              "Link": "https://www.vitevinosteria.com/"
+            },
+            {
+              "RestaurantID": 148,
+              "Name": "Il Bambino",
+              "Address": "34-08 31st Ave",
+              "CuisineType": "Italian",
+              "Borough": "Queens",
+              "Region": "West Central Queens",
+              "Rating": 4.6,
+              "Link": "https://www.ilbambinonyc.com/"
+            },
+            {
+              "RestaurantID": 149,
+              "Name": "Cannelle Patisserie",
+              "Address": "75-59 31st Ave",
+              "CuisineType": "Bakery",
+              "Borough": "Queens",
+              "Region": "West Central Queens",
+              "Rating": 4.7,
+              "Link": "https://www.cannellepatisserie.com/"
+            },
+            {
+              "RestaurantID": 150,
+              "Name": "Rincon Melania",
+              "Address": "90-12 37th Ave",
+              "CuisineType": "Ecuadorian",
+              "Borough": "Queens",
+              "Region": "West Central Queens",
+              "Rating": 4.7,
+              "Link": "https://www.yelp.com/biz/rinc%C3%B3n-melania-queens"
+            },
+            {
+              "RestaurantID": 151,
+              "Name": "London Lennies",
+              "Address": "63-88 Woodhaven Blvd",
+              "CuisineType": "Seafood",
+              "Borough": "Queens",
+              "Region": "Central Queens",
+              "Rating": 4.7,
+              "Link": "https://www.londonlennies.com/"
+            },
+            {
+              "RestaurantID": 152,
+              "Name": "Eddies Sweet Shop",
+              "Address": "105-29 Metropolitan Ave",
+              "CuisineType": "Ice Cream",
+              "Borough": "Queens",
+              "Region": "Central Queens",
+              "Rating": 4.8,
+              "Link": "https://www.zomato.com/new-york-city/eddies-sweet-shop-forest-hills"
+            },
+            {
+              "RestaurantID": 153,
+              "Name": "Nicks Bistro",
+              "Address": "104-20 Metropolitan Ave",
+              "CuisineType": "Greek",
+              "Borough": "Queens",
+              "Region": "Central Queens",
+              "Rating": 4.6,
+              "Link": "https://www.nicksbistro.com/"
+            },
+            {
+              "RestaurantID": 154,
+              "Name": "Manducatis Rustica",
+              "Address": "46-35 Vernon Blvd",
+              "CuisineType": "Italian",
+              "Borough": "Queens",
+              "Region": "Southwest Queens",
+              "Rating": 4.5,
+              "Link": "https://www.manducatisrustica.com/"
+            },
+            {
+              "RestaurantID": 155,
+              "Name": "Taco Veloz",
+              "Address": "64-05 108th St",
+              "CuisineType": "Mexican",
+              "Borough": "Queens",
+              "Region": "Southwest Queens",
+              "Rating": 4.4,
+              "Link": "https://www.yelp.com/biz/taco-veloz-queens"
+            },
+            {
+              "RestaurantID": 156,
+              "Name": "Birria-Landia",
+              "Address": "78-14 Roosevelt Ave",
+              "CuisineType": "Mexican",
+              "Borough": "Queens",
+              "Region": "Southwest Queens",
+              "Rating": 4.5,
+              "Link": "https://www.birrialandiany.com/"
+            },
+            {
+              "RestaurantID": 157,
+              "Name": "The Door",
+              "Address": "163-07 Baisley Blvd",
+              "CuisineType": "Jamaican",
+              "Borough": "Queens",
+              "Region": "Jamaica",
+              "Rating": 4.7,
+              "Link": "https://www.thedoorrestaurant.com/"
+            },
+            {
+              "RestaurantID": 158,
+              "Name": "Sybils",
+              "Address": "132-17 Liberty Ave",
+              "CuisineType": "Caribbean",
+              "Borough": "Queens",
+              "Region": "Jamaica",
+              "Rating": 4.6,
+              "Link": "https://www.sybilsbakery.com/"
+            },
+            {
+              "RestaurantID": 159,
+              "Name": "Fish & Ting",
+              "Address": "4063 Boston Rd",
+              "CuisineType": "Caribbean",
+              "Borough": "Queens",
+              "Region": "Jamaica",
+              "Rating": 4.5,
+              "Link": "https://www.fishandting.com/"
+            },
+            {
+              "RestaurantID": 160,
+              "Name": "Adda",
+              "Address": "31-31 Thomson Ave",
+              "CuisineType": "Indian",
+              "Borough": "Queens",
+              "Region": "Long Island City and Astoria",
+              "Rating": 4.7,
+              "Link": "https://www.addanyc.com/"
+            },
+            {
+              "RestaurantID": 161,
+              "Name": "John Brown Smokehouse",
+              "Address": "10-43 44th Dr",
+              "CuisineType": "Barbecue",
+              "Borough": "Queens",
+              "Region": "Long Island City and Astoria",
+              "Rating": 4.5,
+              "Link": "https://www.johnbrownseriousbbq.com/"
+            },
+            {
+              "RestaurantID": 162,
+              "Name": "M. Wells Steakhouse",
+              "Address": "43-15 Crescent St",
+              "CuisineType": "Steakhouse",
+              "Borough": "Queens",
+              "Region": "Long Island City and Astoria",
+              "Rating": 4.6,
+              "Link": "https://www.magasinwells.com/"
+            },
+            {
+              "RestaurantID": 163,
+              "Name": "Chela & Garnacha",
+              "Address": "33-09 36th Ave",
+              "CuisineType": "Mexican",
+              "Borough": "Queens",
+              "Region": "West Queens",
+              "Rating": 4.7,
+              "Link": "https://www.chelaandgarnacha.com/"
+            },
+            {
+              "RestaurantID": 164,
+              "Name": "The Greek Kitchen",
+              "Address": "25-01 34th Ave",
+              "CuisineType": "Greek",
+              "Borough": "Queens",
+              "Region": "West Queens",
+              "Rating": 4.6,
+              "Link": "https://www.thegreekkitchen.net/"
+            },
+            {
+              "RestaurantID": 165,
+              "Name": "Arepa Lady",
+              "Address": "77-02 Roosevelt Ave",
+              "CuisineType": "Colombian",
+              "Borough": "Queens",
+              "Region": "West Queens",
+              "Rating": 4.6,
+              "Link": "https://www.arepalady.com/"
+            },
+            {
+              "RestaurantID": 166,
+              "Name": "Haveli Banjara",
+              "Address": "113-21 Jamaica Ave",
+              "CuisineType": "Indian",
+              "Borough": "Queens",
+              "Region": "Central Queens",
+              "Rating": 4.5,
+              "Link": "https://www.havelibanjara.com/"
+            },
+            {
+              "RestaurantID": 167,
+              "Name": "De Mole",
+              "Address": "4502 48th Ave",
+              "CuisineType": "Mexican",
+              "Borough": "Queens",
+              "Region": "Central Queens",
+              "Rating": 4.7,
+              "Link": "https://www.demolehopest.com/"
+            },
+            {
+              "RestaurantID": 168,
+              "Name": "Moonstone Chinese Restaurant",
+              "Address": "32-72 Steinway St",
+              "CuisineType": "Chinese",
+              "Borough": "Queens",
+              "Region": "Central Queens",
+              "Rating": 4.5,
+              "Link": "https://www.moonstoneny.com/"
+            },
+            {
+              "RestaurantID": 169,
+              "Name": "Rockaway Fish House",
+              "Address": "141-22 Rockaway Blvd",
+              "CuisineType": "Seafood",
+              "Borough": "Queens",
+              "Region": "Southeast Queens",
+              "Rating": 4.6,
+              "Link": "https://www.rockawayfishhouse.com/"
+            },
+            {
+              "RestaurantID": 170,
+              "Name": "The Fish Trap",
+              "Address": "130-37 Merrick Blvd",
+              "CuisineType": "Seafood",
+              "Borough": "Queens",
+              "Region": "Southeast Queens",
+              "Rating": 4.5,
+              "Link": "https://www.thefishtrap.com/"
+            },
+            {
+              "RestaurantID": 171,
+              "Name": "Southern Girls Soul Food",
+              "Address": "218-34 Merrick Blvd",
+              "CuisineType": "Soul Food",
+              "Borough": "Queens",
+              "Region": "Southeast Queens",
+              "Rating": 4.6,
+              "Link": "https://www.southerngirlssoulfood.com/"
+            },
+            {
+              "RestaurantID": 172,
+              "Name": "Bungalow Bar",
+              "Address": "377 Beach 92nd St",
+              "CuisineType": "American",
+              "Borough": "Queens",
+              "Region": "Rockaways",
+              "Rating": 4.5,
+              "Link": "https://www.bungalowbarny.com/"
+            },
+            {
+              "RestaurantID": 173,
+              "Name": "Umas",
+              "Address": "92-07 Rockaway Beach Blvd",
+              "CuisineType": "Uzbek",
+              "Borough": "Queens",
+              "Region": "Rockaways",
+              "Rating": 4.6,
+              "Link": "https://www.umasrestaurant.com/"
+            },
+            {
+              "RestaurantID": 174,
+              "Name": "Thai Rock",
+              "Address": "375 Beach 92nd St",
+              "CuisineType": "Thai",
+              "Borough": "Queens",
+              "Region": "Rockaways",
+              "Rating": 4.7,
+              "Link": "https://www.thairock.us/"
+            },
+            {
+              "RestaurantID": 175,
+              "Name": "Paulie Gee’s",
+              "Address": "60 Greenpoint Ave",
+              "CuisineType": "Pizza",
+              "Borough": "Brooklyn",
+              "Region": "Greenpoint",
+              "Rating": 4.7,
+              "Link": "https://www.pauliegee.com/"
+            },
+            {
+              "RestaurantID": 176,
+              "Name": "Di An Di",
+              "Address": "68 Greenpoint Ave",
+              "CuisineType": "Vietnamese",
+              "Borough": "Brooklyn",
+              "Region": "Greenpoint",
+              "Rating": 4.5,
+              "Link": "https://www.diandi.nyc/"
+            },
+            {
+              "RestaurantID": 177,
+              "Name": "Oxomoco",
+              "Address": "128 Greenpoint Ave",
+              "CuisineType": "Mexican",
+              "Borough": "Brooklyn",
+              "Region": "Greenpoint",
+              "Rating": 4.6,
+              "Link": "https://www.oxomoconyc.com/"
+            },
+            {
+              "RestaurantID": 178,
+              "Name": "Lilia",
+              "Address": "567 Union Ave",
+              "CuisineType": "Italian",
+              "Borough": "Brooklyn",
+              "Region": "Northwest Brooklyn",
+              "Rating": 4.7,
+              "Link": "https://www.lilianewyork.com/"
+            },
+            {
+              "RestaurantID": 179,
+              "Name": "Chez Ma Tante",
+              "Address": "90 Calyer St",
+              "CuisineType": "European",
+              "Borough": "Brooklyn",
+              "Region": "Northwest Brooklyn",
+              "Rating": 4.6,
+              "Link": "https://www.chezmatantebk.com/"
+            },
+            {
+              "RestaurantID": 180,
+              "Name": "Al Di La Trattoria",
+              "Address": "248 5th Ave",
+              "CuisineType": "Italian",
+              "Borough": "Brooklyn",
+              "Region": "Northwest Brooklyn",
+              "Rating": 4.6,
+              "Link": "https://www.aldilatrattoria.com/"
+            },
+            {
+              "RestaurantID": 181,
+              "Name": "Barboncino",
+              "Address": "781 Franklin Ave",
+              "CuisineType": "Pizza",
+              "Borough": "Brooklyn",
+              "Region": "Central Brooklyn",
+              "Rating": 4.7,
+              "Link": "https://www.barboncinopizza.com/"
+            },
+            {
+              "RestaurantID": 182,
+              "Name": "Saraghina",
+              "Address": "435 Halsey St",
+              "CuisineType": "Italian",
+              "Borough": "Brooklyn",
+              "Region": "Central Brooklyn",
+              "Rating": 4.6,
+              "Link": "https://www.saraghinabakery.com/"
+            },
+            {
+              "RestaurantID": 183,
+              "Name": "The Finch",
+              "Address": "212 Greene Ave",
+              "CuisineType": "American",
+              "Borough": "Brooklyn",
+              "Region": "Central Brooklyn",
+              "Rating": 4.5,
+              "Link": "https://www.thefinchnyc.com/"
+            },
+            {
+              "RestaurantID": 184,
+              "Name": "Halsey Street Grill",
+              "Address": "444 Ralph Ave",
+              "CuisineType": "American",
+              "Borough": "Brooklyn",
+              "Region": "East New York and New Lots",
+              "Rating": 4.5,
+              "Link": "https://www.halseystreetgrill.com/"
+            },
+            {
+              "RestaurantID": 185,
+              "Name": "Lindenwood Diner",
+              "Address": "2870 Linden Blvd",
+              "CuisineType": "Diner",
+              "Borough": "Brooklyn",
+              "Region": "East New York and New Lots",
+              "Rating": 4.4,
+              "Link": "https://www.lindenwooddiner.com/"
+            },
+            {
+              "RestaurantID": 186,
+              "Name": "New Lots Cafe",
+              "Address": "630 New Lots Ave",
+              "CuisineType": "Caribbean",
+              "Borough": "Brooklyn",
+              "Region": "East New York and New Lots",
+              "Rating": 4.3,
+              "Link": "https://www.yelp.com/biz/new-lots-cafe-brooklyn"
+            },
+            {
+              "RestaurantID": 187,
+              "Name": "Tacos El Bronco",
+              "Address": "4324 4th Ave",
+              "CuisineType": "Mexican",
+              "Borough": "Brooklyn",
+              "Region": "Sunset Park",
+              "Rating": 4.6,
+              "Link": "https://www.tacoselbronco.com/"
+            },
+            {
+              "RestaurantID": 188,
+              "Name": "Ba Xuyên",
+              "Address": "4222 8th Ave",
+              "CuisineType": "Vietnamese",
+              "Borough": "Brooklyn",
+              "Region": "Sunset Park",
+              "Rating": 4.7,
+              "Link": "https://www.yelp.com/biz/ba-xuyên-brooklyn"
+            },
+            {
+              "RestaurantID": 189,
+              "Name": "Pho Vietnam",
+              "Address": "1243 Ave U",
+              "CuisineType": "Vietnamese",
+              "Borough": "Brooklyn",
+              "Region": "Sunset Park",
+              "Rating": 4.5,
+              "Link": "https://www.phovietnam.com/"
+            },
+            {
+              "RestaurantID": 190,
+              "Name": "Gino’s Restaurant",
+              "Address": "7414 5th Ave",
+              "CuisineType": "Italian",
+              "Borough": "Brooklyn",
+              "Region": "Southwest Brooklyn",
+              "Rating": 4.6,
+              "Link": "https://www.ginosny.com/"
+            },
+            {
+              "RestaurantID": 191,
+              "Name": "Totonno’s Pizzeria Napolitano",
+              "Address": "1524 Neptune Ave",
+              "CuisineType": "Pizza",
+              "Borough": "Brooklyn",
+              "Region": "Southwest Brooklyn",
+              "Rating": 4.7,
+              "Link": "https://www.totonnosconeyisland.com/"
+            },
+            {
+              "RestaurantID": 192,
+              "Name": "Randazzo’s Clam Bar",
+              "Address": "2017 Emmons Ave",
+              "CuisineType": "Seafood",
+              "Borough": "Brooklyn",
+              "Region": "Southwest Brooklyn",
+              "Rating": 4.7,
+              "Link": "https://www.randazzosclambar.com/"
+            },
+            {
+              "RestaurantID": 193,
+              "Name": "Kaff’s Bakery",
+              "Address": "2944 Avenue M",
+              "CuisineType": "Bakery",
+              "Borough": "Brooklyn",
+              "Region": "Borough Park",
+              "Rating": 4.7,
+              "Link": "https://www.kaffsbakery.com/"
+            },
+            {
+              "RestaurantID": 194,
+              "Name": "Amnon’s Pizza",
+              "Address": "4814 13th Ave",
+              "CuisineType": "Pizza",
+              "Borough": "Brooklyn",
+              "Region": "Borough Park",
+              "Rating": 4.6,
+              "Link": "https://www.amnonkosherpizza.com/"
+            },
+            {
+              "RestaurantID": 195,
+              "Name": "Shang Chai",
+              "Address": "6202 11th Ave",
+              "CuisineType": "Chinese",
+              "Borough": "Brooklyn",
+              "Region": "Borough Park",
+              "Rating": 4.5,
+              "Link": "https://www.shangchai.com/"
+            },
+            {
+              "RestaurantID": 196,
+              "Name": "Brennan & Carr",
+              "Address": "3432 Nostrand Ave",
+              "CuisineType": "American",
+              "Borough": "Brooklyn",
+              "Region": "Canarsie and Flatlands",
+              "Rating": 4.7,
+              "Link": "https://www.brennanandcarr.com/"
+            },
+            {
+              "RestaurantID": 197,
+              "Name": "Footprints Cafe",
+              "Address": "5814 Clarendon Rd",
+              "CuisineType": "Caribbean",
+              "Borough": "Brooklyn",
+              "Region": "Canarsie and Flatlands",
+              "Rating": 4.6,
+              "Link": "https://www.footprintscafeny.com/"
+            },
+            {
+              "RestaurantID": 198,
+              "Name": "Nick’s Lobster House",
+              "Address": "2777 Flatbush Ave",
+              "CuisineType": "Seafood",
+              "Borough": "Brooklyn",
+              "Region": "Canarsie and Flatlands",
+              "Rating": 4.5,
+              "Link": "https://www.nickslobsterhouse.com/"
+            },
+            {
+              "RestaurantID": 199,
+              "Name": "Tatiana Restaurant",
+              "Address": "3152 Brighton 6th St",
+              "CuisineType": "Russian",
+              "Borough": "Brooklyn",
+              "Region": "Southern Brooklyn",
+              "Rating": 4.6,
+              "Link": "https://www.tatianarestaurant.com/"
+            },
+            {
+              "RestaurantID": 200,
+              "Name": "Randazzos Clam Bar",
+              "Address": "2017 Emmons Ave",
+              "CuisineType": "Seafood",
+              "Borough": "Brooklyn",
+              "Region": "Southern Brooklyn",
+              "Rating": 4.7,
+              "Link": "https://www.randazzosclambar.com/"
+            },
+            {
+              "RestaurantID": 201,
+              "Name": "Roll-N-Roaster",
+              "Address": "2901 Emmons Ave",
+              "CuisineType": "American",
+              "Borough": "Brooklyn",
+              "Region": "Southern Brooklyn",
+              "Rating": 4.5,
+              "Link": "https://www.rollnroaster.com/"
+            },
+            {
+              "RestaurantID": 202,
+              "Name": "The Farm on Adderley",
+              "Address": "1108 Cortelyou Rd",
+              "CuisineType": "American",
+              "Borough": "Brooklyn",
+              "Region": "Flatbush",
+              "Rating": 4.7,
+              "Link": "https://www.thefarmonadderley.com/"
+            },
+            {
+              "RestaurantID": 203,
+              "Name": "Erasmus Hall",
+              "Address": "123 Erasmus St",
+              "CuisineType": "American",
+              "Borough": "Brooklyn",
+              "Region": "Flatbush",
+              "Rating": 4.6,
+              "Link": "https://www.yelp.com/biz/erasmus-hall-brooklyn"
+            },
+            {
+              "RestaurantID": 204,
+              "Name": "Peppa’s Jerk Chicken",
+              "Address": "738 Flatbush Ave",
+              "CuisineType": "Caribbean",
+              "Borough": "Brooklyn",
+              "Region": "Flatbush",
+              "Rating": 4.6,
+              "Link": "https://www.peppasjerkchicken.nyc/"
+            },
+            {
+              "RestaurantID": 205,
+              "Name": "Roberta’s",
+              "Address": "261 Moore St",
+              "CuisineType": "Pizza",
+              "Borough": "Brooklyn",
+              "Region": "Bushwick and Williamsburg",
+              "Rating": 4.7,
+              "Link": "https://www.robertaspizza.com/"
+            },
+            {
+              "RestaurantID": 206,
+              "Name": "Lilia",
+              "Address": "567 Union Ave",
+              "CuisineType": "Italian",
+              "Borough": "Brooklyn",
+              "Region": "Bushwick and Williamsburg",
+              "Rating": 4.7,
+              "Link": "https://www.lilianewyork.com/"
+            },
+            {
+              "RestaurantID": 207,
+              "Name": "Peter Luger Steak House",
+              "Address": "178 Broadway",
+              "CuisineType": "Steakhouse",
+              "Borough": "Brooklyn",
+              "Region": "Bushwick and Williamsburg",
+              "Rating": 4.6,
+              "Link": "https://www.peterluger.com/"
+            }
+
+  ],
+  "Events": [
+    {
+        "EventID": 1,
+        "e_Name": "Inwood Art Works Film Festival",
+        "Address": "5030 Broadway",
+        "Borough": "Manhattan",
+        "Region": "Inwood and Washington Heights",
+        "Start_Date": "06-01-2024",
+        "End_Date": "06-05-2024",
+        "Link": "https://inwoodartworks.nyc/film-festival"
+    },
+    {
+        "EventID": 2,
+        "e_Name": "Washington Heights Music Fest",
+        "Address": "Fort Washington Ave",
+        "Borough": "Manhattan",
+        "Region": "Inwood and Washington Heights",
+        "Start_Date": "07-12-2024",
+        "End_Date": "07-14-2024",
+        "Link": "https://www.heightsmusicfest.com/"
+    },
+    {
+        "EventID": 3,
+        "e_Name": "Inwood Green Market",
+        "Address": "Isham St & Cooper St",
+        "Borough": "Manhattan",
+        "Region": "Inwood and Washington Heights",
+        "Start_Date": "05-05-2024",
+        "End_Date": "05-05-2024",
+        "Link": "https://www.grownyc.org/greenmarket/manhattan/inwood"
+    },
+    {
+        "EventID": 4,
+        "e_Name": "Harlem Book Fair",
+        "Address": "West 135th St",
+        "Borough": "Manhattan",
+        "Region": "Central Harlem",
+        "Start_Date": "07-23-2024",
+        "End_Date": "07-23-2024",
+        "Link": "https://www.harlembookfair.com/"
+    },
+    {
+        "EventID": 5,
+        "e_Name": "Harlem Jazz Series",
+        "Address": "Lenox Ave",
+        "Borough": "Manhattan",
+        "Region": "Central Harlem",
+        "Start_Date": "09-01-2024",
+        "End_Date": "09-30-2024",
+        "Link": "https://harlemjazzseries.com/"
+    },
+    {
+        "EventID": 6,
+        "e_Name": "Soul Food Festival",
+        "Address": "Malcolm X Blvd & 116th St",
+        "Borough": "Manhattan",
+        "Region": "Central Harlem",
+        "Start_Date": "08-15-2024",
+        "End_Date": "08-15-2024",
+        "Link": "https://soulfoodfestharlem.com/"
+    },
+    {
+        "EventID": 7,
+        "e_Name": "El Barrio Latin Jazz Festival",
+        "Address": "105 E 106th St",
+        "Borough": "Manhattan",
+        "Region": "East Harlem",
+        "Start_Date": "05-20-2024",
+        "End_Date": "05-27-2024",
+        "Link": "https://www.elbarriojazzfest.com/"
+    },
+    {
+        "EventID": 8,
+        "e_Name": "East Harlem Cultural Festival",
+        "Address": "E 104th St",
+        "Borough": "Manhattan",
+        "Region": "East Harlem",
+        "Start_Date": "08-01-2024",
+        "End_Date": "08-03-2024",
+        "Link": "https://www.eastharlemfest.com/"
+    },
+    {
+        "EventID": 9,
+        "e_Name": "Poetry Slam East Harlem",
+        "Address": "2031 2nd Ave",
+        "Borough": "Manhattan",
+        "Region": "East Harlem",
+        "Start_Date": "10-05-2024",
+        "End_Date": "10-05-2024",
+        "Link": "https://eastharlempoetry.com/"
+    },
+    {
+        "EventID": 10,
+        "e_Name": "Upper West Side Food Festival",
+        "Address": "Central Park West",
+        "Borough": "Manhattan",
+        "Region": "Upper West Side",
+        "Start_Date": "09-10-2024",
+        "End_Date": "09-12-2024",
+        "Link": "https://uwsfoodfest.com/"
+    },
+    {
+        "EventID": 11,
+        "e_Name": "New York Philharmonic in the Park",
+        "Address": "Central Park",
+        "Borough": "Manhattan",
+        "Region": "Upper West Side",
+        "Start_Date": "06-21-2024",
+        "End_Date": "06-21-2024",
+        "Link": "https://nyphil.org/park"
+    },
+    {
+        "EventID": 12,
+        "e_Name": "Shakespeare in the Park",
+        "Address": "Delacorte Theater",
+        "Borough": "Manhattan",
+        "Region": "Upper West Side",
+        "Start_Date": "05-15-2024",
+        "End_Date": "08-30-2024",
+        "Link": "https://publictheater.org/shakespeare-in-the-park"
+    },
+    {
+        "EventID": 13,
+        "e_Name": "Museum Mile Festival",
+        "Address": "Fifth Ave from 82nd to 105th",
+        "Borough": "Manhattan",
+        "Region": "Upper East Side",
+        "Start_Date": "06-08-2024",
+        "End_Date": "06-08-2024",
+        "Link": "https://museummilefestival.org/"
+    },
+    {
+        "EventID": 14,
+        "e_Name": "UES Art Walk",
+        "Address": "Madison Ave",
+        "Borough": "Manhattan",
+        "Region": "Upper East Side",
+        "Start_Date": "10-22-2024",
+        "End_Date": "10-22-2024",
+        "Link": "https://uesartwalk.com/"
+    },
+    {
+        "EventID": 15,
+        "e_Name": "Carl Schurz Park Conservancy Events",
+        "Address": "East End Ave & 86th St",
+        "Borough": "Manhattan",
+        "Region": "Upper East Side",
+        "Start_Date": "04-01-2024",
+        "End_Date": "11-30-2024",
+        "Link": "https://carlschurzparknyc.org/events"
+    },
+    {
+        "EventID": 16,
+        "e_Name": "Chelsea Music Festival",
+        "Address": "410 W 23rd St",
+        "Borough": "Manhattan",
+        "Region": "Chelsea and Clinton",
+        "Start_Date": "06-06-2024",
+        "End_Date": "06-14-2024",
+        "Link": "https://chelseamusicfestival.org/"
+    },
+    {
+        "EventID": 17,
+        "e_Name": "High Line Art Walk",
+        "Address": "The High Line",
+        "Borough": "Manhattan",
+        "Region": "Chelsea and Clinton",
+        "Start_Date": "05-20-2024",
+        "End_Date": "05-20-2024",
+        "Link": "https://art.thehighline.org/"
+    },
+    {
+        "EventID": 18,
+        "e_Name": "Chelsea Film Festival",
+        "Address": "260 W 23rd St",
+        "Borough": "Manhattan",
+        "Region": "Chelsea and Clinton",
+        "Start_Date": "10-15-2024",
+        "End_Date": "10-18-2024",
+        "Link": "https://chelseafilm.org/"
+    },
+    {
+        "EventID": 19,
+        "e_Name": "Gramercy Park Block Party",
+        "Address": "Gramercy Park",
+        "Borough": "Manhattan",
+        "Region": "Gramercy Park and Murray Hill",
+        "Start_Date": "07-04-2024",
+        "End_Date": "07-04-2024",
+        "Link": "https://gramercyparkblockparty.org/"
+    },
+    {
+        "EventID": 20,
+        "e_Name": "Kips Bay Decorator Show House",
+        "Address": "125 E 65th St",
+        "Borough": "Manhattan",
+        "Region": "Gramercy Park and Murray Hill",
+        "Start_Date": "05-02-2024",
+        "End_Date": "06-01-2024",
+        "Link": "https://kipsbaydecoratorshowhouse.org/"
+    },
+    {
+        "EventID": 21,
+        "e_Name": "Murray Hill Neighborhood Festival",
+        "Address": "Park Ave & 34th St",
+        "Borough": "Manhattan",
+        "Region": "Gramercy Park and Murray Hill",
+        "Start_Date": "09-05-2024",
+        "End_Date": "09-05-2024",
+        "Link": "https://murrayhillnyc.org/festival"
+    },
+    {
+        "EventID": 22,
+        "e_Name": "Washington Square Outdoor Art Exhibit",
+        "Address": "Washington Square Park",
+        "Borough": "Manhattan",
+        "Region": "Greenwich Village and Soho",
+        "Start_Date": "05-28-2024",
+        "End_Date": "09-06-2024",
+        "Link": "https://wsoae.org/"
+    },
+    {
+        "EventID": 23,
+        "e_Name": "Soho International Film Festival",
+        "Address": "154 Spring St",
+        "Borough": "Manhattan",
+        "Region": "Greenwich Village and Soho",
+        "Start_Date": "10-15-2024",
+        "End_Date": "10-22-2024",
+        "Link": "https://sohofilmfest.com/"
+    },
+    {
+        "EventID": 24,
+        "e_Name": "Village Halloween Parade",
+        "Address": "6th Ave from Spring St to 16th St",
+        "Borough": "Manhattan",
+        "Region": "Greenwich Village and Soho",
+        "Start_Date": "10-31-2024",
+        "End_Date": "10-31-2024",
+        "Link": "https://www.halloween-nyc.com/"
+    },
+    {
+        "EventID": 25,
+        "e_Name": "Union Square Greenmarket",
+        "Address": "Union Square West",
+        "Borough": "Manhattan",
+        "Region": "Union Square and Lower East Side",
+        "Start_Date": "01-01-2024",
+        "End_Date": "12-31-2024",
+        "Link": "https://www.grownyc.org/greenmarket/manhattan-union-square-m"
+    },
+    {
+        "EventID": 26,
+        "e_Name": "Lower East Side Film Festival",
+        "Address": "155 E 3rd St",
+        "Borough": "Manhattan",
+        "Region": "Union Square and Lower East Side",
+        "Start_Date": "06-10-2024",
+        "End_Date": "06-20-2024",
+        "Link": "https://www.lesfilmfestival.com/"
+    },
+    {
+        "EventID": 27,
+        "e_Name": "Taste of the Lower East Side",
+        "Address": "Delancey St & Chrystie St",
+        "Borough": "Manhattan",
+        "Region": "Union Square and Lower East Side",
+        "Start_Date": "04-25-2024",
+        "End_Date": "04-25-2024",
+        "Link": "https://www.tasteofles.com/"
+    },
+    {
+        "EventID": 28,
+        "e_Name": "Tribeca Film Festival",
+        "Address": "Various locations",
+        "Borough": "Manhattan",
+        "Region": "Lower Manhattan",
+        "Start_Date": "06-09-2024",
+        "End_Date": "06-20-2024",
+        "Link": "https://www.tribecafilm.com/"
+    },
+    {
+        "EventID": 29,
+        "e_Name": "Battery Park Music Festival",
+        "Address": "Battery Pl",
+        "Borough": "Manhattan",
+        "Region": "Lower Manhattan",
+        "Start_Date": "08-14-2024",
+        "End_Date": "08-16-2024",
+        "Link": "https://www.batteryparkcity.org/events/"
+    },
+    {
+        "EventID": 30,
+        "e_Name": "SeaGlass Carousel",
+        "Address": "State St & Water St",
+        "Borough": "Manhattan",
+        "Region": "Lower Manhattan",
+        "Start_Date": "05-01-2024",
+        "End_Date": "04-30-2025",
+        "Link": "https://www.seaglasscarousel.nyc/"
+    },
+    {
+        "EventID": 31,
+        "e_Name": "Port Richmond Heritage Day",
+        "Address": "Richmond Terrace",
+        "Borough": "StatenIsland",
+        "Region": "Port Richmond",
+        "Start_Date": "07-04-2024",
+        "End_Date": "07-04-2024",
+        "Link": "https://www.statenislandusa.com/events/port-richmond-heritage-day"
+    },
+    {
+        "EventID": 32,
+        "e_Name": "Port Richmond Street Fair",
+        "Address": "Port Richmond Ave",
+        "Borough": "StatenIsland",
+        "Region": "Port Richmond",
+        "Start_Date": "09-15-2024",
+        "End_Date": "09-15-2024",
+        "Link": "https://www.statenislandstreetfairs.com/"
+    },
+    {
+        "EventID": 33,
+        "e_Name": "Port Richmond Crafts Festival",
+        "Address": "Bennett St",
+        "Borough": "StatenIsland",
+        "Region": "Port Richmond",
+        "Start_Date": "05-20-2024",
+        "End_Date": "05-20-2024",
+        "Link": "https://www.craftsfestival.com/"
+    },
+    {
+        "EventID": 34,
+        "e_Name": "Tottenville Historical Society Walk",
+        "Address": "Main St",
+        "Borough": "StatenIsland",
+        "Region": "South Beach and Tottenville",
+        "Start_Date": "06-01-2024",
+        "End_Date": "06-01-2024",
+        "Link": "https://tottenvillehistory.org/"
+    },
+    {
+        "EventID": 35,
+        "e_Name": "South Beach Kite Festival",
+        "Address": "Father Capodanno Blvd",
+        "Borough": "StatenIsland",
+        "Region": "South Beach and Tottenville",
+        "Start_Date": "08-22-2024",
+        "End_Date": "08-22-2024",
+        "Link": "https://www.nycgovparks.org/parks/south-beach/events/kite-festival"
+    },
+    {
+        "EventID": 36,
+        "e_Name": "Tottenville Fair",
+        "Address": "Amboy Rd",
+        "Borough": "StatenIsland",
+        "Region": "South Beach and Tottenville",
+        "Start_Date": "10-05-2024",
+        "End_Date": "10-05-2024",
+        "Link": "https://www.tottenvillefair.com/"
+    },
+    {
+        "EventID": 37,
+        "e_Name": "St. George Day Festival",
+        "Address": "Hyatt St",
+        "Borough": "StatenIsland",
+        "Region": "Stapleton and St. George",
+        "Start_Date": "04-23-2024",
+        "End_Date": "04-23-2024",
+        "Link": "https://www.stgeorgedaysi.com/"
+    },
+    {
+        "EventID": 38,
+        "e_Name": "Stapleton Saturdays",
+        "Address": "Bay St",
+        "Borough": "StatenIsland",
+        "Region": "Stapleton and St. George",
+        "Start_Date": "07-01-2024",
+        "End_Date": "07-29-2024",
+        "Link": "https://www.stapletonsi.com/saturdays"
+    },
+    {
+        "EventID": 39,
+        "e_Name": "Staten Island Jazz Festival",
+        "Address": "Stuyvesant Pl",
+        "Borough": "StatenIsland",
+        "Region": "Stapleton and St. George",
+        "Start_Date": "10-20-2024",
+        "End_Date": "10-20-2024",
+        "Link": "https://www.sijazzfest.com/"
+    },
+    {
+        "EventID": 40,
+        "e_Name": "Willowbrook Park Concert Series",
+        "Address": "Eton Place",
+        "Borough": "StatenIsland",
+        "Region": "Mid-Island",
+        "Start_Date": "06-15-2024",
+        "End_Date": "08-15-2024",
+        "Link": "https://www.nycgovparks.org/parks/willowbrook-park/events/concert-series"
+    },
+    {
+        "EventID": 41,
+        "e_Name": "Greenbelt Trail Festival",
+        "Address": "Rockland Ave",
+        "Borough": "StatenIsland",
+        "Region": "Mid-Island",
+        "Start_Date": "09-05-2024",
+        "End_Date": "09-05-2024",
+        "Link": "https://sigreenbelt.org/trail-festival"
+    },
+    {
+        "EventID": 42,
+        "e_Name": "Willowbrook Arts & Crafts Fair",
+        "Address": "Victory Blvd",
+        "Borough": "StatenIsland",
+        "Region": "Mid-Island",
+        "Start_Date": "12-05-2024",
+        "End_Date": "12-05-2024",
+        "Link": "https://www.willowbrookarts.org/fair"
+    },
+    {
+        "EventID": 43,
+        "e_Name": "Riverdale Music Festival",
+        "Address": "W 246th St",
+        "Borough": "Bronx",
+        "Region": "Kingsbridge and Riverdale",
+        "Start_Date": "07-15-2024",
+        "End_Date": "07-15-2024",
+        "Link": "https://riverdalemusicfest.org/"
+    },
+    {
+        "EventID": 44,
+        "e_Name": "Kingsbridge Historical Society Walking Tour",
+        "Address": "Kingsbridge Ave",
+        "Borough": "Bronx",
+        "Region": "Kingsbridge and Riverdale",
+        "Start_Date": "10-22-2024",
+        "End_Date": "10-22-2024",
+        "Link": "https://kingsbridgehistoricalsociety.org/walking-tours"
+    },
+    {
+        "EventID": 45,
+        "e_Name": "Riverdale Art Walk",
+        "Address": "Riverdale Ave",
+        "Borough": "Bronx",
+        "Region": "Kingsbridge and Riverdale",
+        "Start_Date": "05-10-2024",
+        "End_Date": "05-10-2024",
+        "Link": "https://riverdaleartwalk.com/"
+    },
+    {
+        "EventID": 46,
+        "e_Name": "Bronx Green-Up Garden Festival",
+        "Address": "Baychester Ave",
+        "Borough": "Bronx",
+        "Region": "Northeast Bronx",
+        "Start_Date": "06-03-2024",
+        "End_Date": "06-03-2024",
+        "Link": "https://www.nybg.org/green-up/"
+    },
+    {
+        "EventID": 47,
+        "e_Name": "Northeast Bronx Jazz Fest",
+        "Address": "Eastchester Rd",
+        "Borough": "Bronx",
+        "Region": "Northeast Bronx",
+        "Start_Date": "09-12-2024",
+        "End_Date": "09-12-2024",
+        "Link": "https://nebronxjazzfest.com/"
+    },
+    {
+        "EventID": 48,
+        "e_Name": "Co-op City Family Fun Day",
+        "Address": "Co-op City Blvd",
+        "Borough": "Bronx",
+        "Region": "Northeast Bronx",
+        "Start_Date": "08-18-2024",
+        "End_Date": "08-18-2024",
+        "Link": "https://coopcityfamilyfun.org/"
+    },
+    {
+      "EventID": 49,
+      "e_Name": "Crotona Park Summer Film Series",
+      "Address": "Crotona Park East",
+      "Borough": "Bronx",
+      "Region": "Crotona and Tremont",
+      "Start_Date": "07-05-2024",
+      "End_Date": "08-30-2024",
+      "Link": "https://www.nycgovparks.org/parks/crotona-park/events/film-series"
+    },
+    {
+      "EventID": 50,
+      "e_Name": "Tremont Arts and Culture Festival",
+      "Address": "E Tremont Ave",
+      "Borough": "Bronx",
+      "Region": "Crotona and Tremont",
+      "Start_Date": "10-05-2024",
+      "End_Date": "10-05-2024",
+      "Link": "https://tremontartfest.com/"
+    },
+    {
+      "EventID": 51,
+      "e_Name": "Bronx Poetry Slam",
+      "Address": "Crotona Ave",
+      "Borough": "Bronx",
+      "Region": "Crotona and Tremont",
+      "Start_Date": "04-20-2024",
+      "End_Date": "04-20-2024",
+      "Link": "https://bronxpoetryslam.com/"
+    },
+    {
+      "EventID": 52,
+      "e_Name": "Bronx Zoo Run for the Wild",
+      "Address": "2300 Southern Blvd",
+      "Borough": "Bronx",
+      "Region": "Bronx Park and Fordham",
+      "Start_Date": "04-28-2024",
+      "End_Date": "04-28-2024",
+      "Link": "https://bronxzoo.com/run-wild"
+    },
+    {
+      "EventID": 53,
+      "e_Name": "Fordham Road Food Festival",
+      "Address": "Fordham Rd & Grand Concourse",
+      "Borough": "Bronx",
+      "Region": "Bronx Park and Fordham",
+      "Start_Date": "06-22-2024",
+      "End_Date": "06-22-2024",
+      "Link": "https://fordhamfoodfest.com/"
+    },
+    {
+      "EventID": 54,
+      "e_Name": "Botanical Gardens Flower Show",
+      "Address": "2900 Southern Blvd",
+      "Borough": "Bronx",
+      "Region": "Bronx Park and Fordham",
+      "Start_Date": "05-15-2024",
+      "End_Date": "05-30-2024",
+      "Link": "https://www.nybg.org/event/flower-show/"
+    },
+    {
+      "EventID": 55,
+      "e_Name": "Pelham Bay Park Earth Day",
+      "Address": "Pelham Bay Park",
+      "Borough": "Bronx",
+      "Region": "Pelham and Throgs Neck",
+      "Start_Date": "04-22-2024",
+      "End_Date": "04-22-2024",
+      "Link": "https://www.nycgovparks.org/parks/pelham-bay-park/events/earth-day"
+    },
+    {
+      "EventID": 56,
+      "e_Name": "Throgs Neck Classic Car Show",
+      "Address": "E Tremont Ave",
+      "Borough": "Bronx",
+      "Region": "Pelham and Throgs Neck",
+      "Start_Date": "09-14-2024",
+      "End_Date": "09-14-2024",
+      "Link": "https://throgsneckclassiccarshow.com/"
+    },
+    {
+      "EventID": 57,
+      "e_Name": "Pelham Parkway Arts Festival",
+      "Address": "Pelham Pkwy",
+      "Borough": "Bronx",
+      "Region": "Pelham and Throgs Neck",
+      "Start_Date": "10-06-2024",
+      "End_Date": "10-06-2024",
+      "Link": "https://pelhamparkwayarts.org/"
+    },
+    {
+      "EventID": 58,
+      "e_Name": "Highbridge Park Music Nights",
+      "Address": "University Ave",
+      "Borough": "Bronx",
+      "Region": "HighBridge and Morrisania",
+      "Start_Date": "07-01-2024",
+      "End_Date": "08-31-2024",
+      "Link": "https://highbridgeparkmusic.org/"
+    },
+    {
+      "EventID": 59,
+      "e_Name": "Morrisania Jazz Festival",
+      "Address": "Franklin Ave",
+      "Borough": "Bronx",
+      "Region": "HighBridge and Morrisania",
+      "Start_Date": "08-15-2024",
+      "End_Date": "08-15-2024",
+      "Link": "https://morrisaniajazzfest.com/"
+    },
+    {
+      "EventID": 60,
+      "e_Name": "Bronx Cultural Parade",
+      "Address": "Grand Concourse",
+      "Borough": "Bronx",
+      "Region": "HighBridge and Morrisania",
+      "Start_Date": "06-30-2024",
+      "End_Date": "06-30-2024",
+      "Link": "https://bronxcultureparade.com/"
+    },
+    {
+      "EventID": 61,
+      "e_Name": "Hunts Point Fish Parade",
+      "Address": "Hunts Point Ave",
+      "Borough": "Bronx",
+      "Region": "Hunts Point and Mott Haven",
+      "Start_Date": "06-25-2024",
+      "End_Date": "06-25-2024",
+      "Link": "https://huntspointfishparade.org/"
+    },
+    {
+      "EventID": 62,
+      "e_Name": "Mott Haven Art Walk",
+      "Address": "138th St",
+      "Borough": "Bronx",
+      "Region": "Hunts Point and Mott Haven",
+      "Start_Date": "09-20-2024",
+      "End_Date": "09-20-2024",
+      "Link": "https://motthavenartwalk.com/"
+    },
+    {
+      "EventID": 63,
+      "e_Name": "Hunts Point Summer Festival",
+      "Address": "Spofford Ave",
+      "Borough": "Bronx",
+      "Region": "Hunts Point and Mott Haven",
+      "Start_Date": "07-12-2024",
+      "End_Date": "07-12-2024",
+      "Link": "https://huntspointsummerfest.org/"
+    },
+    {
+      "EventID": 64,
+      "e_Name": "LIC Arts Open",
+      "Address": "11th Street",
+      "Borough": "Queens",
+      "Region": "Long Island City and Astoria",
+      "Start_Date": "05-11-2024",
+      "End_Date": "05-15-2024",
+      "Link": "https://licartsopen.com/"
+    },
+    {
+      "EventID": 65,
+      "e_Name": "Astoria Music Festival",
+      "Address": "Shore Blvd",
+      "Borough": "Queens",
+      "Region": "Long Island City and Astoria",
+      "Start_Date": "08-12-2024",
+      "End_Date": "08-12-2024",
+      "Link": "https://astoriamusicfestival.org/"
+    },
+    {
+      "EventID": 66,
+      "e_Name": "LIC Flea & Food",
+      "Address": "5-25 46th Ave",
+      "Borough": "Queens",
+      "Region": "Long Island City and Astoria",
+      "Start_Date": "06-01-2024",
+      "End_Date": "09-30-2024",
+      "Link": "https://licflea.com/"
+    },
+    {
+      "EventID": 67,
+      "e_Name": "Corona Park Flower Festival",
+      "Address": "Flushing Meadows Corona Park",
+      "Borough": "Queens",
+      "Region": "West Queens",
+      "Start_Date": "04-05-2024",
+      "End_Date": "04-20-2024",
+      "Link": "https://flushingmeadowspark.com/"
+    },
+    {
+      "EventID": 68,
+      "e_Name": "Jackson Heights Food Crawl",
+      "Address": "37th Avenue",
+      "Borough": "Queens",
+      "Region": "West Queens",
+      "Start_Date": "10-05-2024",
+      "End_Date": "10-05-2024",
+      "Link": "https://jacksonheightsfoodcrawl.com/"
+    },
+    {
+      "EventID": 69,
+      "e_Name": "Ecuadorian Parade",
+      "Address": "Northern Blvd",
+      "Borough": "Queens",
+      "Region": "West Queens",
+      "Start_Date": "08-06-2024",
+      "End_Date": "08-06-2024",
+      "Link": "https://ecuadorianparade.org/"
+    },
+    {
+      "EventID": 70,
+      "e_Name": "Flushing Lunar New Year Parade",
+      "Address": "Main St",
+      "Borough": "Queens",
+      "Region": "North Queens",
+      "Start_Date": "02-01-2024",
+      "End_Date": "02-01-2024",
+      "Link": "https://flushingnewyear.com/"
+    },
+    {
+      "EventID": 71,
+      "e_Name": "Bowne House Historical Fair",
+      "Address": "37-01 Bowne St",
+      "Borough": "Queens",
+      "Region": "North Queens",
+      "Start_Date": "05-30-2024",
+      "End_Date": "05-30-2024",
+      "Link": "https://bownehouse.org/events"
+    },
+    {
+      "EventID": 72,
+      "e_Name": "Whitestone Summer Fest",
+      "Address": "Francis Lewis Blvd",
+      "Borough": "Queens",
+      "Region": "North Queens",
+      "Start_Date": "07-15-2024",
+      "End_Date": "07-15-2024",
+      "Link": "https://whitestonesummerfest.com/"
+    },
+    {
+      "EventID": 73,
+      "e_Name": "Fort Totten Independence Day Celebration",
+      "Address": "Fort Totten",
+      "Borough": "Queens",
+      "Region": "Northeast Queens",
+      "Start_Date": "07-04-2024",
+      "End_Date": "07-04-2024",
+      "Link": "https://forttotten.org/july4th"
+    },
+    {
+      "EventID": 74,
+      "e_Name": "Little Neck-Douglaston Memorial Day Parade",
+      "Address": "Northern Blvd",
+      "Borough": "Queens",
+      "Region": "Northeast Queens",
+      "Start_Date": "05-29-2024",
+      "End_Date": "05-29-2024",
+      "Link": "https://lndmemorialday.org/"
+    },
+    {
+      "EventID": 75,
+      "e_Name": "Northeast Queens Jazz Night",
+      "Address": "Bell Blvd",
+      "Borough": "Queens",
+      "Region": "Northeast Queens",
+      "Start_Date": "09-20-2024",
+      "End_Date": "09-20-2024",
+      "Link": "https://nequeensjazz.org/"
+    },
+    {
+      "EventID": 76,
+      "e_Name": "Forest Hills Greenmarket",
+      "Address": "Queens Blvd & 70th Ave",
+      "Borough": "Queens",
+      "Region": "West Central Queens",
+      "Start_Date": "03-01-2024",
+      "End_Date": "11-30-2024",
+      "Link": "https://www.grownyc.org/greenmarket/queens/forest-hills"
+    },
+    {
+      "EventID": 77,
+      "e_Name": "Ridgewood Artisan Market",
+      "Address": "Catalpa Ave",
+      "Borough": "Queens",
+      "Region": "West Central Queens",
+      "Start_Date": "06-12-2024",
+      "End_Date": "12-15-2024",
+      "Link": "https://ridgewoodmarket.com/"
+    },
+    {
+      "EventID": 78,
+      "e_Name": "Rego Park Food Festival",
+      "Address": "63rd Drive",
+      "Borough": "Queens",
+      "Region": "West Central Queens",
+      "Start_Date": "08-23-2024",
+      "End_Date": "08-23-2024",
+      "Link": "https://regoparkfest.org/"
+    },
+    {
+      "EventID": 79,
+      "e_Name": "Fresh Meadows Music Festival",
+      "Address": "64th Ave & 173rd St",
+      "Borough": "Queens",
+      "Region": "Central Queens",
+      "Start_Date": "09-15-2024",
+      "End_Date": "09-15-2024",
+      "Link": "https://freshmeadowsmusicfest.com/"
+    },
+    {
+      "EventID": 80,
+      "e_Name": "Hillcrest Jewish Center Carnival",
+      "Address": "Union Tpke",
+      "Borough": "Queens",
+      "Region": "Central Queens",
+      "Start_Date": "05-10-2024",
+      "End_Date": "05-14-2024",
+      "Link": "https://hillcrestjc.org/carnival"
+    },
+    {
+      "EventID": 81,
+      "e_Name": "Kew Gardens Community ArtsDay",
+      "Address": "Metropolitan Ave",
+      "Borough": "Queens",
+      "Region": "Central Queens",
+      "Start_Date": "09-03-2024",
+      "End_Date": "09-03-2024",
+      "Link": "https://kewgardensfestival.com/"
+    },
+    {
+      "EventID": 82,
+      "e_Name": "Woodhaven Cultural & Historical Society Parade",
+      "Address": "Jamaica Ave",
+      "Borough": "Queens",
+      "Region": "Southwest Queens",
+      "Start_Date": "10-31-2024",
+      "End_Date": "10-31-2024",
+      "Link": "https://woodhavenhistory.org/"
+    },
+    {
+      "EventID": 83,
+      "e_Name": "Ozone Park Block Party",
+      "Address": "101st Ave",
+      "Borough": "Queens",
+      "Region": "Southwest Queens",
+      "Start_Date": "07-04-2024",
+      "End_Date": "07-04-2024",
+      "Link": "https://ozoneparkparty.org/"
+    },
+    {
+      "EventID": 84,
+      "e_Name": "Richmond Hill Street Fair",
+      "Address": "Liberty Ave",
+      "Borough": "Queens",
+      "Region": "Southwest Queens",
+      "Start_Date": "05-20-2024",
+      "End_Date": "05-20-2024",
+      "Link": "https://richmondhillfair.org/"
+    },
+    {
+      "EventID": 85,
+      "e_Name": "Jamaica Arts & Music Summer (JAMS)",
+      "Address": "Jamaica Ave",
+      "Borough": "Queens",
+      "Region": "Jamaica",
+      "Start_Date": "08-05-2024",
+      "End_Date": "08-06-2024",
+      "Link": "https://jamsfestival.org/"
+    },
+    {
+      "EventID": 86,
+      "e_Name": "Jamaica Bay Wildlife Festival",
+      "Address": "Jamaica Bay",
+      "Borough": "Queens",
+      "Region": "Jamaica",
+      "Start_Date": "06-10-2024",
+      "End_Date": "06-10-2024",
+      "Link": "https://jamaicabayfestival.com/"
+    },
+    {
+      "EventID": 87,
+      "e_Name": "King Manor Museum Historical Reenactment",
+      "Address": "King Park",
+      "Borough": "Queens",
+      "Region": "Jamaica",
+      "Start_Date": "09-17-2024",
+      "End_Date": "09-17-2024",
+      "Link": "https://kingmanor.org/events"
+    },
+    {
+      "EventID": 88,
+      "e_Name": "Springfield Park Jazz Festival",
+      "Address": "Springfield Blvd",
+      "Borough": "Queens",
+      "Region": "Southeast Queens",
+      "Start_Date": "07-19-2024",
+      "End_Date": "07-19-2024",
+      "Link": "https://springfieldjazzfest.com/"
+    },
+    {
+      "EventID": 89,
+      "e_Name": "Rosedale Civic Association Parade",
+      "Address": "Francis Lewis Blvd",
+      "Borough": "Queens",
+      "Region": "Southeast Queens",
+      "Start_Date": "04-30-2024",
+      "End_Date": "04-30-2024",
+      "Link": "https://rosedalecivic.org/parade"
+    },
+    {
+      "EventID": 90,
+      "e_Name": "Queens Village Historical Society Exhibition",
+      "Address": "Hillside Ave",
+      "Borough": "Queens",
+      "Region": "Southeast Queens",
+      "Start_Date": "10-12-2024",
+      "End_Date": "10-12-2024",
+      "Link": "https://queensvillagehistory.org/"
+    },
+    {
+      "EventID": 91,
+      "e_Name": "Rockaway Beach Surf Competition",
+      "Address": "Beach 90th St",
+      "Borough": "Queens",
+      "Region": "Rockaways",
+      "Start_Date": "08-20-2024",
+      "End_Date": "08-20-2024",
+      "Link": "https://rockawaysurf.com/"
+    },
+    {
+      "EventID": 92,
+      "e_Name": "Rockaway Food Truck Festival",
+      "Address": "Rockaway Beach Blvd",
+      "Borough": "Queens",
+      "Region": "Rockaways",
+      "Start_Date": "05-05-2024",
+      "End_Date": "09-05-2024",
+      "Link": "https://rockawayfoodtruckfest.org/"
+    },
+    {
+      "EventID": 93,
+      "e_Name": "Fort Tilden Art Walk",
+      "Address": "Fort Tilden",
+      "Borough": "Queens",
+      "Region": "Rockaways",
+      "Start_Date": "06-01-2024",
+      "End_Date": "06-01-2024",
+      "Link": "https://forttildenartwalk.org/"
+    },
+    {
+      "EventID": 94,
+      "e_Name": "Greenpoint Film Festival",
+      "Address": "Greenpoint Ave",
+      "Borough": "Brooklyn",
+      "Region": "Greenpoint",
+      "Start_Date": "05-08-2024",
+      "End_Date": "05-11-2024",
+      "Link": "https://greenpointfilmfestival.org/"
+    },
+    {
+      "EventID": 95,
+      "e_Name": "Greenpoint Open Studios",
+      "Address": "Franklin St",
+      "Borough": "Brooklyn",
+      "Region": "Greenpoint",
+      "Start_Date": "10-03-2024",
+      "End_Date": "10-04-2024",
+      "Link": "https://greenpointopenstudios.com/"
+    },
+    {
+      "EventID": 96,
+      "e_Name": "Greenpoint Ave Block Party",
+      "Address": "Greenpoint Ave",
+      "Borough": "Brooklyn",
+      "Region": "Greenpoint",
+      "Start_Date": "07-14-2024",
+      "End_Date": "07-14-2024",
+      "Link": "https://greenpointblockparty.com/"
+    },
+    {
+      "EventID": 97,
+      "e_Name": "Brooklyn Heights Art Walk",
+      "Address": "Montague St",
+      "Borough": "Brooklyn",
+      "Region": "Northwest Brooklyn",
+      "Start_Date": "06-15-2024",
+      "End_Date": "06-15-2024",
+      "Link": "https://brooklynheightsartwalk.com/"
+    },
+    {
+      "EventID": 98,
+      "e_Name": "DUMBO Arts Festival",
+      "Address": "Main St",
+      "Borough": "Brooklyn",
+      "Region": "Northwest Brooklyn",
+      "Start_Date": "09-21-2024",
+      "End_Date": "09-23-2024",
+      "Link": "https://dumboartsfestival.com/"
+    },
+    {
+      "EventID": 99,
+      "e_Name": "Brooklyn Bridge Celebration",
+      "Address": "Brooklyn Bridge Park",
+      "Borough": "Brooklyn",
+      "Region": "Northwest Brooklyn",
+      "Start_Date": "05-24-2024",
+      "End_Date": "05-24-2024",
+      "Link": "https://brooklynbridgepark.org/events/celebration"
+    },
+    {
+      "EventID": 100,
+      "e_Name": "Bed-Stuy Arts Stroll",
+      "Address": "Fulton St",
+      "Borough": "Brooklyn",
+      "Region": "Central Brooklyn",
+      "Start_Date": "07-19-2024",
+      "End_Date": "07-19-2024",
+      "Link": "https://bedstuyartsstroll.com/"
+    },
+    {
+    "EventID": 101,
+    "e_Name": "Crown Heights Jazz Festival",
+    "Address": "Nostrand Ave",
+    "Borough": "Brooklyn",
+    "Region": "Central Brooklyn",
+    "Start_Date": "08-08-2024",
+    "End_Date": "08-08-2024",
+    "Link": "https://crownheightsjazzfest.com/"
+    },
+    {
+    "EventID": 102,
+    "e_Name": "Bedford-Stuyvesant Museum Day",
+    "Address": "Lewis Ave",
+    "Borough": "Brooklyn",
+    "Region": "Central Brooklyn",
+    "Start_Date": "10-05-2024",
+    "End_Date": "10-05-2024",
+    "Link": "https://bedfordstuyvesantmuseumday.com/"
+    },
+    {
+    "EventID": 103,
+    "e_Name": "East New York Farm Fair",
+    "Address": "New Lots Ave",
+    "Borough": "Brooklyn",
+    "Region": "East New York and New Lots",
+    "Start_Date": "06-22-2024",
+    "End_Date": "06-22-2024",
+    "Link": "https://eastnewyorkfarmfair.com/"
+    },
+    {
+    "EventID": 104,
+    "e_Name": "New Lots Music Festival",
+    "Address": "Livonia Ave",
+    "Borough": "Brooklyn",
+    "Region": "East New York and New Lots",
+    "Start_Date": "09-15-2024",
+    "End_Date": "09-15-2024",
+    "Link": "https://newlotsmusicfest.com/"
+    },
+    {
+    "EventID": 105,
+    "e_Name": "East New York Heritage Day",
+    "Address": "Schneck Ave",
+    "Borough": "Brooklyn",
+    "Region": "East New York and New Lots",
+    "Start_Date": "08-11-2024",
+    "End_Date": "08-11-2024",
+    "Link": "https://eastnewyorkheritageday.com/"
+    },
+    {
+    "EventID": 106,
+    "e_Name": "Sunset Park Latino Festival",
+    "Address": "5th Ave",
+    "Borough": "Brooklyn",
+    "Region": "Sunset Park",
+    "Start_Date": "07-27-2024",
+    "End_Date": "07-27-2024",
+    "Link": "https://sunsetparklatinofestival.com/"
+    },
+    {
+    "EventID": 107,
+    "e_Name": "Sunset Park Waterfront Arts Festival",
+    "Address": "44th St",
+    "Borough": "Brooklyn",
+    "Region": "Sunset Park",
+    "Start_Date": "05-15-2024",
+    "End_Date": "05-15-2024",
+    "Link": "https://sunsetwaterfrontarts.com/"
+    },
+    {
+    "EventID": 108,
+    "e_Name": "Sunset Park Street Fair",
+    "Address": "60th St",
+    "Borough": "Brooklyn",
+    "Region": "Sunset Park",
+    "Start_Date": "09-05-2024",
+    "End_Date": "09-05-2024",
+    "Link": "https://sunsetparkstreetfair.com/"
+    },
+    {
+    "EventID": 109,
+    "e_Name": "Bay Ridge Festival of the Arts",
+    "Address": "3rd Ave",
+    "Borough": "Brooklyn",
+    "Region": "Southwest Brooklyn",
+    "Start_Date": "06-10-2024",
+    "End_Date": "06-10-2024",
+    "Link": "https://bayridgefestival.org/"
+    },
+    {
+    "EventID": 110,
+    "e_Name": "Southwest Brooklyn Fall Festival",
+    "Address": "Ridge Blvd",
+    "Borough": "Brooklyn",
+    "Region": "Southwest Brooklyn",
+    "Start_Date": "10-01-2024",
+    "End_Date": "10-01-2024",
+    "Link": "https://swbrooklynfallfest.com/"
+    },
+    {
+    "EventID": 111,
+    "e_Name": "Bensonhurst Food & Family Day",
+    "Address": "18th Ave",
+    "Borough": "Brooklyn",
+    "Region": "Southwest Brooklyn",
+    "Start_Date": "09-15-2024",
+    "End_Date": "09-15-2024",
+    "Link": "https://bensonhurstfestival.com/"
+    },
+    {
+        "EventID": 112,
+        "e_Name": "Borough Park Historical Tour",
+        "Address": "14th Ave",
+        "Borough": "Brooklyn",
+        "Region": "Borough Park",
+        "Start_Date": "10-06-2024",
+        "End_Date": "10-06-2024",
+        "Link": "https://boroughparkhistory.org/"
+    },
+    {
+        "EventID": 113,
+        "e_Name": "Borough Park Community Carnival",
+        "Address": "50th St",
+        "Borough": "Brooklyn",
+        "Region": "Borough Park",
+        "Start_Date": "06-12-2024",
+        "End_Date": "06-12-2024",
+        "Link": "https://bpcommunitycarnival.com/"
+    },
+    {
+        "EventID": 114,
+        "e_Name": "Borough Park Autumn Fair",
+        "Address": "New Utrecht Ave",
+        "Borough": "Brooklyn",
+        "Region": "Borough Park",
+        "Start_Date": "09-23-2024",
+        "End_Date": "09-23-2024",
+        "Link": "https://bpautumnfair.com/"
+    },
+    {
+        "EventID": 115,
+        "e_Name": "Canarsie Cultural Parade",
+        "Address": "Flatlands Ave",
+        "Borough": "Brooklyn",
+        "Region": "Canarsie and Flatlands",
+        "Start_Date": "08-13-2024",
+        "End_Date": "08-13-2024",
+        "Link": "https://canarsieculturalparade.com/"
+    },
+    {
+        "EventID": 116,
+        "e_Name": "Flatlands Food Fest",
+        "Address": "Ave L",
+        "Borough": "Brooklyn",
+        "Region": "Canarsie and Flatlands",
+        "Start_Date": "07-20-2024",
+        "End_Date": "07-20-2024",
+        "Link": "https://flatlandsfoodfest.com/"
+    },
+    {
+        "EventID": 117,
+        "e_Name": "Canarsie Art Trail",
+        "Address": "Rockaway Pkwy",
+        "Borough": "Brooklyn",
+        "Region": "Canarsie and Flatlands",
+        "Start_Date": "05-28-2024",
+        "End_Date": "05-28-2024",
+        "Link": "https://canarsiearttrail.com/"
+    },
+    {
+        "EventID": 118,
+        "e_Name": "Coney Island Film Festival",
+        "Address": "Surf Ave",
+        "Borough": "Brooklyn",
+        "Region": "Southern Brooklyn",
+        "Start_Date": "09-13-2024",
+        "End_Date": "09-15-2024",
+        "Link": "https://coneyislandfilmfestival.com/"
+    },
+    {
+        "EventID": 119,
+        "e_Name": "Brighton Beach Cultural Festival",
+        "Address": "Brighton Beach Ave",
+        "Borough": "Brooklyn",
+        "Region": "Southern Brooklyn",
+        "Start_Date": "08-07-2024",
+        "End_Date": "08-07-2024",
+        "Link": "https://brightonbeachfest.com/"
+    },
+    {
+        "EventID": 120,
+        "e_Name": "Sheepshead Bay Boat Show",
+        "Address": "Emmons Ave",
+        "Borough": "Brooklyn",
+        "Region": "Southern Brooklyn",
+        "Start_Date": "06-19-2024",
+        "End_Date": "06-19-2024",
+        "Link": "https://sheepsheadbayboatshow.com/"
+    },
+    {
+        "EventID": 121,
+        "e_Name": "Flatbush Avenue Street Fair",
+        "Address": "Flatbush Ave",
+        "Borough": "Brooklyn",
+        "Region": "Flatbush",
+        "Start_Date": "07-04-2024",
+        "End_Date": "07-04-2024",
+        "Link": "https://flatbushstreetfair.com/"
+    },
+    {
+        "EventID": 122,
+        "e_Name": "Prospect Park Summer Bash",
+        "Address": "Prospect Park West",
+        "Borough": "Brooklyn",
+        "Region": "Flatbush",
+        "Start_Date": "06-22-2024",
+        "End_Date": "06-22-2024",
+        "Link": "https://prospectparksummerbash.com/"
+    },
+    {
+        "EventID": 123,
+        "e_Name": "Flatbush Art and Jazz Festival",
+        "Address": "Ocean Ave",
+        "Borough": "Brooklyn",
+        "Region": "Flatbush",
+        "Start_Date": "09-25-2024",
+        "End_Date": "09-25-2024",
+        "Link": "https://flatbushjazzfest.com/"
+    },
+    {
+        "EventID": 124,
+        "e_Name": "Williamsburg Indie Film Fest",
+        "Address": "Wythe Ave",
+        "Borough": "Brooklyn",
+        "Region": "Bushwick and Williamsburg",
+        "Start_Date": "10-15-2024",
+        "End_Date": "10-20-2024",
+        "Link": "https://williamsburgindiefilmfest.com/"
+    },
+    {
+        "EventID": 125,
+        "e_Name": "Bushwick Collective Block Party",
+        "Address": "Troutman St",
+        "Borough": "Brooklyn",
+        "Region": "Bushwick and Williamsburg",
+        "Start_Date": "06-01-2024",
+        "End_Date": "06-01-2024",
+        "Link": "https://bushwickcollectiveblockparty.com/"
+    },
+    {
+        "EventID": 126,
+        "e_Name": "Williamsburg Waterfront Performances",
+        "Address": "N 12th St",
+        "Borough": "Brooklyn",
+        "Region": "Bushwick and Williamsburg",
+        "Start_Date": "08-10-2024",
+        "End_Date": "08-10-2024",
+        "Link": "https://williamsburgwaterfrontperf.com/"
+    }
+  ],
+  "ThingsToDo": [
+    {
+      "ActivityID": 1,
+      "t_Name": "Cloisters Museum",
+      "Address": "99 Margaret Corbin Dr",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "t_Type": "Museum",
+      "Link": "http://metmuseum.org/visit/visit-the-cloisters"
+    },
+    {
+      "ActivityID": 2,
+      "t_Name": "Fort Tryon Park",
+      "Address": "Riverside Dr to Broadway",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/fort-tryon-park"
+    },
+    {
+      "ActivityID": 3,
+      "t_Name": "United Palace Theatre",
+      "Address": "4140 Broadway",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "t_Type": "Theatre",
+      "Link": "https://www.unitedpalace.org/"
+    },
+    {
+      "ActivityID": 4,
+      "t_Name": "Apollo Theater",
+      "Address": "253 W 125th St",
+      "Borough": "Manhattan",
+      "Region": "Central Harlem",
+      "t_Type": "Theatre",
+      "Link": "https://www.apollotheater.org/"
+    },
+    {
+      "ActivityID": 5,
+      "t_Name": "Marcus Garvey Park",
+      "Address": "18 Mount Morris Park W",
+      "Borough": "Manhattan",
+      "Region": "Central Harlem",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/marcus-garvey-park"
+    },
+    {
+      "ActivityID": 6,
+      "t_Name": "Studio Museum Harlem",
+      "Address": "144 W 125th St",
+      "Borough": "Manhattan",
+      "Region": "Central Harlem",
+      "t_Type": "Museum",
+      "Link": "https://studiomuseum.org/"
+    },
+    {
+      "ActivityID": 7,
+      "t_Name": "El Museo del Barrio",
+      "Address": "1230 5th Ave",
+      "Borough": "Manhattan",
+      "Region": "East Harlem",
+      "t_Type": "Museum",
+      "Link": "https://www.elmuseo.org/"
+    },
+    {
+      "ActivityID": 8,
+      "t_Name": "Thomas Jefferson Park",
+      "Address": "2180 1st Ave",
+      "Borough": "Manhattan",
+      "Region": "East Harlem",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/thomas-jefferson-park"
+    },
+    {
+      "ActivityID": 9,
+      "t_Name": "Graffiti Hall of Fame",
+      "Address": "106th St & Park Ave",
+      "Borough": "Manhattan",
+      "Region": "East Harlem",
+      "t_Type": "Cultural Site",
+      "Link": "https://www.atlasobscura.com/places/graffiti-hall-of-fame"
+    },
+    {
+      "ActivityID": 10,
+      "t_Name": "American Museum of Natural History",
+      "Address": "200 Central Park W",
+      "Borough": "Manhattan",
+      "Region": "Upper West Side",
+      "t_Type": "Museum",
+      "Link": "https://www.amnh.org/"
+    },
+    {
+      "ActivityID": 11,
+      "t_Name": "Lincoln Center",
+      "Address": "10 Lincoln Center Plaza",
+      "Borough": "Manhattan",
+      "Region": "Upper West Side",
+      "t_Type": "Cultural Center",
+      "Link": "https://www.lincolncenter.org/"
+    },
+    {
+      "ActivityID": 12,
+      "t_Name": "Central Park",
+      "Address": "59th to 110th St",
+      "Borough": "Manhattan",
+      "Region": "Upper West Side",
+      "t_Type": "Park",
+      "Link": "https://www.centralparknyc.org/"
+    },
+    {
+      "ActivityID": 13,
+      "t_Name": "The Metropolitan Museum of Art",
+      "Address": "1000 5th Ave",
+      "Borough": "Manhattan",
+      "Region": "Upper East Side",
+      "t_Type": "Museum",
+      "Link": "https://www.metmuseum.org/"
+    },
+    {
+      "ActivityID": 14,
+      "t_Name": "Central Park Zoo",
+      "Address": "E 64th St",
+      "Borough": "Manhattan",
+      "Region": "Upper East Side",
+      "t_Type": "Zoo",
+      "Link": "https://centralparkzoo.com/"
+    },
+    {
+      "ActivityID": 15,
+      "t_Name": "Frick Collection",
+      "Address": "1 E 70th St",
+      "Borough": "Manhattan",
+      "Region": "Upper East Side",
+      "t_Type": "Museum",
+      "Link": "https://www.frick.org/"
+    },
+    {
+      "ActivityID": 16,
+      "t_Name": "High Line",
+      "Address": "Gansevoort St to 34th St",
+      "Borough": "Manhattan",
+      "Region": "Chelsea and Clinton",
+      "t_Type": "Park",
+      "Link": "https://www.thehighline.org/"
+    },
+    {
+      "ActivityID": 17,
+      "t_Name": "Chelsea Market",
+      "Address": "75 9th Ave",
+      "Borough": "Manhattan",
+      "Region": "Chelsea and Clinton",
+      "t_Type": "Market",
+      "Link": "https://www.chelseamarket.com/"
+    },
+    {
+      "ActivityID": 18,
+      "t_Name": "Rubin Museum of Art",
+      "Address": "150 W 17th St",
+      "Borough": "Manhattan",
+      "Region": "Chelsea and Clinton",
+      "t_Type": "Museum",
+      "Link": "https://www.rubinmuseum.org/"
+    },
+    {
+      "ActivityID": 19,
+      "t_Name": "Gramercy Park",
+      "Address": "2 Lexington Ave",
+      "Borough": "Manhattan",
+      "Region": "Gramercy Park and Murray Hill",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/gramercy-park"
+    },
+    {
+      "ActivityID": 20,
+      "t_Name": "Morgan Library & Museum",
+      "Address": "225 Madison Ave",
+      "Borough": "Manhattan",
+      "Region": "Gramercy Park and Murray Hill",
+      "t_Type": "Museum",
+      "Link": "https://www.themorgan.org/"
+    },
+    {
+      "ActivityID": 21,
+      "t_Name": "Sniffen Court Historic District",
+      "Address": "150 E 36th St",
+      "Borough": "Manhattan",
+      "Region": "Gramercy Park and Murray Hill",
+      "t_Type": "Historic Site",
+      "Link": "https://www.nycgo.com/venues/sniffen-court"
+    },
+    {
+      "ActivityID": 22,
+      "t_Name": "Washington Square Park",
+      "Address": "5 Ave, Waverly Pl., W. 4 St. and Macdougal St.",
+      "Borough": "Manhattan",
+      "Region": "Greenwich Village and Soho",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/washington-square-park"
+    },
+    {
+      "ActivityID": 23,
+      "t_Name": "New York University",
+      "Address": "70 Washington Sq S",
+      "Borough": "Manhattan",
+      "Region": "Greenwich Village and Soho",
+      "t_Type": "University Campus",
+      "Link": "https://www.nyu.edu/"
+    },
+    {
+      "ActivityID": 24,
+      "t_Name": "Whitney Museum of American Art",
+      "Address": "99 Gansevoort St",
+      "Borough": "Manhattan",
+      "Region": "Greenwich Village and Soho",
+      "t_Type": "Museum",
+      "Link": "https://whitney.org/"
+    },
+    {
+      "ActivityID": 25,
+      "t_Name": "Union Square Park",
+      "Address": "Broadway to 4 Ave, E 14 St. to E 17 St.",
+      "Borough": "Manhattan",
+      "Region": "Union Square and Lower East Side",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/union-square-park"
+    },
+    {
+      "ActivityID": 26,
+      "t_Name": "The New Museum",
+      "Address": "235 Bowery",
+      "Borough": "Manhattan",
+      "Region": "Union Square and Lower East Side",
+      "t_Type": "Museum",
+      "Link": "https://www.newmuseum.org/"
+    },
+    {
+      "ActivityID": 27,
+      "t_Name": "Tenement Museum",
+      "Address": "103 Orchard St",
+      "Borough": "Manhattan",
+      "Region": "Union Square and Lower East Side",
+      "t_Type": "Museum",
+      "Link": "https://www.tenement.org/"
+    },
+    {
+      "ActivityID": 28,
+      "t_Name": "Statue of Liberty",
+      "Address": "Liberty Island",
+      "Borough": "Manhattan",
+      "Region": "Lower Manhattan",
+      "t_Type": "Monument",
+      "Link": "https://www.nps.gov/stli/index.htm"
+    },
+    {
+      "ActivityID": 29,
+      "t_Name": "One World Observatory",
+      "Address": "117 West St",
+      "Borough": "Manhattan",
+      "Region": "Lower Manhattan",
+      "t_Type": "Observatory",
+      "Link": "https://www.oneworldobservatory.com/"
+    },
+    {
+      "ActivityID": 30,
+      "t_Name": "9/11 Memorial & Museum",
+      "Address": "180 Greenwich St",
+      "Borough": "Manhattan",
+      "Region": "Lower Manhattan",
+      "t_Type": "Museum",
+      "Link": "https://www.911memorial.org/"
+    }, 
+    {
+      "PlaceID": 31,
+      "t_Name": "Snug Harbor Cultural Center",
+      "Address": "1000 Richmond Terrace",
+      "Borough": "StatenIsland",
+      "Region": "Port Richmond",
+      "t_Type": "Cultural Center",
+      "Link": "http://snug-harbor.org/"
+    },
+    {
+      "PlaceID": 32,
+      "t_Name": "StatenIsland Zoo",
+      "Address": "614 Broadway",
+      "Borough": "StatenIsland",
+      "Region": "Port Richmond",
+      "t_Type": "Zoo",
+      "Link": "http://www.statenislandzoo.org/"
+    },
+    {
+      "PlaceID": 33,
+      "t_Name": "Port Richmond Park",
+      "Address": "Park Ave & Bennett St",
+      "Borough": "StatenIsland",
+      "Region": "Port Richmond",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/port-richmond-park"
+    },
+    {
+      "PlaceID": 34,
+      "t_Name": "South Beach",
+      "Address": "Father Capodanno Blvd",
+      "Borough": "StatenIsland",
+      "Region": "South Beach and Tottenville",
+      "t_Type": "Beach",
+      "Link": "https://www.nycgovparks.org/parks/south-beach"
+    },
+    {
+      "PlaceID": 35,
+      "t_Name": "Conference House Park",
+      "Address": "298 Satterlee St",
+      "Borough": "StatenIsland",
+      "Region": "South Beach and Tottenville",
+      "t_Type": "Historic Site",
+      "Link": "https://www.nycgovparks.org/parks/conference-house-park"
+    },
+    {
+      "PlaceID": 36,
+      "t_Name": "Tottenville Swimming Pool",
+      "Address": "Hylan Blvd & Joline Ave",
+      "Borough": "StatenIsland",
+      "Region": "South Beach and Tottenville",
+      "t_Type": "Public Pool",
+      "Link": "https://www.nycgovparks.org/facilities/outdoor-pools"
+    },
+    {
+      "PlaceID": 37,
+      "t_Name": "St. George Theatre",
+      "Address": "35 Hyatt St",
+      "Borough": "StatenIsland",
+      "Region": "Stapleton and St. George",
+      "t_Type": "Theatre",
+      "Link": "https://www.stgeorgetheatre.com/"
+    },
+    {
+      "PlaceID": 38,
+      "t_Name": "Empire Outlets",
+      "Address": "55 Richmond Terrace",
+      "Borough": "StatenIsland",
+      "Region": "Stapleton and St. George",
+      "t_Type": "Shopping",
+      "Link": "http://www.empireoutlets.nyc/"
+    },
+    {
+      "PlaceID": 39,
+      "t_Name": "Staten Island Museum",
+      "Address": "1000 Richmond Terrace",
+      "Borough": "StatenIsland",
+      "Region": "Stapleton and St. George",
+      "t_Type": "Museum",
+      "Link": "https://www.statenislandmuseum.org/"
+    },
+    {
+      "PlaceID": 40,
+      "t_Name": "Willowbrook Park",
+      "Address": "1 Eton Pl",
+      "Borough": "StatenIsland",
+      "Region": "Mid-Island",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/willowbrook-park"
+    },
+    {
+      "PlaceID": 41,
+      "t_Name": "StatenIsland Greenbelt",
+      "Address": "700 Rockland Ave",
+      "Borough": "StatenIsland",
+      "Region": "Mid-Island",
+      "t_Type": "Nature Reserve",
+      "Link": "https://www.sigreenbelt.org/"
+    },
+    {
+      "PlaceID": 42,
+      "t_Name": "Historic Richmond Town",
+      "Address": "441 Clarke Ave",
+      "Borough": "StatenIsland",
+      "Region": "Mid-Island",
+      "t_Type": "Historic Site",
+      "Link": "https://www.historicrichmondtown.org/"
+    },
+    {
+      "PlaceID": 43,
+      "t_Name": "Wave Hill",
+      "Address": "4900 Independence Ave",
+      "Borough": "Bronx",
+      "Region": "Kingsbridge and Riverdale",
+      "t_Type": "Public Garden",
+      "Link": "https://www.wavehill.org/"
+    },
+    {
+      "PlaceID": 44,
+      "t_Name": "Van Cortlandt Park",
+      "Address": "Broadway and Van Cortlandt Park S",
+      "Borough": "Bronx",
+      "Region": "Kingsbridge and Riverdale",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/Van-Cortlandt-Park"
+    },
+    {
+      "PlaceID": 45,
+      "t_Name": "Riverdale Stables",
+      "Address": "6394 Broadway",
+      "Borough": "Bronx",
+      "Region": "Kingsbridge and Riverdale",
+      "t_Type": "Stables",
+      "Link": "https://riverdalestables.com/"
+    },
+    {
+      "PlaceID": 46,
+      "t_Name": "Baychester Youth Athletic Association",
+      "Address": "1220 E 222nd St",
+      "Borough": "Bronx",
+      "Region": "Northeast Bronx",
+      "t_Type": "Sports Complex",
+      "Link": "http://www.byaa.org/"
+    },
+    {
+      "PlaceID": 47,
+      "t_Name": "Pelham Bay Park",
+      "Address": "Bruckner Blvd & Wilkinson Ave",
+      "Borough": "Bronx",
+      "Region": "Northeast Bronx",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/pelham-bay-park"
+    },
+    {
+      "PlaceID": 48,
+      "t_Name": "Bartow-Pell Mansion Museum",
+      "Address": "895 Shore Road",
+      "Borough": "Bronx",
+      "Region": "Northeast Bronx",
+      "t_Type": "Museum",
+      "Link": "https://www.bartowpellmansionmuseum.org/"
+    },
+    {
+      "PlaceID": 49,
+      "t_Name": "Crotona Park",
+      "Address": "1700 Crotona Ave",
+      "Borough": "Bronx",
+      "Region": "Crotona and Tremont",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/crotona-park"
+    },
+    {
+    "PlaceID": 50,
+    "t_Name": "Bronx Museum of Arts",
+      "Address": "1040 Grand Concourse",
+        "Borough": "Bronx",
+        "Region": "Crotona and Tremont",
+        "t_Type": "Museum",
+        "Link": "https://www.bronxmuseum.org/"
+      },
+      {
+        "PlaceID": 51,
+        "t_Name": "Tremont Park",
+        "Address": "Tremont Ave & 3rd Ave",
+        "Borough": "Bronx",
+        "Region": "Crotona and Tremont",
+        "t_Type": "Park",
+        "Link": "https://www.nycgovparks.org/parks/tremont-park"
+      },
+      {
+        "PlaceID": 52,
+        "t_Name": "Bronx Zoo",
+        "Address": "2300 Southern Blvd",
+        "Borough": "Bronx",
+        "Region": "Bronx Park and Fordham",
+        "t_Type": "Zoo",
+        "Link": "https://bronxzoo.com/"
+      },
+      {
+        "PlaceID": 53,
+        "t_Name": "New York Botanical Garden",
+        "Address": "2900 Southern Blvd",
+        "Borough": "Bronx",
+        "Region": "Bronx Park and Fordham",
+        "t_Type": "Botanical Garden",
+        "Link": "https://www.nybg.org/"
+      },
+      {
+        "PlaceID": 54,
+        "t_Name": "Edgar Allan Poe Cottage",
+        "Address": "2640 Grand Concourse",
+        "Borough": "Bronx",
+        "Region": "Bronx Park and Fordham",
+        "t_Type": "Historic Site",
+        "Link": "https://www.bronxhistoricalsociety.org/poe-cottage"
+      },
+      {
+        "PlaceID": 55,
+        "t_Name": "Orchard Beach",
+        "Address": "Orchard Beach Rd",
+        "Borough": "Bronx",
+        "Region": "Pelham and Throgs Neck",
+        "t_Type": "Beach",
+        "Link": "https://www.nycgovparks.org/parks/orchard-beach"
+      },
+      {
+        "PlaceID": 56,
+        "t_Name": "City Island Nautical Museum",
+        "Address": "190 Fordham St",
+        "Borough": "Bronx",
+        "Region": "Pelham and Throgs Neck",
+        "t_Type": "Museum",
+        "Link": "https://www.cityislandmuseum.org/"
+      },
+      {
+        "PlaceID": 57,
+        "t_Name": "Fort Schuyler",
+        "Address": "1 Pennyfield Ave",
+        "Borough": "Bronx",
+        "Region": "Pelham and Throgs Neck",
+        "t_Type": "Historic Site",
+        "Link": "https://www.sunymaritime.edu/about/visit-campus/fort-schuyler"
+      },
+      {
+        "PlaceID": 58,
+        "t_Name": "Joyce Kilmer Park",
+        "Address": "955 Walton Ave",
+        "Borough": "Bronx",
+        "Region": "HighBridge and Morrisania",
+        "t_Type": "Park",
+        "Link": "https://www.nycgovparks.org/parks/joyce-kilmer-park"
+      },
+      {
+        "PlaceID": 59,
+        "t_Name": "Yankee Stadium",
+        "Address": "1 E 161st St",
+        "Borough": "Bronx",
+        "Region": "HighBridge and Morrisania",
+        "t_Type": "Stadium",
+        "Link": "https://www.mlb.com/yankees/ballpark"
+      },
+      {
+        "PlaceID": 60,
+        "t_Name": "Bronx Documentary Center",
+        "Address": "614 Courtlandt Ave",
+        "Borough": "Bronx",
+        "Region": "HighBridge and Morrisania",
+        "t_Type": "Cultural Center",
+        "Link": "https://www.bronxdoc.org/"
+      },
+      {
+        "PlaceID": 61,
+        "t_Name": "The Point CDC",
+        "Address": "940 Garrison Ave",
+        "Borough": "Bronx",
+        "Region": "Hunts Point and Mott Haven",
+        "t_Type": "Community Center",
+        "Link": "https://thepoint.org/"
+      },
+      {
+        "PlaceID": 62,
+        "t_Name": "Randalls Island Park",
+        "Address": "20 Randalls Island Park",
+        "Borough": "Bronx",
+        "Region": "Hunts Point and Mott Haven",
+        "t_Type": "Park",
+        "Link": "https://randallsisland.org/"
+      },
+      {
+        "PlaceID": 63,
+        "t_Name": "Bronx River Art Center",
+        "Address": "1087 E Tremont Ave",
+        "Borough": "Bronx",
+        "Region": "Hunts Point and Mott Haven",
+        "t_Type": "Art Center",
+        "Link": "https://www.bronxriverart.org/"
+      },
+    
+    {
+      "PlaceID": 64,
+      "t_Name": "MoMA PS1",
+      "Address": "22-25 Jackson Ave",
+      "Borough": "Queens",
+      "Region": "Long Island City and Astoria",
+      "t_Type": "Museum",
+      "Link": "https://www.moma.org/ps1"
+    },
+    {
+      "PlaceID": 65,
+      "t_Name": "Socrates Sculpture Park",
+      "Address": "32-01 Vernon Blvd",
+      "Borough": "Queens",
+      "Region": "Long Island City and Astoria",
+      "t_Type": "Park",
+      "Link": "http://socratessculpturepark.org/"
+    },
+    {
+      "PlaceID": 66,
+      "t_Name": "Noguchi Museum",
+      "Address": "9-01 33rd Rd",
+      "Borough": "Queens",
+      "Region": "Long Island City and Astoria",
+      "t_Type": "Museum",
+      "Link": "https://www.noguchi.org/"
+    },
+    {
+      "PlaceID": 67,
+      "t_Name": "Flushing Meadows Corona Park",
+      "Address": "Grand Central Pkwy",
+      "Borough": "Queens",
+      "Region": "West Queens",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/flushing-meadows-corona-park"
+    },
+    {
+      "PlaceID": 68,
+      "t_Name": "Queens Museum",
+      "Address": "New York City Building",
+      "Borough": "Queens",
+      "Region": "West Queens",
+      "t_Type": "Museum",
+      "Link": "https://www.queensmuseum.org/"
+    },
+    {
+      "PlaceID": 69,
+      "t_Name": "Queens Night Market",
+      "Address": "47-01 111th St",
+      "Borough": "Queens",
+      "Region": "West Queens",
+      "t_Type": "Market",
+      "Link": "https://queensnightmarket.com/"
+    },
+    {
+      "PlaceID": 70,
+      "t_Name": "Fort Totten Park",
+      "Address": "Cross Island Pkwy",
+      "Borough": "Queens",
+      "Region": "North Queens",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/fort-totten"
+    },
+    {
+      "PlaceID": 71,
+      "t_Name": "Queens Botanical Garden",
+      "Address": "43-50 Main St",
+      "Borough": "Queens",
+      "Region": "North Queens",
+      "t_Type": "Botanical Garden",
+      "Link": "https://queensbotanical.org/"
+    },
+    {
+      "PlaceID": 72,
+      "t_Name": "Bowne House Historical Society",
+      "Address": "37-01 Bowne St",
+      "Borough": "Queens",
+      "Region": "North Queens",
+      "t_Type": "Historic House",
+      "Link": "https://www.bownehouse.org/"
+    },
+    {
+      "PlaceID": 73,
+      "t_Name": "Alley Pond Environmental Center",
+      "Address": "228-06 Northern Blvd",
+      "Borough": "Queens",
+      "Region": "Northeast Queens",
+      "t_Type": "Nature Center",
+      "Link": "https://www.alleypond.com/"
+    },
+    {
+      "PlaceID": 74,
+      "t_Name": "Douglas Manor Environmental Association",
+      "Address": "233-02 38th Dr",
+      "Borough": "Queens",
+      "Region": "Northeast Queens",
+      "t_Type": "Nature Reserve",
+      "Link": "https://douglastonlocal.com/"
+    },
+    {
+      "PlaceID": 75,
+      "t_Name": "Joe Michaels Mile",
+      "Address": "Northern Blvd",
+      "Borough": "Queens",
+      "Region": "Northeast Queens",
+      "t_Type": "Recreational Trail",
+      "Link": "https://www.nycgovparks.org/parks/joe-michaels-mile"
+    },
+    {
+      "PlaceID": 76,
+      "t_Name": "Forest Park",
+      "Address": "Myrtle Ave",
+      "Borough": "Queens",
+      "Region": "West Central Queens",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/forest-park"
+    },
+    {
+      "PlaceID": 77,
+      "t_Name": "Ridgewood Reservoir",
+      "Address": "58-2 Vermont Pl",
+      "Borough": "Queens",
+      "Region": "West Central Queens",
+      "t_Type": "Nature Reserve",
+      "Link": "https://www.nycgovparks.org/parks/highland-park"
+    },
+    {
+      "PlaceID": 78,
+      "t_Name": "Metropolitan Expeditionary Learning School",
+      "Address": "91-30 Metropolitan Ave",
+      "Borough": "Queens",
+      "Region": "West Central Queens",
+      "t_Type": "Educational Site",
+      "Link": "https://metropolitanels.com/"
+    },
+    {
+      "PlaceID": 79,
+      "t_Name": "Cunningham Park",
+      "Address": "196-10 Union Tpke",
+      "Borough": "Queens",
+      "Region": "Central Queens",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/cunningham-park"
+    },
+    {
+      "PlaceID": 80,
+      "t_Name": "Queens County Farm Museum",
+      "Address": "73-50 Little Neck Pkwy",
+      "Borough": "Queens",
+      "Region": "Central Queens",
+      "t_Type": "Museum",
+      "Link": "https://www.queensfarm.org/"
+    },
+    {
+      "PlaceID": 81,
+      "t_Name": "St. Johns University",
+      "Address": "8000 Utopia Pkwy",
+      "Borough": "Queens",
+      "Region": "Central Queens",
+      "t_Type": "University",
+      "Link": "https://www.stjohns.edu/"
+    },
+    {
+      "PlaceID": 82,
+      "t_Name": "Jamaica Bay Wildlife Refuge",
+      "Address": "Cross Bay Blvd",
+      "Borough": "Queens",
+      "Region": "Southwest Queens",
+      "t_Type": "Nature Reserve",
+      "Link": "https://www.nps.gov/gate/planyourvisit/jamaicabay.htm"
+    },
+    {
+      "PlaceID": 83,
+      "t_Name": "Charles Memorial Park",
+      "Address": "149th Ave and 1st St",
+      "Borough": "Queens",
+      "Region": "Southwest Queens",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/charles-memorial-park"
+    },
+    {
+      "PlaceID": 84,
+      "t_Name": "Aqueduct Racetrack",
+      "Address": "110-00 Rockaway Blvd",
+      "Borough": "Queens",
+      "Region": "Southwest Queens",
+      "t_Type": "Racetrack",
+      "Link": "https://www.nyra.com/aqueduct/"
+    },
+    {
+      "PlaceID": 85,
+      "t_Name": "King Manor Museum",
+      "Address": "150-03 Jamaica Ave",
+      "Borough": "Queens",
+      "Region": "Jamaica",
+      "t_Type": "Museum",
+      "Link": "http://www.kingmanor.org/"
+    },
+    {
+      "PlaceID": 86,
+      "t_Name": "Rufus King Park",
+      "Address": "150-29 Jamaica Ave",
+      "Borough": "Queens",
+      "Region": "Jamaica",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/rufus-king-park"
+    },
+    {
+      "PlaceID": 87,
+      "t_Name": "Jamaica Center for Arts and Learning",
+      "Address": "161-04 Jamaica Ave",
+      "Borough": "Queens",
+      "Region": "Jamaica",
+      "t_Type": "Arts Center",
+      "Link": "https://www.jcal.org/"
+    },
+    {
+      "PlaceID": 88,
+      "t_Name": "Roy Wilkins Park",
+      "Address": "177th St & Baisley Blvd",
+      "Borough": "Queens",
+      "Region": "Southeast Queens",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/roy-wilkins-recreation-center"
+    },
+    {
+      "PlaceID": 89,
+      "t_Name": "Queens Public Library - Rosedale",
+      "Address": "144-20 243rd St",
+      "Borough": "Queens",
+      "Region": "Southeast Queens",
+      "t_Type": "Library",
+      "Link": "https://www.queenslibrary.org/branch/Rosedale"
+    },
+    {
+      "PlaceID": 90,
+      "t_Name": "Laurelton Lanes",
+      "Address": "231-18 Merrick Blvd",
+      "Borough": "Queens",
+      "Region": "Southeast Queens",
+      "t_Type": "Bowling Alley",
+      "Link": "http://www.laureltonlanes.com/"
+    },
+    {
+      "PlaceID": 91,
+      "t_Name": "Rockaway Beach",
+      "Address": "Beach 3rd St",
+      "Borough": "Queens",
+      "Region": "Rockaways",
+      "t_Type": "Beach",
+      "Link": "https://www.nycgovparks.org/parks/rockaway-beach"
+    },
+    {
+      "PlaceID": 92,
+      "t_Name": "Jamaica Bay Riding Academy",
+      "Address": "7000 Shore Front Pkwy",
+      "Borough": "Queens",
+      "Region": "Rockaways",
+      "t_Type": "Equestrian Center",
+      "Link": "https://www.horsebackride.com/"
+    },
+    {
+      "PlaceID": 93,
+      "t_Name": "Rockaway Freeway Dog Park",
+      "Address": "84-01 Beach Channel Dr",
+      "Borough": "Queens",
+      "Region": "Rockaways",
+      "t_Type": "Dog Park",
+      "Link": "https://www.nycgovparks.org/parks/rockaway-freeway"
+    },
+    {
+      "PlaceID": 94,
+      "t_Name": "McCarren Park",
+      "Address": "776 Lorimer St",
+      "Borough": "Brooklyn",
+      "Region": "Greenpoint",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/mccarren-park"
+    },
+    {
+      "PlaceID": 95,
+      "t_Name": "Brooklyn Bazaar",
+      "Address": "150 Greenpoint Ave",
+      "Borough": "Brooklyn",
+      "Region": "Greenpoint",
+      "t_Type": "Event Space",
+      "Link": "http://bkbazaar.com/"
+    },
+    {
+      "PlaceID": 96,
+      "t_Name": "Greenpoint Terminal Market",
+      "Address": "2 Noble St",
+      "Borough": "Brooklyn",
+      "Region": "Greenpoint",
+      "t_Type": "Market",
+      "Link": "https://www.greenpointterminalmarket.com/"
+    },
+    {
+      "PlaceID": 97,
+      "t_Name": "Brooklyn Bridge Park",
+      "Address": "334 Furman St",
+      "Borough": "Brooklyn",
+      "Region": "Northwest Brooklyn",
+      "t_Type": "Park",
+      "Link": "https://www.brooklynbridgepark.org/"
+    },
+    {
+      "PlaceID": 98,
+      "t_Name": "Brooklyn Historical Society",
+      "Address": "128 Pierrepont St",
+      "Borough": "Brooklyn",
+      "Region": "Northwest Brooklyn",
+      "t_Type": "Museum",
+      "Link": "https://www.brooklynhistory.org/"
+    },
+    {
+      "PlaceID": 99,
+      "t_Name": "Jane’s Carousel",
+      "Address": "Old Dock St",
+      "Borough": "Brooklyn",
+      "Region": "Northwest Brooklyn",
+      "t_Type": "Attraction",
+      "Link": "https://janescarousel.com/"
+    },
+    {
+      "PlaceID": 100,
+      "t_Name": "Brooklyn Childrens Museum",
+      "Address": "145 Brooklyn Ave",
+      "Borough": "Brooklyn",
+      "Region": "Central Brooklyn",
+      "t_Type": "Museum",
+      "Link": "https://www.brooklynkids.org/"
+    },
+    {
+      "PlaceID": 101,
+      "t_Name": "Weeksville Heritage Center",
+      "Address": "158 Buffalo Ave",
+      "Borough": "Brooklyn",
+      "Region": "Central Brooklyn",
+      "t_Type": "Historic Site",
+      "Link": "https://www.weeksvillesociety.org/"
+    },
+    {
+      "PlaceID": 102,
+      "t_Name": "Crown Heights North Historic District",
+      "Address": "Crown Heights",
+      "Borough": "Brooklyn",
+      "Region": "Central Brooklyn",
+      "t_Type": "Historic District",
+      "Link": "https://www.nycgovparks.org/parks/crown-heights-north-historic-district"
+    },
+    {
+      "PlaceID": 103,
+      "t_Name": "Shirley Chisholm State Park",
+      "Address": "1750 Pennsylvania Ave",
+      "Borough": "Brooklyn",
+      "Region": "East New York and New Lots",
+      "t_Type": "State Park",
+      "Link": "https://parks.ny.gov/parks/shirleychisholm/details.aspx"
+    },
+    {
+      "PlaceID": 104,
+      "t_Name": "Gateway Center",
+      "Address": "501 Gateway Dr",
+      "Borough": "Brooklyn",
+      "Region": "East New York and New Lots",
+      "t_Type": "Shopping Center",
+      "Link": "https://www.shopgatewaycenterbrooklyn.com/"
+    },
+    {
+      "PlaceID": 105,
+      "t_Name": "Linden Park",
+      "Address": "Linden Blvd & Vermont St",
+      "Borough": "Brooklyn",
+      "Region": "East New York and New Lots",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/linden-park"
+    },
+    {
+      "PlaceID": 106,
+      "t_Name": "Sunset Park",
+      "Address": "7th Ave & 41st St",
+      "Borough": "Brooklyn",
+      "Region": "Sunset Park",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/sunset-park"
+    },
+    {
+      "PlaceID": 107,
+      "t_Name": "Industry City",
+      "Address": "220 36th St",
+      "Borough": "Brooklyn",
+      "Region": "Sunset Park",
+      "t_Type": "Shopping & Dining Complex",
+      "Link": "https://industrycity.com/"
+    },
+    {
+      "PlaceID": 108,
+      "t_Name": "Bush Terminal Piers Park",
+      "Address": "Marginal St W",
+      "Borough": "Brooklyn",
+      "Region": "Sunset Park",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/bush-terminal-piers-park"
+    },
+    {
+      "PlaceID": 109,
+      "t_Name": "Dyker Beach Golf Course",
+      "Address": "1030 86th St",
+      "Borough": "Brooklyn",
+      "Region": "Southwest Brooklyn",
+      "t_Type": "Golf Course",
+      "Link": "https://www.dykerbeachgc.com/"
+    },
+    {
+      "PlaceID": 110,
+      "t_Name": "Owl’s Head Park",
+      "Address": "Colonial Rd & 68th St",
+      "Borough": "Brooklyn",
+      "Region": "Southwest Brooklyn",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/owls-head-park"
+    },
+    {
+      "PlaceID": 111,
+      "t_Name": "Verrazzano-Narrows Bridge",
+      "Address": "Verrazzano Bridge",
+      "Borough": "Brooklyn",
+      "Region": "Southwest Brooklyn",
+      "t_Type": "Landmark",
+      "Link": "https://www.nycgo.com/attractions/verrazzano-narrows-bridge"
+    },
+    {
+      "PlaceID": 112,
+      "t_Name": "Kaiser Park",
+      "Address": "Neptune Ave & Bayview Ave",
+      "Borough": "Brooklyn",
+      "Region": "Borough Park",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/kaiser-park"
+    },
+    {
+      "PlaceID": 113,
+      "t_Name": "Borough Park Library",
+      "Address": "1265 43rd St",
+      "Borough": "Brooklyn",
+      "Region": "Borough Park",
+      "t_Type": "Library",
+      "Link": "https://www.bklynlibrary.org/locations/borough-park"
+    },
+    {
+      "PlaceID": 114,
+      "t_Name": "Maimonides Park",
+      "Address": "1904 Surf Ave",
+      "Borough": "Brooklyn",
+      "Region": "Borough Park",
+      "t_Type": "Sports Complex",
+      "Link": "https://www.brooklyncyclones.com"
+    },
+    {
+      "PlaceID": 115,
+      "t_Name": "Canarsie Pier",
+      "Address": "Canarsie Pier",
+      "Borough": "Brooklyn",
+      "Region": "Canarsie and Flatlands",
+      "t_Type": "Recreational Area",
+      "Link": "https://www.nps.gov/gate/learn/historyculture/canarsie-pier.htm"
+    },
+    {
+      "PlaceID": 116,
+      "t_Name": "Brooklyn Terminal Market",
+      "Address": "21 Brooklyn Ave",
+      "Borough": "Brooklyn",
+      "Region": "Canarsie and Flatlands",
+      "t_Type": "Market",
+      "Link": "https://www.nycgo.com/shopping/brooklyn-terminal-market"
+    },
+    {
+      "PlaceID": 117,
+      "t_Name": "Paerdegat Park",
+      "Address": "East 40th St & Foster Ave",
+      "Borough": "Brooklyn",
+      "Region": "Canarsie and Flatlands",
+      "t_Type": "Park",
+      "Link": "https://www.nycgovparks.org/parks/paerdegat-park"
+    },
+    {
+      "PlaceID": 118,
+      "t_Name": "Coney Island Boardwalk",
+      "Address": "Riegelmann Boardwalk",
+      "Borough": "Brooklyn",
+      "Region": "Southern Brooklyn",
+      "t_Type": "Beach/Boardwalk",
+      "Link": "https://www.nycgovparks.org/parks/coney-island-beach-boardwalk"
+    },
+    {
+      "PlaceID": 119,
+      "t_Name": "New York Aquarium",
+      "Address": "602 Surf Ave",
+      "Borough": "Brooklyn",
+      "Region": "Southern Brooklyn",
+      "t_Type": "Aquarium",
+      "Link": "https://nyaquarium.com/"
+    },
+    {
+      "PlaceID": 120,
+      "t_Name": "Brighton Beach",
+      "Address": "Brighton Beach Ave",
+      "Borough": "Brooklyn",
+      "Region": "Southern Brooklyn",
+      "t_Type": "Beach",
+      "Link": "https://www.nycgovparks.org/parks/brighton-beach"
+    },
+    {
+      "PlaceID": 121,
+      "t_Name": "Brooklyn Botanic Garden",
+      "Address": "990 Washington Ave",
+      "Borough": "Brooklyn",
+      "Region": "Flatbush",
+      "t_Type": "Botanical Garden",
+      "Link": "https://www.bbg.org/"
+    },
+    {
+      "PlaceID": 122,
+      "t_Name": "Prospect Park",
+      "Address": "95 Prospect Park W",
+      "Borough": "Brooklyn",
+      "Region": "Flatbush",
+      "t_Type": "Park",
+      "Link": "https://www.prospectpark.org/"
+    },
+    {
+      "PlaceID": 123,
+      "t_Name": "Kings Theatre",
+      "Address": "1027 Flatbush Ave",
+      "Borough": "Brooklyn",
+      "Region": "Flatbush",
+      "t_Type": "Theatre",
+      "Link": "https://www.kingstheatre.com/"
+    },
+    {
+      "PlaceID": 124,
+      "t_Name": "Domino Park",
+      "Address": "15 River St",
+      "Borough": "Brooklyn",
+      "Region": "Bushwick and Williamsburg",
+      "t_Type": "Park",
+      "Link": "https://www.dominopark.com/"
+    },
+    {
+      "PlaceID": 125,
+      "t_Name": "Bushwick Collective Street Art",
+      "Address": "Troutman St at St Nicholas Ave",
+      "Borough": "Brooklyn",
+      "Region": "Bushwick and Williamsburg",
+      "t_Type": "Public Art",
+      "Link": "https://www.facebook.com/TheBushwickCollective/"
+    },
+    {
+      "PlaceID": 126,
+      "t_Name": "Williamsburg Bridge",
+      "Address": "Williamsburg Bridge",
+      "Borough": "Brooklyn",
+      "Region": "Bushwick and Williamsburg",
+      "t_Type": "Bridge",
+      "Link": "https://www.nyc.gov/html/dot/html/infrastructure/bridges-williamsburg.shtml"
+    }
+    
+  ],
+          
+  "PlacesToStay": [
+    {
+      "PlaceID": 1,
+      "p_Name": "Inwood Luxury Suites",
+      "Address": "4761 Broadway",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "p_Type": "Hotel",
+      "PricePerNight": 180.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 2,
+      "p_Name": "Washington Heights Inn",
+      "Address": "621 W 181st St",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "p_Type": "Inn",
+      "PricePerNight": 150.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 3,
+      "p_Name": "Fort Tryon Hostel",
+      "Address": "801 W 190th St",
+      "Borough": "Manhattan",
+      "Region": "Inwood and Washington Heights",
+      "p_Type": "Hostel",
+      "PricePerNight": 70.00,
+      "Rating": 4.1
+    },
+    {
+      "PlaceID": 4,
+      "p_Name": "Harlem Hideaway",
+      "Address": "233 W 135th St",
+      "Borough": "Manhattan",
+      "Region": "Central Harlem",
+      "p_Type": "B&B",
+      "PricePerNight": 85.00,
+      "Rating": 4.4
+    },
+    {
+      "PlaceID": 5,
+      "p_Name": "Harlem Luxury Suites",
+      "Address": "140 Lenox Ave",
+      "Borough": "Manhattan",
+      "Region": "Central Harlem",
+      "p_Type": "Hotel",
+      "PricePerNight": 150.00,
+      "Rating": 4.6
+    },
+    {
+      "PlaceID": 6,
+      "p_Name": "Harlem Guest House",
+      "Address": "18 W 129th St",
+      "Borough": "Manhattan",
+      "Region": "Central Harlem",
+      "p_Type": "Guest House",
+      "PricePerNight": 75.00,
+      "Rating": 4.1
+    },
+    {
+      "PlaceID": 7,
+      "p_Name": "East Harlem Suites",
+      "Address": "311 E 100th St",
+      "Borough": "Manhattan",
+      "Region": "East Harlem",
+      "p_Type": "Hotel",
+      "PricePerNight": 110.00,
+      "Rating": 4.0
+    },
+    {
+      "PlaceID": 8,
+      "p_Name": "El Barrio B&B",
+      "Address": "225 E 104th St",
+      "Borough": "Manhattan",
+      "Region": "East Harlem",
+      "p_Type": "B&B",
+      "PricePerNight": 95.00,
+      "Rating": 4.2
+    },
+    {
+      "PlaceID": 9,
+      "p_Name": "Comfort East Harlem",
+      "Address": "410 E 115th St",
+      "Borough": "Manhattan",
+      "Region": "East Harlem",
+      "p_Type": "Motel",
+      "PricePerNight": 80.00,
+      "Rating": 3.9
+    },
+    {
+      "PlaceID": 10,
+      "p_Name": "Riverside Terrace",
+      "Address": "319 W 94th St",
+      "Borough": "Manhattan",
+      "Region": "Upper West Side",
+      "p_Type": "Hotel",
+      "PricePerNight": 180.00,
+      "Rating": 4.7
+    },
+    {
+      "PlaceID": 11,
+      "p_Name": "West Side Inn",
+      "Address": "237 W 107th St",
+      "Borough": "Manhattan",
+      "Region": "Upper West Side",
+      "p_Type": "Inn",
+      "PricePerNight": 130.00,
+      "Rating": 4.4
+    },
+    {
+      "PlaceID": 12,
+      "p_Name": "Uptown Hostel",
+      "Address": "572 Amsterdam Ave",
+      "Borough": "Manhattan",
+      "Region": "Upper West Side",
+      "p_Type": "Hostel",
+      "PricePerNight": 65.00,
+      "Rating": 4.0
+    },
+    {
+      "PlaceID": 13,
+      "p_Name": "Chelsea Loft",
+      "Address": "455 W 26th St",
+      "Borough": "Manhattan",
+      "Region": "Chelsea and Clinton",
+      "p_Type": "Boutique Hotel",
+      "PricePerNight": 210.00,
+      "Rating": 4.8
+    }, 
+    {
+      "PlaceID": 14,
+      "p_Name": "Clinton Suites",
+      "Address": "795 10th Ave",
+      "Borough": "Manhattan",
+      "Region": "Chelsea and Clinton",
+      "p_Type": "Hotel",
+      "PricePerNight": 160.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 15,
+      "p_Name": "Historic Chelsea Inn",
+      "Address": "318 W 22nd St",
+      "Borough": "Manhattan",
+      "Region": "Chelsea and Clinton",
+      "p_Type": "Inn",
+      "PricePerNight": 140.00,
+      "Rating": 4.2
+    },
+    {
+      "PlaceID": 14,
+      "p_Name": "Clinton Suites",
+      "Address": "795 10th Ave",
+      "Borough": "Manhattan",
+      "Region": "Chelsea and Clinton",
+      "p_Type": "Hotel",
+      "PricePerNight": 160.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 15,
+      "p_Name": "Historic Chelsea Inn",
+      "Address": "318 W 22nd St",
+      "Borough": "Manhattan",
+      "Region": "Chelsea and Clinton",
+      "p_Type": "Inn",
+      "PricePerNight": 140.00,
+      "Rating": 4.2
+    },
+    {
+      "PlaceID": 16,
+      "p_Name": "East Side Luxury",
+      "Address": "1050 3rd Ave",
+      "Borough": "Manhattan",
+      "Region": "Upper East Side",
+      "p_Type": "Hotel",
+      "PricePerNight": 300.00,
+      "Rating": 4.9
+    },
+    {
+      "PlaceID": 17,
+      "p_Name": "East Side Inn",
+      "Address": "215 E 64th St",
+      "Borough": "Manhattan",
+      "Region": "Upper East Side",
+      "p_Type": "Inn",
+      "PricePerNight": 220.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 18,
+      "p_Name": "East Side Hostel",
+      "Address": "401 E 74th St",
+      "Borough": "Manhattan",
+      "Region": "Upper East Side",
+      "p_Type": "Hostel",
+      "PricePerNight": 90.00,
+      "Rating": 3.8
+    },
+    {
+      "PlaceID": 19,
+      "p_Name": "Gramercy Suites",
+      "Address": "2 Lexington Ave",
+      "Borough": "Manhattan",
+      "Region": "Gramercy Park and Murray Hill",
+      "p_Type": "Hotel",
+      "PricePerNight": 250.00,
+      "Rating": 4.6
+    },
+    {
+      "PlaceID": 20,
+      "p_Name": "Murray Hill Hotel",
+      "Address": "149 E 39th St",
+      "Borough": "Manhattan",
+      "Region": "Gramercy Park and Murray Hill",
+      "p_Type": "Hotel",
+      "PricePerNight": 200.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 21,
+      "p_Name": "Park B&B",
+      "Address": "60 Gramercy Park N",
+      "Borough": "Manhattan",
+      "Region": "Gramercy Park and Murray Hill",
+      "p_Type": "B&B",
+      "PricePerNight": 180.00,
+      "Rating": 4.1
+    },
+    {
+      "PlaceID": 22,
+      "p_Name": "Village Luxury Suites",
+      "Address": "55 W 11th St",
+      "Borough": "Manhattan",
+      "Region": "Greenwich Village and Soho",
+      "p_Type": "Hotel",
+      "PricePerNight": 270.00,
+      "Rating": 4.8
+    },
+    {
+      "PlaceID": 23,
+      "p_Name": "Soho Boutique Hotel",
+      "Address": "310 W Broadway",
+      "Borough": "Manhattan",
+      "Region": "Greenwich Village and Soho",
+      "p_Type": "Boutique Hotel",
+      "PricePerNight": 290.00,
+      "Rating": 4.7
+    },
+    {
+      "PlaceID": 24,
+      "p_Name": "Greenwich Hostel",
+      "Address": "16 Bank St",
+      "Borough": "Manhattan",
+      "Region": "Greenwich Village and Soho",
+      "p_Type": "Hostel",
+      "PricePerNight": 85.00,
+      "Rating": 3.9
+    },
+    {
+      "PlaceID": 25,
+      "p_Name": "Union Square Inn",
+      "Address": "209 E 14th St",
+      "Borough": "Manhattan",
+      "Region": "Union Square and Lower East Side",
+      "p_Type": "Inn",
+      "PricePerNight": 150.00,
+      "Rating": 4.4
+    },
+    {
+      "PlaceID": 26,
+      "p_Name": "LES Charm Hotel",
+      "Address": "120 Allen St",
+      "Borough": "Manhattan",
+      "Region": "Union Square and Lower East Side",
+      "p_Type": "Hotel",
+      "PricePerNight": 170.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 27,
+      "p_Name": "Union Guest House",
+      "Address": "103 1st Ave",
+      "Borough": "Manhattan",
+      "Region": "Union Square and Lower East Side",
+      "p_Type": "Guest House",
+      "PricePerNight": 130.00,
+      "Rating": 4.2
+    },
+    {
+      "PlaceID": 28,
+      "p_Name": "Financial District Luxury",
+      "Address": "85 West St",
+      "Borough": "Manhattan",
+      "Region": "Lower Manhattan",
+      "p_Type": "Hotel",
+      "PricePerNight": 320.00,
+      "Rating": 4.9
+    },
+    {
+      "PlaceID": 29,
+      "p_Name": "Historic NY Inn",
+      "Address": "15 Gold St",
+      "Borough": "Manhattan",
+      "Region": "Lower Manhattan",
+      "p_Type": "Inn",
+      "PricePerNight": 240.00,
+      "Rating": 4.6
+    },
+    {
+      "PlaceID": 30,
+      "p_Name": "Manhattan Downtown Hostel",
+      "Address": "11 Rivington St",
+      "Borough": "Manhattan",
+      "Region": "Lower Manhattan",
+      "p_Type": "Hostel",
+      "PricePerNight": 100.00,
+      "Rating": 3.7
+    },
+    {
+      "PlaceID": 31,
+      "p_Name": "Richmond Retreat",
+      "Address": "100 Port Richmond Ave",
+      "Borough": "StatenIsland",
+      "Region": "Port Richmond",
+      "p_Type": "B&B",
+      "PricePerNight": 95.00,
+      "Rating": 4.2
+    },
+    {
+      "PlaceID": 32,
+      "p_Name": "Port Comfort Inn",
+      "Address": "250 Richmond Terrace",
+      "Borough": "StatenIsland",
+      "Region": "Port Richmond",
+      "p_Type": "Inn",
+      "PricePerNight": 105.00,
+      "Rating": 4.0
+    },
+    {
+      "PlaceID": 33,
+      "p_Name": "Richmond Lodge",
+      "Address": "302 Morningstar Rd",
+      "Borough": "StatenIsland",
+      "Region": "Port Richmond",
+      "p_Type": "Lodge",
+      "PricePerNight": 110.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 34,
+      "p_Name": "Beachfront Bed & Breakfast",
+      "Address": "402 Midland Ave",
+      "Borough": "StatenIsland",
+      "Region": "South Beach and Tottenville",
+      "p_Type": "B&B",
+      "PricePerNight": 120.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 35,
+      "p_Name": "Tottenville Inn",
+      "Address": "708 Sharrotts Rd",
+      "Borough": "StatenIsland",
+      "Region": "South Beach and Tottenville",
+      "p_Type": "Inn",
+      "PricePerNight": 130.00,
+      "Rating": 4.6
+    },
+    {
+      "PlaceID": 36,
+      "p_Name": "Seaside Stay",
+      "Address": "85 Page Ave",
+      "Borough": "StatenIsland",
+      "Region": "South Beach and Tottenville",
+      "p_Type": "Hotel",
+      "PricePerNight": 150.00,
+      "Rating": 4.7
+    },
+    {
+      "PlaceID": 37,
+      "p_Name": "St. George Hotel",
+      "Address": "75 Richmond Terrace",
+      "Borough": "StatenIsland",
+      "Region": "Stapleton and St. George",
+      "p_Type": "Hotel",
+      "PricePerNight": 140.00,
+      "Rating": 4.8
+    },
+    {
+      "PlaceID": 38,
+      "p_Name": "Stapleton Studios",
+      "Address": "100 Canal St",
+      "Borough": "StatenIsland",
+      "Region": "Stapleton and St. George",
+      "p_Type": "Studio",
+      "PricePerNight": 90.00,
+      "Rating": 4.1
+    },
+    {
+      "PlaceID": 39,
+      "p_Name": "Harbor View Inn",
+      "Address": "150 Bay St",
+      "Borough": "StatenIsland",
+      "Region": "Stapleton and St. George",
+      "p_Type": "Inn",
+      "PricePerNight": 115.00,
+      "Rating": 4.4
+    },
+    {
+      "PlaceID": 40,
+      "p_Name": "Willowbrook B&B",
+      "Address": "85 Richmond Hill Rd",
+      "Borough": "StatenIsland",
+      "Region": "Mid-Island",
+      "p_Type": "B&B",
+      "PricePerNight": 100.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 41,
+      "p_Name": "Mid-Island Inn",
+      "Address": "2550 Victory Blvd",
+      "Borough": "StatenIsland",
+      "Region": "Mid-Island",
+      "p_Type": "Inn",
+      "PricePerNight": 110.00,
+      "Rating": 4.6
+    },
+    {
+      "PlaceID": 42,
+      "p_Name": "Comfort Stay Willowbrook",
+      "Address": "322 Bradley Ave",
+      "Borough": "StatenIsland",
+      "Region": "Mid-Island",
+      "p_Type": "Hotel",
+      "PricePerNight": 130.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 43,
+      "p_Name": "Riverdale Inn",
+      "Address": "5911 Riverdale Ave",
+      "Borough": "Bronx",
+      "Region": "Kingsbridge and Riverdale",
+      "p_Type": "Inn",
+      "PricePerNight": 130.00,
+      "Rating": 4.2
+    },
+    {
+      "PlaceID": 44,
+      "p_Name": "Kingsbridge Hotel",
+      "Address": "3225 Kingsbridge Ave",
+      "Borough": "Bronx",
+      "Region": "Kingsbridge and Riverdale",
+      "p_Type": "Hotel",
+      "PricePerNight": 150.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 45,
+      "p_Name": "The Riverdale B&B",
+      "Address": "445 W 250th St",
+      "Borough": "Bronx",
+      "Region": "Kingsbridge and Riverdale",
+      "p_Type": "B&B",
+      "PricePerNight": 120.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 46,
+      "p_Name": "Northeast Suites",
+      "Address": "4131 Boston Rd",
+      "Borough": "Bronx",
+      "Region": "Northeast Bronx",
+      "p_Type": "Suites",
+      "PricePerNight": 140.00,
+      "Rating": 4.1
+    },
+    {
+      "PlaceID": 47,
+      "p_Name": "Bronx Guesthouse",
+      "Address": "3677 White Plains Rd",
+      "Borough": "Bronx",
+      "Region": "Northeast Bronx",
+      "p_Type": "Guest House",
+      "PricePerNight": 85.00,
+      "Rating": 3.9
+    },
+    {
+      "PlaceID": 48,
+      "p_Name": "Eastchester Stay",
+      "Address": "3026 Eastchester Rd",
+      "Borough": "Bronx",
+      "Region": "Northeast Bronx",
+      "p_Type": "Hotel",
+      "PricePerNight": 110.00,
+      "Rating": 4.0
+    },
+    {
+      "PlaceID": 49,
+      "p_Name": "Crotona Park Hotel",
+      "Address": "1701 Crotona Ave",
+      "Borough": "Bronx",
+      "Region": "Crotona and Tremont",
+      "p_Type": "Hotel",
+      "PricePerNight": 100.00,
+      "Rating": 3.8
+    },
+    {
+      "PlaceID": 50,
+      "p_Name": "Tremont Lodge",
+      "Address": "456 E Tremont Ave",
+      "Borough": "Bronx",
+      "Region": "Crotona and Tremont",
+      "p_Type": "Lodge",
+      "PricePerNight": 95.00,
+      "Rating": 4.2
+    },
+    {
+      "PlaceID": 51,
+      "p_Name": "The Tremont Inn",
+      "Address": "789 E 181st St",
+      "Borough": "Bronx",
+      "Region": "Crotona and Tremont",
+      "p_Type": "Inn",
+      "PricePerNight": 90.00,
+      "Rating": 4.0
+    },
+    {
+      "PlaceID": 52,
+      "p_Name": "Fordham Suites",
+      "Address": "2743 Webster Ave",
+      "Borough": "Bronx",
+      "Region": "Bronx Park and Fordham",
+      "p_Type": "Suites",
+      "PricePerNight": 130.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 53,
+      "p_Name": "Parkview B&B",
+      "Address": "2855 Bainbridge Ave",
+      "Borough": "Bronx",
+      "Region": "Bronx Park and Fordham",
+      "p_Type": "B&B",
+      "PricePerNight": 105.00,
+      "Rating": 4.1
+    },
+    {
+      "PlaceID": 54,
+      "p_Name": "Bronx Park Inn",
+      "Address": "319 E 198th St",
+      "Borough": "Bronx",
+      "Region": "Bronx Park and Fordham",
+      "p_Type": "Inn",
+      "PricePerNight": 120.00,
+      "Rating": 4.4
+    },
+    {
+      "PlaceID": 55,
+      "p_Name": "Pelham Bay Lodge",
+      "Address": "3285 Westchester Ave",
+      "Borough": "Bronx",
+      "Region": "Pelham and Throgs Neck",
+      "p_Type": "Lodge",
+      "PricePerNight": 125.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 56,
+      "p_Name": "Throgs Neck Stay",
+      "Address": "1450 Throgs Neck Expy",
+      "Borough": "Bronx",
+      "Region": "Pelham and Throgs Neck",
+      "p_Type": "Hotel",
+      "PricePerNight": 140.00,
+      "Rating": 4.6
+    },
+    {
+      "PlaceID": 57,
+      "p_Name": "Pelham Manor Inn",
+      "Address": "600 Clarence Ave",
+      "Borough": "Bronx",
+      "Region": "Pelham and Throgs Neck",
+      "p_Type": "Inn",
+      "PricePerNight": 115.00,
+      "Rating": 4.0
+    },
+    {
+      "PlaceID": 58,
+      "p_Name": "HighBridge Hotel",
+      "Address": "1264 Woodycrest Ave",
+      "Borough": "Bronx",
+      "Region": "HighBridge and Morrisania",
+      "p_Type": "Hotel",
+      "PricePerNight": 135.00,
+      "Rating": 4.4
+    },
+    {
+      "PlaceID": 59,
+      "p_Name": "Morrisania Suites",
+      "Address": "3800 Third Ave",
+      "Borough": "Bronx",
+      "Region": "HighBridge and Morrisania",
+      "p_Type": "Suites",
+      "PricePerNight": 120.00,
+      "Rating": 4.2
+    },
+    {
+      "PlaceID": 60,
+      "p_Name": "The HighBridge Guesthouse",
+      "Address": "1225 Gerard Ave",
+      "Borough": "Bronx",
+      "Region": "HighBridge and Morrisania",
+      "p_Type": "Guest House",
+      "PricePerNight": 110.00,
+      "Rating": 4.0
+    },
+    {
+      "PlaceID": 61,
+      "p_Name": "Hunts Point Haven",
+      "Address": "895 Faile St",
+      "Borough": "Bronx",
+      "Region": "Hunts Point and Mott Haven",
+      "p_Type": "Inn",
+      "PricePerNight": 100.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 62,
+      "p_Name": "Mott Haven Boutique",
+      "Address": "349 E 140th St",
+      "Borough": "Bronx",
+      "Region": "Hunts Point and Mott Haven",
+      "p_Type": "Boutique Hotel",
+      "PricePerNight": 135.00,
+      "Rating": 4.7
+    },
+    {
+      "PlaceID": 63,
+      "p_Name": "Point Comfort B&B",
+      "Address": "500 Hunts Point Ave",
+      "Borough": "Bronx",
+      "Region": "Hunts Point and Mott Haven",
+      "p_Type": "B&B",
+      "PricePerNight": 95.00,
+      "Rating": 4.1
+    },
+    {
+      "PlaceID": 64,
+      "p_Name": "Astoria Grand Hotel",
+      "Address": "25-20 Astoria Blvd",
+      "Borough": "Queens",
+      "Region": "Long Island City and Astoria",
+      "p_Type": "Hotel",
+      "PricePerNight": 180.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 65,
+      "p_Name": "LIC Luxury Suites",
+      "Address": "10-01 50th Ave",
+      "Borough": "Queens",
+      "Region": "Long Island City and Astoria",
+      "p_Type": "Suites",
+      "PricePerNight": 220.00,
+      "Rating": 4.7
+    },
+    {
+      "PlaceID": 66,
+      "p_Name": "Astoria Comfort Inn",
+      "Address": "35-11 36th St",
+      "Borough": "Queens",
+      "Region": "Long Island City and Astoria",
+      "p_Type": "Inn",
+      "PricePerNight": 160.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 67,
+      "p_Name": "Corona Lodge",
+      "Address": "102-05 Ditmars Blvd",
+      "Borough": "Queens",
+      "Region": "West Queens",
+      "p_Type": "Lodge",
+      "PricePerNight": 140.00,
+      "Rating": 4.2
+    },
+    {
+      "PlaceID": 68,
+      "p_Name": "Jackson Heights Inn",
+      "Address": "78-14 37th Ave",
+      "Borough": "Queens",
+      "Region": "West Queens",
+      "p_Type": "Inn",
+      "PricePerNight": 120.00,
+      "Rating": 4.1
+    },
+    {
+      "PlaceID": 69,
+      "p_Name": "Elmhurst Hotel",
+      "Address": "86-25 Queens Blvd",
+      "Borough": "Queens",
+      "Region": "West Queens",
+      "p_Type": "Hotel",
+      "PricePerNight": 130.00,
+      "Rating": 4.4
+    },
+    {
+      "PlaceID": 70,
+      "p_Name": "Flushing Meadows Hotel",
+      "Address": "131-02 40th Rd",
+      "Borough": "Queens",
+      "Region": "North Queens",
+      "p_Type": "Hotel",
+      "PricePerNight": 175.00,
+      "Rating": 4.6
+    },
+    {
+      "PlaceID": 71,
+      "p_Name": "Bayside Luxury",
+      "Address": "214-07 Northern Blvd",
+      "Borough": "Queens",
+      "Region": "North Queens",
+      "p_Type": "Luxury",
+      "PricePerNight": 190.00,
+      "Rating": 4.8
+    },
+    {
+      "PlaceID": 72,
+      "p_Name": "College Point Motel",
+      "Address": "14-29 College Point Blvd",
+      "Borough": "Queens",
+      "Region": "North Queens",
+      "p_Type": "Motel",
+      "PricePerNight": 85.00,
+      "Rating": 3.9
+    },
+    {
+      "PlaceID": 73,
+      "p_Name": "Little Neck Stay",
+      "Address": "252-02 Northern Blvd",
+      "Borough": "Queens",
+      "Region": "Northeast Queens",
+      "p_Type": "B&B",
+      "PricePerNight": 110.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 74,
+      "p_Name": "Douglaston Manor",
+      "Address": "6325 Douglaston Pkwy",
+      "Borough": "Queens",
+      "Region": "Northeast Queens",
+      "p_Type": "Manor",
+      "PricePerNight": 210.00,
+      "Rating": 4.9
+    },
+    {
+      "PlaceID": 75,
+      "p_Name": "Whitestone Inn",
+      "Address": "149-45 6th Ave",
+      "Borough": "Queens",
+      "Region": "Northeast Queens",
+      "p_Type": "Inn",
+      "PricePerNight": 130.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 76,
+      "p_Name": "Forest Hills Retreat",
+      "Address": "68-60 Austin St",
+      "Borough": "Queens",
+      "Region": "West Central Queens",
+      "p_Type": "Retreat",
+      "PricePerNight": 145.00,
+      "Rating": 4.4
+    },
+    {
+      "PlaceID": 77,
+      "p_Name": "Regal Park Hotel",
+      "Address": "92-77 Queens Blvd",
+      "Borough": "Queens",
+      "Region": "West Central Queens",
+      "p_Type": "Hotel",
+      "PricePerNight": 160.00,
+      "Rating": 4.6
+    },
+    {
+      "PlaceID": 78,
+      "p_Name": "Ridgewood Residences",
+      "Address": "1678 Madison St",
+      "Borough": "Queens",
+      "Region": "West Central Queens",
+      "p_Type": "Residence",
+      "PricePerNight": 130.00,
+      "Rating": 4.1
+    },
+    {
+      "PlaceID": 79,
+      "p_Name": "Fresh Meadows Inn",
+      "Address": "188-15 Union Tpke",
+      "Borough": "Queens",
+      "Region": "Central Queens",
+      "p_Type": "Inn",
+      "PricePerNight": 100.00,
+      "Rating": 4.0
+    },
+    {
+      "PlaceID": 80,
+      "p_Name": "Hillcrest Suites",
+      "Address": "80-20 164th St",
+      "Borough": "Queens",
+      "Region": "Central Queens",
+      "p_Type": "Suites",
+      "PricePerNight": 135.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 81,
+      "p_Name": "Pomonok Hotel",
+      "Address": "67-44 Parsons Blvd",
+      "Borough": "Queens",
+      "Region": "Central Queens",
+      "p_Type": "Hotel",
+      "PricePerNight": 115.00,
+      "Rating": 4.2
+    },
+    {
+      "PlaceID": 82,
+      "p_Name": "Howard Beach Hotel",
+      "Address": "157-02 Cross Bay Blvd",
+      "Borough": "Queens",
+      "Region": "Southwest Queens",
+      "p_Type": "Hotel",
+      "PricePerNight": 150.00,
+      "Rating": 4.6
+    },
+    {
+      "PlaceID": 83,
+      "p_Name": "Ozone Park Inn",
+      "Address": "103-02 Rockaway Blvd",
+      "Borough": "Queens",
+      "Region": "Southwest Queens",
+      "p_Type": "Inn",
+      "PricePerNight": 95.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 84,
+      "p_Name": "Woodhaven Hostel",
+      "Address": "85-10 Jamaica Ave",
+      "Borough": "Queens",
+      "Region": "Southwest Queens",
+      "p_Type": "Hostel",
+      "PricePerNight": 65.00,
+      "Rating": 3.8
+    },
+    {
+      "PlaceID": 85,
+      "p_Name": "Jamaica Gateway Inn",
+      "Address": "153-95 Rockaway Blvd",
+      "Borough": "Queens",
+      "Region": "Jamaica",
+      "p_Type": "Inn",
+      "PricePerNight": 140.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 86,
+      "p_Name": "Queens County B&B",
+      "Address": "165-01 Archer Ave",
+      "Borough": "Queens",
+      "Region": "Jamaica",
+      "p_Type": "B&B",
+      "PricePerNight": 120.00,
+      "Rating": 4.7
+    },
+    {
+      "PlaceID": 87,
+      "p_Name": "Jamaica Luxury Suites",
+      "Address": "139-09 Archer Ave",
+      "Borough": "Queens",
+      "Region": "Jamaica",
+      "p_Type": "Suites",
+      "PricePerNight": 190.00,
+      "Rating": 4.9
+    },
+    {
+      "PlaceID": 88,
+      "p_Name": "Rosedale Retreat",
+      "Address": "243-24 130th Rd",
+      "Borough": "Queens",
+      "Region": "Southeast Queens",
+      "p_Type": "Retreat",
+      "PricePerNight": 110.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 89,
+      "p_Name": "Springfield Gardens Hotel",
+      "Address": "184-10 Jamaica Ave",
+      "Borough": "Queens",
+      "Region": "Southeast Queens",
+      "p_Type": "Hotel",
+      "PricePerNight": 130.00,
+      "Rating": 4.4
+    },
+    {
+      "PlaceID": 90,
+      "p_Name": "Laurelton Lodge",
+      "Address": "228-11 Merrick Blvd",
+      "Borough": "Queens",
+      "Region": "Southeast Queens",
+      "p_Type": "Lodge",
+      "PricePerNight": 85.00,
+      "Rating": 4.0
+    },
+    {
+      "PlaceID": 91,
+      "p_Name": "Rockaway Beachfront Hotel",
+      "Address": "108-10 Rockaway Beach Dr",
+      "Borough": "Queens",
+      "Region": "Rockaways",
+      "p_Type": "Hotel",
+      "PricePerNight": 175.00,
+      "Rating": 4.7
+    },
+    {
+      "PlaceID": 92,
+      "p_Name": "Seaside Inn",
+      "Address": "167 Beach 59th St",
+      "Borough": "Queens",
+      "Region": "Rockaways",
+      "p_Type": "Inn",
+      "PricePerNight": 95.00,
+      "Rating": 4.2
+    },
+    {
+      "PlaceID": 93,
+      "p_Name": "Belle Harbor B&B",
+      "Address": "420 Beach 129th St",
+      "Borough": "Queens",
+      "Region": "Rockaways",
+      "p_Type": "B&B",
+      "PricePerNight": 150.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 94,
+      "p_Name": "Greenpoint Lodge",
+      "Address": "220 Franklin St",
+      "Borough": "Brooklyn",
+      "Region": "Greenpoint",
+      "p_Type": "Lodge",
+      "PricePerNight": 120.00,
+      "Rating": 4.2
+    },
+    {
+      "PlaceID": 95,
+      "p_Name": "The Greenpoint Inn",
+      "Address": "176 Java St",
+      "Borough": "Brooklyn",
+      "Region": "Greenpoint",
+      "p_Type": "Inn",
+      "PricePerNight": 130.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 96,
+      "p_Name": "Greenpoint Hostel",
+      "Address": "99 Kent St",
+      "Borough": "Brooklyn",
+      "Region": "Greenpoint",
+      "p_Type": "Hostel",
+      "PricePerNight": 80.00,
+      "Rating": 3.9
+    },
+    {
+      "PlaceID": 97,
+      "p_Name": "Brooklyn Heights Hotel",
+      "Address": "121 Hicks St",
+      "Borough": "Brooklyn",
+      "Region": "Northwest Brooklyn",
+      "p_Type": "Hotel",
+      "PricePerNight": 150.00,
+      "Rating": 4.6
+    },
+    {
+      "PlaceID": 98,
+      "p_Name": "DUMBO Luxury Suites",
+      "Address": "85 Front St",
+      "Borough": "Brooklyn",
+      "Region": "Northwest Brooklyn",
+      "p_Type": "Suites",
+      "PricePerNight": 220.00,
+      "Rating": 4.8
+    },
+    {
+      "PlaceID": 99,
+      "p_Name": "Park Slope Bed & Breakfast",
+      "Address": "333 4th St",
+      "Borough": "Brooklyn",
+      "Region": "Northwest Brooklyn",
+      "p_Type": "B&B",
+      "PricePerNight": 110.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 100,
+      "p_Name": "Stuy Inn",
+      "Address": "45 Lewis Ave",
+      "Borough": "Brooklyn",
+      "Region": "Central Brooklyn",
+      "p_Type": "Inn",
+      "PricePerNight": 105.00,
+      "Rating": 4.1
+    },
+    {
+      "PlaceID": 101,
+      "p_Name": "Crown Heights Hotel",
+      "Address": "1234 St Johns Pl",
+      "Borough": "Brooklyn",
+      "Region": "Central Brooklyn",
+      "p_Type": "Hotel",
+      "PricePerNight": 140.00,
+      "Rating": 4.4
+    },
+    {
+      "PlaceID": 102,
+      "p_Name": "Bedford Lodge",
+      "Address": "789 Gates Ave",
+      "Borough": "Brooklyn",
+      "Region": "Central Brooklyn",
+      "p_Type": "Lodge",
+      "PricePerNight": 90.00,
+      "Rating": 3.8
+    },
+    {
+      "PlaceID": 103,
+      "p_Name": "East New York Suites",
+      "Address": "200 Linden Blvd",
+      "Borough": "Brooklyn",
+      "Region": "East New York and New Lots",
+      "p_Type": "Suites",
+      "PricePerNight": 85.00,
+      "Rating": 4.0
+    },
+    {
+      "PlaceID": 104,
+      "p_Name": "New Lots Inn",
+      "Address": "450 New Lots Ave",
+      "Borough": "Brooklyn",
+      "Region": "East New York and New Lots",
+      "p_Type": "Inn",
+      "PricePerNight": 70.00,
+      "Rating": 3.7
+    },
+    {
+      "PlaceID": 105,
+      "p_Name": "Broadway Guesthouse",
+      "Address": "367 Broadway",
+      "Borough": "Brooklyn",
+      "Region": "East New York and New Lots",
+      "p_Type": "Guest House",
+      "PricePerNight": 75.00,
+      "Rating": 4.2
+    },
+    {
+      "PlaceID": 106,
+      "p_Name": "Sunset Park Hotel",
+      "Address": "702 44th St",
+      "Borough": "Brooklyn",
+      "Region": "Sunset Park",
+      "p_Type": "Hotel",
+      "PricePerNight": 100.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 107,
+      "p_Name": "Park View Retreat",
+      "Address": "881 5th Ave",
+      "Borough": "Brooklyn",
+      "Region": "Sunset Park",
+      "p_Type": "Retreat",
+      "PricePerNight": 120.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 108,
+      "p_Name": "Sunset Hostel",
+      "Address": "184 42nd St",
+      "Borough": "Brooklyn",
+      "Region": "Sunset Park",
+      "p_Type": "Hostel",
+      "PricePerNight": 65.00,
+      "Rating": 3.8
+    },
+    {
+      "PlaceID": 109,
+      "p_Name": "Bay Ridge Inn",
+      "Address": "301 86th St",
+      "Borough": "Brooklyn",
+      "Region": "Southwest Brooklyn",
+      "p_Type": "Inn",
+      "PricePerNight": 140.00,
+      "Rating": 4.4
+    },
+    {
+      "PlaceID": 110,
+      "p_Name": "Dyker Heights Suites",
+      "Address": "850 13th Ave",
+      "Borough": "Brooklyn",
+      "Region": "Southwest Brooklyn",
+      "p_Type": "Suites",
+      "PricePerNight": 160.00,
+      "Rating": 4.6
+    },
+    {
+      "PlaceID": 111,
+      "p_Name": "Shore Parkway Hotel",
+      "Address": "1901 Shore Pkwy",
+      "Borough": "Brooklyn",
+      "Region": "Southwest Brooklyn",
+      "p_Type": "Hotel",
+      "PricePerNight": 120.00,
+      "Rating": 4.2
+    },
+    {
+      "PlaceID": 112,
+      "p_Name": "Borough Park B&B",
+      "Address": "1441 44th St",
+      "Borough": "Brooklyn",
+      "Region": "Borough Park",
+      "p_Type": "B&B",
+      "PricePerNight": 95.00,
+      "Rating": 4.0
+    },
+    {
+      "PlaceID": 113,
+      "p_Name": "Parkway Guesthouse",
+      "Address": "6201 Fort Hamilton Pkwy",
+      "Borough": "Brooklyn",
+      "Region": "Borough Park",
+      "p_Type": "Guest House",
+      "PricePerNight": 100.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 114,
+      "p_Name": "Maple Court Inn",
+      "Address": "3813 14th Ave",
+      "Borough": "Brooklyn",
+      "Region": "Borough Park",
+      "p_Type": "Inn",
+      "PricePerNight": 110.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 115,
+      "p_Name": "Canarsie Comfort Inn",
+      "Address": "9412 Ave L",
+      "Borough": "Brooklyn",
+      "Region": "Canarsie and Flatlands",
+      "p_Type": "Inn",
+      "PricePerNight": 90.00,
+      "Rating": 4.1
+    },
+    {
+      "PlaceID": 116,
+      "p_Name": "Flatlands Hotel",
+      "Address": "7603 Flatlands Ave",
+      "Borough": "Brooklyn",
+      "Region": "Canarsie and Flatlands",
+      "p_Type": "Hotel",
+      "PricePerNight": 130.00,
+      "Rating": 4.4
+    },
+    {
+      "PlaceID": 117,
+      "p_Name": "Brooklyn Marina Suites",
+      "Address": "12720 Flatlands Ave",
+      "Borough": "Brooklyn",
+      "Region": "Canarsie and Flatlands",
+      "p_Type": "Suites",
+      "PricePerNight": 150.00,
+      "Rating": 4.6
+    },
+    {
+      "PlaceID": 118,
+      "p_Name": "Brighton Beach Resort",
+      "Address": "318 Brighton Beach Ave",
+      "Borough": "Brooklyn",
+      "Region": "Southern Brooklyn",
+      "p_Type": "Resort",
+      "PricePerNight": 200.00,
+      "Rating": 4.7
+    },
+    {
+      "PlaceID": 119,
+      "p_Name": "Coney Island Getaway",
+      "Address": "501 Surf Ave",
+      "Borough": "Brooklyn",
+      "Region": "Southern Brooklyn",
+      "p_Type": "Getaway",
+      "PricePerNight": 175.00,
+      "Rating": 4.5
+    },
+    {
+      "PlaceID": 120,
+      "p_Name": "Sheepshead Bay Inn",
+      "Address": "2670 E 19th St",
+      "Borough": "Brooklyn",
+      "Region": "Southern Brooklyn",
+      "p_Type": "Inn",
+      "PricePerNight": 145.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 121,
+      "p_Name": "Flatbush Lodgings",
+      "Address": "25 Martense St",
+      "Borough": "Brooklyn",
+      "Region": "Flatbush",
+      "p_Type": "Lodgings",
+      "PricePerNight": 90.00,
+      "Rating": 4.2
+    },
+    {
+      "PlaceID": 122,
+      "p_Name": "The Flatbush Suite",
+      "Address": "1590 Nostrand Ave",
+      "Borough": "Brooklyn",
+      "Region": "Flatbush",
+      "p_Type": "Suite",
+      "PricePerNight": 150.00,
+      "Rating": 4.6
+    },
+    {
+      "PlaceID": 123,
+      "p_Name": "Victorian B&B",
+      "Address": "751 Ocean Ave",
+      "Borough": "Brooklyn",
+      "Region": "Flatbush",
+      "p_Type": "B&B",
+      "PricePerNight": 130.00,
+      "Rating": 4.8
+    },
+    {
+      "PlaceID": 124,
+      "p_Name": "Williamsburg Boutique",
+      "Address": "190 N 5th St",
+      "Borough": "Brooklyn",
+      "Region": "Bushwick and Williamsburg",
+      "p_Type": "Boutique Hotel",
+      "PricePerNight": 210.00,
+      "Rating": 4.9
+    },
+    {
+      "PlaceID": 125,
+      "p_Name": "Bushwick Cozy Inn",
+      "Address": "330 Starr St",
+      "Borough": "Brooklyn",
+      "Region": "Bushwick and Williamsburg",
+      "p_Type": "Inn",
+      "PricePerNight": 100.00,
+      "Rating": 4.3
+    },
+    {
+      "PlaceID": 126,
+      "p_Name": "Williamsburg Loft",
+      "Address": "422 Wythe Ave",
+      "Borough": "Brooklyn",
+      "Region": "Bushwick and Williamsburg",
+      "p_Type": "Loft",
+      "PricePerNight": 185.00,
+      "Rating": 4.7
+    } 
+  ]
+}

@@ -1,0 +1,483 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url('home/nycBG.jpg') no-repeat top center / cover;
+}
+
+
+#logo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 80px; /* Adjust to match the desired size of your logo */
+    z-index: 1001;
+}
+
+
+nav {
+  background: transparent; /* No background for the nav element */
+  position: fixed;
+  top: 0;
+  right: 0; /* Align to the right */
+  width: auto; /* Only as wide as it needs to be */
+  z-index: 1000;
+  padding: 10px 20px; /* Add some padding */
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 20px; /* Space between menu items */
+  justify-content: flex-end; /* Aligns menu items to the right */
+}
+
+
+a {
+  text-decoration: none;
+  color: black; 
+}
+
+.container {
+    background-image: url('queenspictures/queensBG.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+}
+
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0; /* Resets default margin */
+    padding: 0; /* Resets default padding */
+}
+
+nav li {
+    margin-left: 20px; /* Space between menu items */
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px; /* Space around the links */
+    line-height: 80px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ccc; /* Lighter shade for hover effect */
+}
+
+/* Logo styling */
+.logo {
+    height: 80px; /* Set the height for your logo */
+    cursor: pointer;
+}
+
+
+.menu a, .dropbtn {
+    text-decoration: none;
+    color: white; /* Adjust as needed */
+    font-size: 1.2em;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.menu a:hover {
+    color: #ccc; /* Lighter shade for hover effect */
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    top: 100%; /* Dropdown appears directly below the nav item */
+    background-color: rgb(166, 160, 160, 0.5); /* Ensure dropdown is transparent */
+    min-width: 160px;
+    box-shadow: none; /* Remove any box shadow if not needed */
+    z-index: 1;
+}
+
+.dropdown-content a {
+  color: white; /* Text color */
+  padding: 22px 26px; /* Reduced padding */
+  text-decoration: none;
+  display: block;
+  font-size: 16px; /* Slightly smaller font size */
+  transition: background-color 0.3s ease; 
+  font-weight: 36px;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* 3D Text Style */
+.hero-content h1 {
+  color: white;
+  font-size: 4rem; /* Adjust the size as necessary */
+  font-weight: bold;
+  text-shadow:
+    1px 1px 0 #777,   /* Dark grey shadow for depth */
+    2px 2px 0 #777,
+    3px 3px 0 #777,
+    4px 4px 0 #777,
+    5px 5px 0 #777,
+    6px 6px 0 #777; /* More layers for a deeper 3D effect */
+}
+
+#hero h1,
+#hero p {
+  transition: opacity 0.5s ease-out;
+}
+
+.hero-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out; /* Smooth transition for fade and move */
+  text-align: center;
+}
+
+
+.hero-content p {
+  color: white;
+  font-size: 2rem; /* Adjust the size as necessary */
+  font-weight: bold;
+  text-shadow:
+    1px 1px 0 #777,   /* Dark grey shadow for depth */
+    2px 2px 0 #777,
+    3px 3px 0 #777; /* Fewer layers for a shallower 3D effect */
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+.restaurants-section h2 {
+    font-family: 'Dancing Script', cursive; /* This is a Google font that looks cursive */
+    color: #f55a5a;  /* Change color as needed */
+    font-size: 3rem; /* Adjust the size as you like */
+    text-align: center; /* Center the title */
+    text-shadow: 
+      1px 1px 0 #e2e2e2,
+      2px 2px 0 #c5c5c5,
+      3px 3px 0 #a8a8a8,
+      4px 4px 0 #8b8b8b,
+      5px 5px 0 #6e6e6e,
+      6px 6px 5px rgba(0,0,0,0.1), /* This creates a soft shadow edge */
+      6px 6px 1px rgba(0,0,0,0.5), /* This creates the 3D effect */
+      0 0 5px rgba(0,0,0,0.1), /* This adds a glow */
+      0 0 10px rgba(0,0,0,0.2),
+      0 0 15px rgba(0,0,0,0.3),
+      0 0 20px rgba(0,0,0,0.4),
+      0 0 25px rgba(0,0,0,0.5);
+}
+
+.restaurants-section {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.restaurant-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* 5 boxes in a row */
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.restaurant {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.restaurant-img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.restaurant-name {
+  font-size: 1.5rem;
+  color: #333;
+  margin: 0.5rem 0;
+}
+
+.restaurant-type {
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.restaurant-rating {
+  font-size: 1.5rem;
+  color: #ffc107; /* Golden color for stars */
+}
+
+.star {
+  color: #ffc107; /* Star color */
+  margin: 0 0.1rem;
+}
+
+/* Star rating hover effect */
+.star:hover {
+  transform: scale(1.2); /* Enlarge stars */
+  transition: transform 0.2s;
+}
+
+.restaurant {
+  transition: transform 0.3s ease-in-out; 
+}
+
+.restaurant:hover {
+  transform: scale(1.1); /* Increase the scale to 110% when hovered */
+}
+
+.restaurant a {
+    text-decoration: none; /* This removes the underline */
+    color: inherit; 
+}
+
+.restaurant a:hover {
+    text-decoration: underline; /* Only underline on hover, if desired */
+}
+
+.events-title {
+  font-size: 3rem; /* Size of the text */
+  color: #ffffff; /* White text */
+  text-shadow: 
+    1px 1px 0 #8c8c8c, 
+    2px 2px 0 #787878,
+    3px 3px 0 #5c5c5c, 
+    4px 4px 0 #454545, 
+    5px 5px 0 #2e2e2e, 
+    6px 6px 0 #212121, 
+    7px 7px 0 #0f0f0f; /* Layered shadows for 3D effect */
+  font-weight: bold;
+  margin-bottom: 1em; /* Space below the title */
+  -webkit-text-stroke: 1px black; /* For WebKit browsers */
+}
+
+.event-subtitle {
+    font-size: 1.5em; /* Smaller than the main title */
+    color: #fff;
+    text-align: center;
+    text-shadow: 1px 1px 0 #777, 2px 2px 0 #777; /* Subtle 3D effect */
+    margin-top: 10px; 
+    font-weight: bold;
+    margin-bottom: 2em; 
+    -webkit-text-stroke: 1px black; 
+}
+
+.event-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.event a{
+  text-decoration: none;
+}
+
+.event {
+  width: 300px; /* Example width, adjust as needed */
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow for depth */
+  padding: 1em;
+  margin: 1em;
+  text-align: center; /* Center content */
+  background-color: #f9f9f9;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.event:hover {
+  transform: scale(1.1); /* Increase size on hover */
+}
+
+#events {
+  text-align: center;
+}
+
+.event-img {
+  width: 100%; /* Adjust width as needed */
+  height: auto; /* Adjust height as needed */
+  margin-bottom: 1em; /* Space between image and text */
+}
+
+.event-box {
+    padding: 20px; /* Adds space inside the box */
+}
+
+.event-box img {
+    width: 100%; /* Adjusts the width of the image to fit the box */
+    margin-bottom: 15px; /* Adds space below the image */
+}
+
+
+.event-description {
+    padding-top: 10px;
+    font-size: 1em; /* Adjust the font size as needed */
+    margin-bottom: 10px; /* Adds space below the description */
+}
+
+.event-date {
+    font-size: 0.85em; /* Adjust the font size as needed */
+    color: #555; /* Adjust the color as needed */
+    margin-bottom: 15px; /* Adds space below the date */
+    padding-top: 10px;
+}
+
+.places-title {
+  font-size: 3rem; /* Size of the text */
+  color: #ffffff; /* White text */
+  text-shadow: 1px 1px 0 #8c8c8c, 2px 2px 0 #787878, 3px 3px 0 #5c5c5c, 4px 4px 0 #454545, 5px 5px 0 #2e2e2e, 6px 6px 0 #212121, 7px 7px 0 #0f0f0f; /* Layered shadows for 3D effect */
+  font-weight: bold;
+  margin-bottom: 1em; /* Space below the title */
+  -webkit-text-stroke: 1px black; /* For WebKit browsers */
+  text-align: center; /* Text center aligned */
+  margin-top: 1em; 
+}
+
+.places-container {
+  display: flex;
+  justify-content: center; /* Centers the items in the container */
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 1em; /* You can adjust the gap if needed */
+}
+
+.place {
+  width: 300px; 
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 1em;
+  margin: 0.5em; /* Reducing the margin to fit four items */
+  text-align: center;
+  background-color: #f9f9f9;
+  transition: transform 0.2s;
+}
+
+.place:hover {
+  transform: scale(1.05); /* You can adjust the scale if needed */
+}
+
+.place-img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 1em;
+}
+
+.place-box {
+    padding: 20px; /* Adds space inside the box */
+}
+
+.place-box img {
+    width: 100%; /* Adjusts the width of the image to fit the box */
+    margin-bottom: 15px; /* Adds space below the image */
+}
+
+.place-description {
+    padding-top: 10px;
+    font-size: 1em; /* Adjust the font size as needed */
+    margin-bottom: 10px; /* Adds space below the description */
+}
+
+.section-title {
+  font-size: 3rem;
+  color: #ffffff;
+  text-shadow: 1px 1px 0 #8c8c8c, 2px 2px 0 #787878, 3px 3px 0 #5c5c5c, 4px 4px 0 #454545, 5px 5px 0 #2e2e2e, 6px 6px 0 #212121, 7px 7px 0 #0f0f0f;
+  font-weight: bold;
+  margin-bottom: 1em;
+  -webkit-text-stroke: 1px black;
+  text-align: center;
+  margin-top: 1em;
+}
+
+.hotels-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 1em;
+}
+
+.hotel {
+  flex: 1;
+  max-width: calc(25% - 1em);
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 1em;
+  margin: 0.5em;
+  text-align: center;
+  background-color: #f9f9f9;
+  transition: transform 0.2s;
+}
+
+.hotel:hover {
+  transform: scale(1.05);
+}
+
+.hotel-img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 1em;
+}
+
+.hotel-box {
+  padding: 20px;
+}
+
+.hotel-box img {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.hotel-description {
+  padding-top: 10px;
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+
+#try-me-section {
+  text-align: center; 
+  margin: 2em 0; 
+}
+
+.try-me-button {
+  display: inline-block; /* Needed for proper width and centering */
+  padding: 10px 20px; /* Size of the button */
+  font-size: 1.5em; /* Size of the text */
+  color: #ffffff; /* Text color */
+  background-color: #007bff; /* Background color */
+  text-decoration: none; /* Remove underline from link */
+  border: none; /* No border */
+  border-radius: 5px; /* Rounded corners for aesthetics */
+  transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.try-me-button:hover {
+  background-color: #0056b3; /* Darker shade on hover */
+}
